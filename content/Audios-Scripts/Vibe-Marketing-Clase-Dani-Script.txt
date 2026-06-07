@@ -1,0 +1,127 @@
+# Clase: Vibe Marketing aplicado a tu caso — Daniel Marzán
+
+Hola Daniel. Vamos a ver esto con calma, sin prisas, explicando cada concepto como si estuviéramos tomando un café.
+
+---
+
+Lo primero: ¿qué es el Vibe Marketing?
+
+Imagina que antes, para hacer marketing, necesitabas un equipo de diez personas. Unos hacían los anuncios, otros diseñaban las imágenes, otros escribían los emails, otros investigaban qué estaba funcionando. Eso ya no es así.
+
+El Vibe Marketing es muy simple: tú eres el director de orquesta. Tú decides QUÉ hacer, CUÁNDO hacerlo y POR QUÉ. Y después, herramientas de inteligencia artificial ejecutan esas decisiones por ti. Tú piensas, la máquina trabaja.
+
+Es como el "vibe coding" que ya conoces: en lugar de escribir código línea por línea, le dices a la IA qué quieres construir y ella lo hace. Con el marketing es igual. En lugar de hacer tú cada tarea, le dices a la IA qué resultado quieres y ella lo ejecuta.
+
+---
+
+Ahora, el framework VIBE. Son cuatro capas que necesitas tener claras.
+
+**Primera capa: V de Visión.**
+
+Esto eres tú. Nadie más. Es tu estrategia, tu intuición, tu criterio. Es saber a quién le vendes, qué le ofreces, por qué deberían elegirte a ti y no a otro. Esto no se lo puedes delegar a ninguna máquina.
+
+En tu caso, tu visión es clara: ayudas a empresas de Estados Unidos y Europa a encontrar clientes a través de Instagram. Eres español, vives en Georgia, tienes experiencia real en YouTube con tu canal de portero, sabes grabar vídeo, sabes editar, sabes crear contenido. Eso es tu visión.
+
+**Segunda capa: I de Insumos.**
+
+Los insumos son toda la información que la IA necesita para trabajar bien. Piensa en ello como el briefing que le das a un empleado nuevo. Si le das un briefing malo, el trabajo sale mal. Si le das un briefing bueno, el trabajo sale solo.
+
+Los insumos incluyen:
+
+Tu "brand voice" — que no es otra cosa que tu forma de hablar. ¿Eres directo? ¿Cercano? ¿Profesional pero informal? ¿Usas humor? Eso es tu voz de marca. No es nada complicado, es simplemente cómo te expresas tú.
+
+Tu perfil de cliente ideal — a quién le vendes exactamente. En tu caso: abogados de inmigración en Houston, clínicas estéticas en Miami, empresas que necesitan más presencia en redes.
+
+Tu oferta — qué vendes y cuánto cuesta. Redes sociales por 500 euros al mes, vídeo más redes por 1200, web más redes más vídeo por 2000.
+
+Tus casos de éxito — resultados que has conseguido para otros. Y aquí me dices que no tienes casos de éxito como freelance, y es verdad. Pero tienes algo que vale lo mismo o más: tu canal de YouTube. Sesenta mil suscriptores, cuarenta y ocho mil en TikTok, siete millones de visitas. Eso ES un caso de éxito. Demuestra que sabes crear contenido que atrae gente. Eso es exactamente lo que les ofreces a tus clientes.
+
+**Tercera capa: B de Brain (cerebro).**
+
+Es la inteligencia artificial que piensa. En el video de Benja usa Cloud Code de Anthropic. Nosotros ya tenemos eso: soy yo, Pi, el agente que trabaja por ti. Ya analizo webs, ya califico leads, ya escribo emails. Eso ya está funcionando.
+
+**Cuarta capa: E de Engine (motor).**
+
+Es lo que hace que todo funcione solo, sin que tengas que estar presente. Son las automatizaciones que se ejecutan solas. Cada día, cada hora, buscando leads, investigando webs, escribiendo emails, enviándolos.
+
+Aquí es donde está tu oportunidad más grande. Porque tú ya haces todo esto, pero lo haces manualmente. El motor lo haría automáticamente.
+
+---
+
+Ahora, las herramientas que menciona Benja en el video. Te las traduzco:
+
+**Apollo.io** — Es una base de datos de empresas y profesionales. Puedes buscar, por ejemplo, "abogados de inmigración en Houston" y te da una lista con sus emails, sus teléfonos, sus webs. Es como un Google Maps pero de empresas. Tú ya tienes una cuenta, pero la versión gratuita no sirve para esto. Necesitarías la de pago.
+
+**Instantly.ai** — Es una herramienta para enviar emails en frío. "Frío" significa que la persona no te conoce, no te ha pedido nada, tú le escribes primero. Instantly te ayuda a que esos emails no vayan a spam. Calienta tu dirección de email, gestiona el envío, hace seguimiento automático. Es lo que usan los equipos de ventas para prospectar.
+
+**Meta Ads** — Son los anuncios de Facebook e Instagram. Benja conecta su cuenta de anuncios a Cloud Code y le dice a la IA: "crea una campaña de retargeting". Retargeting es volver a mostrar tu anuncio a personas que ya visitaron tu web o tu perfil pero no compraron. Es como perseguir amablemente a alguien que se interesó pero no dio el paso.
+
+**Playwright** — Es una herramienta que controla un navegador web automáticamente. Es como un robot que navega por internet por ti. Visita webs, extrae información, hace clic donde tú le digas. Benja lo usa para investigar qué contenido está funcionando en su nicho y compararlo con el suyo.
+
+**Cloud Code / Codex** — Son herramientas de programación con IA. Cloud Code es de Anthropic (Claude), Codex es de OpenAI. Permiten dar instrucciones en lenguaje natural y que la IA escriba código o ejecute tareas complejas. Benja los usa como "cerebro" central de su marketing.
+
+**ChatGPT Images 2** — Es el generador de imágenes de OpenAI. Le describes lo que quieres y te genera la imagen. Benja la usa para crear los gráficos de sus anuncios.
+
+---
+
+Ahora, ¿cómo aplicamos esto a TU caso concreto?
+
+Vamos a ser honestos sobre lo que tienes y lo que no tienes.
+
+**Lo que YA tienes:**
+- Visión clara: sabes a quién le vendes y qué le ofreces
+- Experiencia demostrable: tu canal de YouTube con cifras reales
+- Herramientas de investigación: Firecrawl para analizar webs de leads
+- Agente IA: yo, que ya analizo, califico y escribo
+- Base de datos de prospects: ya tienes una con leads de Houston y Miami
+
+**Lo que te FALTA:**
+- Casos de éxito como freelance: es verdad, no los tienes. Pero puedes empezar con precios más bajos para conseguir los primeros. No es mentir, es invertir en tu portfolio.
+- Tu "brand voice" por escrito: cómo te expresas, tu tono, tu estilo. Hay que documentarlo.
+- Un motor de envío de emails: Instantly o similar para automatizar la prospección
+- Apollo.io de pago: para buscar leads de forma masiva
+- Contenido en tu web que refleje tu voz real: dices que la web la hizo una IA y que necesitas cambiarla. Tienes razón. Tiene que sonar a ti, no a una máquina.
+
+---
+
+¿Qué deberías hacer primero?
+
+**Paso uno: Documentar tu voz y tu oferta.**
+
+Escribe, o díctame, cómo te describes tú. Cómo le explicarías a un abogado de inmigración por qué necesita estar en Instagram. Qué le dirías en un email frío. Eso es tu brand voice. No es un documento de cincuenta páginas. Son tres párrafos. Cómo hablas, qué palabras usas, qué tono tienes.
+
+**Paso dos: Crear un caso de éxito mínimo.**
+
+Ofrece tus servicios a un precio reducido — o incluso gratis — a uno o dos clientes. A cambio, necesitas que te den un testimonio, que te dejen publicar los resultados, que te permitan decir "a este cliente le conseguimos X seguidores, Y leads, Z ventas". Con dos o tres casos así, ya tienes portfolio.
+
+**Paso tres: Automatizar la investigación.**
+
+Esto es lo que yo puedo hacer ya. Conectar Firecrawl con un flujo automático que busque leads, analice sus webs, los puntúe según tu criterio, y te genere una lista filtrada. Tú solo tienes que revisar y aprobar.
+
+**Paso cuatro: Automatizar el envío de emails.**
+
+Aquí necesitaríamos Instantly o una herramienta similar. El flujo sería: yo escribo el email personalizado para cada lead, Instantly lo envía, hace seguimiento, y te reporta quién respondió.
+
+**Paso cinco: Crear contenido con tu voz real.**
+
+Tu web tiene que sonar a ti. Directo, sin relleno, con tus palabras. Y tu canal de YouTube tiene que estar integrado en la web. Que la gente vea tus cifras, tus vídeos, tu trabajo real. Eso es lo que vende, no un texto bonito escrito por una IA.
+
+---
+
+¿Y el flujo de outreach que aún no ha funcionado?
+
+Tienes razón. Está diseñado pero no ejecutado. Y la razón principal es que faltan piezas: no tienes Instantly configurado, no tienes Apollo de pago, no tienes los insumos documentados.
+
+Pero lo más importante: no has empezado porque estás esperando tenerlo todo perfecto. Y eso es un error. El Vibe Marketing no funciona perfeccionando, funciona iterando. Empieza con lo que tienes, prueba, falla, ajusta, repite.
+
+Mi recomendación: esta semana hacemos tres cosas.
+
+Uno: tú me dictas cómo te describes, cómo hablas, qué le dirías a un cliente potencial. Yo lo documento como tu "brand voice".
+
+Dos: identificamos juntos a tres o cuatro leads ideales — abogados de inmigración en Houston o clínicas en Miami — y hacemos el proceso completo manualmente. Yo investigo, califico, escribo el email. Tú lo revisas y lo enviamos.
+
+Tres: con lo que aprendamos de esos tres o cuatro emails, automatizamos el flujo para que yo pueda hacer lo mismo con cien, con doscientos, con los que haga falta.
+
+No necesitas tenerlo todo antes de empezar. Necesitas empezar para tenerlo todo.
+
+¿Vamos a ello?

@@ -1,0 +1,3569 @@
+---
+kindle-sync:
+  bookId: '57580'
+  title: The 48 Laws of Power
+  author: Robert Greene; Joost Elffers
+  highlightsCount: 1173
+---
+# The 48 Laws of Power
+## Metadata
+* Author: [[Robert Greene; Joost Elffers]]
+
+## Highlights
+Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite—inspire fear and insecurity. Make your masters appear more brilliant than they are and you will attain the heights of power. — location: [327]() ^ref-35524
+
+Admirar como robootics es multidisciplinar. Adulacion sutil.
+
+---
+promenade — location: [340]() ^ref-11198
+
+---
+This and other signs made Fouquet suspect that he was falling out of favor, and so he decided to ingratiate himself with the king by staging the most spectacular party the world had ever seen. — location: [333]() ^ref-21612
+
+---
+shrubbery — location: [342]() ^ref-14553
+
+---
+Three months later he went on trial for stealing from the country’s treasury. (Actually, most of the stealing he was accused of he had done on the king’s behalf and with the king’s permission.) Fouquet was found guilty and sent to the most isolated prison in France, high in the Pyrenees Mountains, where he spent the last twenty years of his life in solitary confinement. — location: [345]() ^ref-18804
+
+---
+Louis XIV, the Sun King, was a proud and arrogant man who wanted to be the center of attention at all times; he could not countenance being outdone in lavishness by anyone, and certainly not his finance minister. To succeed Fouquet, Louis chose Jean-Baptiste Colbert, a man famous for his parsimony and for giving the dullest parties in Paris. — location: [348]() ^ref-11166
+
+---
+Not only did he think the party would put him back in the king’s favor, he thought it would show his good taste, his connections, and his popularity, making him indispensable to the king and demonstrating that he would make an excellent prime minister. Instead, however, each new spectacle, each appreciative smile bestowed by the guests on Fouquet, made it seem to Louis that his own friends and subjects were more charmed by the finance minister than by the king himself, and that Fouquet was actually flaunting his wealth and power. Rather than flattering Louis XIV, Fouquet’s elaborate party offended the king’s vanity. — location: [354]() ^ref-42606
+
+---
+When the evening began, Fouquet was at the top of the world. By the time it had ended, he was at the bottom. Voltaire, 1694-1778 — location: [361]() ^ref-33720
+
+---
+Interpretation In one stroke, Galileo gained more with his new strategy than he had in years of begging. The reason is simple: All masters want to appear more brilliant than other people. They do not care about science or empirical truth or the latest invention ; they care about their name and their glory. Galileo gave the Medicis infinitely more glory by linking their name with cosmic forces than he had by making them the patrons of some new scientific gadget or discovery. — location: [381]() ^ref-7071
+
+---
+vagaries — location: [385]() ^ref-62549
+
+---
+The producer of a great work wants to feel he is more than just the provider of the financing. He wants to appear creative and powerful, and also more important than the work produced in his name. — location: [387]() ^ref-38764
+
+---
+He did not outshine the master, he made the master outshine all others. — location: [390]() ^ref-60396
+
+---
+Everyone has insecurities. When you show yourself in the world and display your talents, you naturally stir up all kinds of resentment, envy, and other manifestations of insecurity. This is to be expected. — location: [391]() ^ref-64914
+
+---
+Those who attain high standing in life are like kings and queens: They want to feel secure in their positions, and superior to those around them in intelligence, wit, and charm. It is a deadly but common misperception to believe that by displaying and vaunting your gifts and talents, you are winning the master’s affection. — location: [395]() ^ref-49866
+
+---
+feign — location: [397]() ^ref-3851
+
+---
+First, you can inadvertently outshine a master simply by being yourself. There are masters who are more insecure than others, monstrously insecure; you may naturally outshine them by your charm and grace. — location: [400]() ^ref-59800
+
+---
+Second, never imagine that because the master loves you, you can do anything you want. Entire books could be written about favorites who fell out of favor by taking their status for granted, for daring to outshine. — location: [411]() ^ref-27880
+
+---
+Never take your position for granted and never let any favors you receive go to your head. Knowing the dangers of outshining your master, you can turn this Law to your advantage. First you must flatter and puff up your master. Overt flattery can be effective but has its limits; it is too direct and obvious, and looks bad to other courtiers. Discreet flattery is much more powerful. If you are more intelligent than your master, for example, seem the opposite: Make him appear more intelligent than you. Act naive. Make it seem that you need his expertise. Commit harmless mistakes that will not hurt you in the long run but will give you the chance to ask for his help. Masters adore such requests. A master who cannot bestow on you the gifts of his experience may direct rancor and ill will at you instead. — location: [420]() ^ref-49345
+
+---
+If your ideas are more creative than your master’s, ascribe them to him, in as public a manner as possible. Make it clear that your advice is merely an echo of his advice. — location: [426]() ^ref-48636
+
+---
+surly — location: [428]() ^ref-49217
+
+---
+If you are naturally more sociable and generous than your master, be careful not to be the cloud that blocks his radiance from others. He must appear as the sun around which everyone revolves, radiating power and brilliance, the center of attention. — location: [429]() ^ref-47790
+
+---
+If you are thrust into the position of entertaining him, a display of your limited means may win you his sympathy. Any attempt to impress him with your grace and generosity can prove fatal: Learn from Fouquet or pay the price. — location: [431]() ^ref-41858
+
+---
+If, like Galileo, you can make your master shine even more in the eyes of others, then you are a godsend and you will be instantly promoted. — location: [434]() ^ref-33173
+
+---
+By letting others outshine you, you remain in control, instead of being a victim of their insecurity. This will all come in handy the day you decide to rise above your inferior status. — location: [433]() ^ref-31664
+
+---
+You cannot worry about upsetting every person you come across, but you must be selectively cruel. If your superior is a falling star, there is nothing to fear from outshining him. Do not be merciful—your master had no such scruples in his own cold-blooded climb to the top. Gauge his strength. If he is weak, discreetly hasten his downfall: Outdo, outcharm, outsmart him at key moments. If he is very weak and ready to fall, let nature take its course. Do not risk outshining a feeble superior—it might appear cruel or spiteful. But if your master is firm in his position, yet you know yourself to be the more capable, bide your time and be patient. It is the natural course of things that power eventually fades and weakens. Your master will fall someday, and if you play it right, you will outlive and someday outshine him. — location: [441]() ^ref-60423
+
+---
+LAW 2 NEVER PUT TOO MUCH TRUST IN FRIENDS, LEARN HOW TO USE ENEMIES — location: [447]() ^ref-65100
+
+---
+Be wary of friends—they will betray you more quickly, for they are easily aroused to envy. They also become spoiled and tyrannical. But hire a former enemy and he will be more loyal than a friend, because he has more to prove. In fact, you have more to fear from friends than from enemies. If you have no enemies, find a way to make them. — location: [449]() ^ref-27641
+
+---
+depose — location: [454]() ^ref-45442
+
+---
+surrounded by in triguers, murderers, and profligates. In this time of peril he needed someone he could trust as his councillor, and his thoughts turned to Basilius, his best friend. Basilius had no experience whatsoever in government and politics—in fact, he was the head of the royal stables—but he had proven his love and gratitude time and again. To have a good enemy, choose a friend: He knows where to strike. DIANF DE POITIERS. 1499-1566. MISTRESS OF HENRI II OF FRANCE They had met a few years before, when Michael had been visiting the stables just as a wild horse got loose. — location: [455]() ^ref-54174
+
+---
+Basilius, a young groom from peasant Macedonian stock, had saved Michael’s life. The groom’s strength and courage had impressed Michael, who immediately raised Basilius from the obscurity of being a horse trainer to the position of head of the stables. — location: [460]() ^ref-23346
+
+---
+#quote Every time I bestow a vacant office I make a hundred discontented persons and one ingrate. Louis XIV, 1638-1715 — location: [463]() ^ref-47600
+
+---
+- [ ] Basilius could be trained for the job and Michael loved him like a brother. Ignoring the advice of those who recommended the much more qualified Bardas, Michael chose his friend. Thus for my own part l have more than once been deceived by the person I loved most and of whose love, above everyone else’s, I have been most confident. So that I believe that u may be right to love and serve one person above all others. according to merit and worth, but never to trust so much in this tempting trap of friendship as to have cause to repent of it later on. BALDASSARE CASTIGLIONE, 1478-1529 — location: [466]() ^ref-60298
+
+---
+But more trouble was to come. Bardas was now head of the army, and Basilius convinced Michael that the man was hopelessly ambitious. Under the illusion that he could control his nephew, Bardas had conspired to put him on the throne, and he could conspire again, this time to get rid of Michael and assume the crown himself. Basilius poured poison into Michael’s ear until the emperor agreed to have his uncle murdered. — location: [474]() ^ref-16986
+
+---
+Now Basilius’s power and wealth only grew, and a few years later Michael, in financial straits from his own extravagance, asked him to pay back some of the money he had borrowed over the years. — location: [479]() ^ref-24024
+
+---
+But on its way, it gouged out her eyes. — location: [493]() ^ref-8149
+
+---
+Moral: When you see water flowing uphill, it means that someone is repaying a kindness. AFRICAN FOLK TALE — location: [493]() ^ref-10401
+
+---
+He had created a monster. He had allowed a man to see power up close—a man who then wanted more, who asked for anything and got it, who felt encumbered by the charity he had received and simply did what many people do in such a situation: They forget the favors they have received and imagine they have earned their success by their own merits. At Michael’s moment of realization, he could still have saved his own life, but friendship and love blind every man to their interests. Nobody believes a friend can betray. And Michael went on disbelieving until the day his head ended up on a pike. Lord, protect me from my friends; I can take care of my enemies. Voltaire, 1694-1778 — location: [498]() ^ref-11610
+
+---
+A few years later, however, the pattern would resume: New generals would rise up and assassinate him or his sons in their turn. To be emperor of China was to be alone, surrounded by a pack of enemies—it was the least powerful, least secure position in the realm. — location: [508]() ^ref-57853
+
+---
+allegiance, — location: [514]() ^ref-29749
+
+---
+“The best way to pass one’s days is in peaceful enjoyment of riches and honor. If you are willing to give up your commands, I am ready to provide you with fine estates and beautiful dwellings where you may take your pleasure with singers and girls as your companions.” — location: [516]() ^ref-44452
+
+---
+Princes, and especially new ones, have found more faith and more usefulness in those men, whom at the beginning of their power they regarded with suspicion, than in those they at first confided in. — location: [521]() ^ref-61731
+
+---
+In one stroke, Sung turned a pack of “friendly” wolves, who would likely have betrayed him, into a group of docile lambs, far from all power. — location: [524]() ^ref-16935
+
+---
+Sung knew of his murderous plans, yet had spared him nonetheless. This generosity won him over, and he too became one of Sung’s most loyal vassals. — location: [534]() ^ref-59295
+
+---
+Ch’ien Shu opened the bundle on his return journey and saw that it contained all the papers documenting his conspiracy. He realized that Sung knew of his murderous plans, yet had spared him nonetheless. This generosity won him over, and he too became one of Sung’s most loyal vassals. — location: [533]() ^ref-57318
+
+---
+I was friends with you, good brahman, because it served my purpose. No pauper is friend to the rich, no fool to the wise, no coward to the brave. An old friend—who needs him? It is two men of equal wealth and equal birth who contract friendship and marriage, not a rich man and a pauper.... An old friend—who needs him? THE MAHABHARATA, C. THIRD CENTURY B.C. — location: [538]() ^ref-26667
+
+---
+Emperor Sung would have no truck with “friends”—he bribed his fellow generals with splendid estates and kept them far away. This was a much better way to emasculate them than killing them, which would only have led other generals to seek vengeance. — location: [544]() ^ref-27756
+
+---
+While a friend expects more and more favors, and seethes with jealousy, these former enemies expected nothing and got everything. A man suddenly spared the guillotine is a grateful man indeed, and will go to the ends of the earth for the man who has pardoned him. — location: [548]() ^ref-61127
+
+---
+An elderly lady chastised him for not calling them irreconcilable enemies who must be destroyed. “Why, madam,” Lincoln replied, “do I not destroy my enemies when I make them my friends?” — location: [554]() ^ref-47249
+
+---
+Men are more ready to repay an injury than a benefit, because gratitude is a burden and revenge a pleasure. TACITUS, c. A.D. 55-120 — location: [558]() ^ref-9032
+
+---
+The problem is that you often do not know your friends as well as you imagine. Friends often agree on things in order to avoid an argument. They cover up their unpleasant qualities so as to not offend each other. They laugh extra hard at each other’s jokes. — location: [560]() ^ref-11652
+
+---
+Since honesty rarely strengthens friendship, you may never know how a friend truly feels. Friends will say that they love your poetry, adore your music, envy your taste in clothes—maybe they mean it, often they do not. — location: [562]() ^ref-7826
+
+---
+People want to feel they deserve their good fortune. The receipt of a favor can become oppressive: It means you have been chosen because you are a friend, not necessarily because you are deserving. There is almost a touch of condescension in the act of hiring friends that secretly afflicts them. The injury will come out slowly: A little more honesty, flashes of resentment and envy here and there, and before you know it your friendship fades. — location: [565]() ^ref-61508
+
+---
+Better to be wary. If you never expect gratitude from a friend, you will be pleasantly surprised when they do prove grateful. — location: [570]() ^ref-9523
+
+---
+Thus it is plain that faults that are evident to the senses, gross and corporal, or otherwise notorious to the world, we know by our enemies sooner than by our friends and familiars. — location: [577]() ^ref-13833
+
+---
+The key to power, then, is the ability to judge who is best able to further your interests in all situations. Keep friends for friendship, but work with the skilled and competent. — location: [580]() ^ref-36001
+
+---
+to prove that he was worthy of Talleyrand’s choice; a person who has something to prove will move mountains for you. — location: [586]() ^ref-54984
+
+---
+He knew that Fouché would expect nothing from him, and in fact would work to prove that he was worthy of Talleyrand’s choice; a person who has something to prove will move mountains for you. Finally, he knew that his relationship with Fouché would be based on mutual self-interest, and would not be contaminated by personal feeling. The selection proved perfect; — location: [585]() ^ref-58975
+
+---
+In private, without informing the Secret Service or the Justice Department, Kissinger arranged a Saturday-morning meeting with three of the alleged kidnappers. Explaining to his guests that he would have most American soldiers out of Vietnam by mid-1972, he completely charmed them. They gave him some “Kidnap Kissinger” buttons and one of them remained a friend of his for years, visiting him on several occasions. This was not just a onetime ploy: Kissinger made a policy of working with those who disagreed with him. — location: [593]() ^ref-5726
+
+---
+An enemy at our heels sharpens our wits, keeping us focused and alert. It is sometimes better, then, to use enemies as enemies rather than transforming them into friends or allies. — location: [597]() ^ref-2840
+
+---
+Mao’s strategy of constant conflict has several key components. First, be certain that in the long run you will emerge victorious. Never pick a fight with someone you are not sure you can defeat, as Mao knew the Japanese would be defeated in time. Second, if you have no apparent enemies, you must sometimes set up a convenient target, even turning a friend into an enemy. Mao used this tactic time and again in politics. Third, use such enemies to define your cause more clearly to the public, even framing it as a struggle of good against evil. — location: [607]() ^ref-20323
+
+---
+A sharply defined enemy is a far stronger argument for your side than all the words you could possibly put together. — location: [612]() ^ref-44330
+
+---
+The man of power welcomes conflict, using enemies to enhance his reputation as a surefooted fighter who can be relied upon in times of uncertainty. — location: [615]() ^ref-53360
+
+---
+The wise man profits more from his enemies, than a fool from his friends. (Baltasar Gracián, 1601-1658) — location: [619]() ^ref-37714
+
+---
+This “fall of the favorite” was a trick often used by kings and sovereigns: They would let their closest friend at court take the fall for a mistake, since the public would not believe that they would deliberately sacrifice a friend for such a purpose. Of course, after you play that card, you have lost your friend forever. It is best, then, to reserve the scapegoat role for someone who is close to you but not too close. — location: [624]() ^ref-45918
+
+---
+if both partners in the arrangement understand the dangers involved, a friend often can be employed to great effect. You must never let your guard down in such a venture, however; always be on the lookout for any signs of emotional disturbance such as envy and ingratitude. Nothing is stable in the realm of power, and even the closest of friends can be transformed into the worst of enemies. — location: [628]() ^ref-6634
+
+---
+Do not be held a cheat, even though it is impossible to live today without being one. Let your greatest cunning lie in covering up what looks like cunning. Ballasar Gracián, 1601-1658 — location: [684]() ^ref-4110
+
+---
+In 1850 the young Otto von Bismarck, then a thirty-five-year-old deputy in the Prussian parliament, was at a turning point in his career. — location: [686]() ^ref-36445
+
+---
+“Woe unto the statesman,” he said, “who makes war without a reason that will still be valid when the war is over! After the war, you will all look differently at these questions. Will you then have the courage to turn to the peasant contemplating the ashes of his farm, to the man who has been crippled, to the father who has lost his children?” — location: [696]() ^ref-42641
+
+---
+A few weeks after Bismarck’s infamous speech, the king, grateful that he had spoken for peace, made him a cabinet minister. A few years later he became the Prussian premier. In this role he eventually led his country and a peace-loving king into a war against Austria, crushing the former empire and establishing a mighty German state, with Prussia at its head. — location: [702]() ^ref-30953
+
+---
+The answer was to throw people off the scent by supporting a cause he detested, saying things he would laugh at if said by another. A whole country was fooled. It was because of Bismarck’s speech that the king made him a minister, a position from which he quickly rose to be prime minister, attaining the power to strengthen the Prussian military and accomplish what he had wanted all along: the humiliation of Austria and the unification of Germany under Prussia’s leadership. — location: [708]() ^ref-12757
+
+---
+Had he announced his real intentions, arguing that it was better to wait now and fight later, he would not have won the argument, since most Prussians wanted war at that moment and mistakenly believed that their army was superior to the Austrians. Had he played up to the king, asking to be made a minister in exchange for supporting peace, he would not have succeeded either: The king would have distrusted his ambition and doubted his sincerity. — location: [712]() ^ref-44297
+
+---
+By being completely insincere and sending misleading signals, however, he deceived everyone, concealed his purpose, and attained everything he wanted. Such is the power of hiding your intentions. — location: [716]() ^ref-1935
+
+---
+Most people are open books. They say what they feel, blurt out their opinions at every opportunity, and constantly reveal their plans and intentions. They do this for several reasons. First, it is easy and natural to always want to talk about one’s feelings and plans for the future. It takes effort to control your tongue and monitor what you reveal. Second, many believe that by being honest and open they are winning people’s hearts and showing their good nature.They are greatly deluded. Honesty is actually a blunt instrument, which bloodies more than it cuts. Your honesty is likely to offend people; it is much more prudent to tailor your words, telling people what they want to hear rather than the coarse and ugly truth of what you feel or think. More important, by being unabashedly open you make yourself so predictable and familiar that it is almost impossible to respect or fear you, and power will not accrue to a person who cannot inspire such emotions. — location: [718]() ^ref-18626
+
+---
+If you yearn for power, quickly lay honesty aside, and train yourself in the art of concealing your intentions. Master the art and you will always have the upper hand. — location: [725]() ^ref-38508
+
+---
+Our first instinct is to always trust appearances. We cannot go around doubting the reality of what we see and hear—constantly imagining that appearances concealed something else would exhaust and terrify us. This fact makes it relatively easy to conceal one’s intentions. — location: [726]() ^ref-41044
+
+---
+Simply dangle an object you seem to desire, a goal you seem to aim for, in front of people’s eyes and they will take the appearance for reality. Once their eyes focus on the decoy, they will fail to notice what you are really up to. — location: [728]() ^ref-28710
+
+---
+Seem to want something in which you are actually not at all interested and your enemies will be thrown off the scent, making all kinds of errors in their calculations. — location: [734]() ^ref-54162
+
+---
+Use this tactic in the following manner: Hide your intentions not by closing up (with the risk of appearing secretive, and making people suspicious) but by talking endlessly about your desires and goals—just not your real ones. You will kill three birds with one stone: You appear friendly, open, and trusting; you conceal your intentions; and you send your rivals on time-consuming wild-goose chases. — location: [741]() ^ref-57223
+
+---
+Another powerful tool in throwing people off the scent is false sincerity. People easily mistake sincerity for honesty. Remember—their first instinct is to trust appearances, and since they value honesty and want to believe in the honesty of those around them, they will rarely doubt you or see through your act. — location: [744]() ^ref-56134
+
+---
+To make your false sincerity an effective weapon in concealing your intentions, espouse a belief in honesty and forthrightness as important social values. Do this as publicly as possible. Emphasize your position on this subject by occasionally divulging some heartfelt thought—though only one that is actually meaningless or irrelevant, of course. Napoleon’s minister Talleyrand was a master at taking people into his confidence by revealing some apparent secret. This feigned confidence—a decoy—would then elicit a real confidence on the other person’s part. Remember: The best deceivers do everything they can to cloak their roguish qualities. They cultivate an air of honesty in one area to disguise their dishonesty in others. Honesty is merely another decoy in their arsenal of weapons. — location: [751]() ^ref-59994
+
+---
+Deception is always the best strategy, but the best deceptions require a screen of smoke to distract people attention from your real purpose. The bland exterior—like the unreadable poker face—is often the perfect smoke screen, hiding your intentions behind the comfortable and familiar. — location: [758]() ^ref-9279
+
+---
+wheezed — location: [797]() ^ref-58862
+
+---
+He knew the boxing-match scam would be the perfect ruse to separate Geezil from his money quickly and definitively. But he also knew that if he had begun by trying to interest Geezil in the boxing match, he would have failed miserably. He had to conceal his intentions and switch attention, create a smoke screen—in this case the sale of the lodge. — location: [825]() ^ref-10075
+
+---
+Engrossed in the business deal, Geezil’s attention was easily diverted to the boxing match, but only at a point when it was already too late for him to notice the details that would have given Gross away. — location: [830]() ^ref-44934
+
+---
+Learn from the Yellow Kid: The familiar, inconspicuous front is the perfect smoke screen. Approach your mark with an idea that seems ordinary enough—a business deal, financial intrigue. The sucker’s mind is distracted, his suspicions allayed. That is when you gently guide him onto the second path, the slippery slope down which he slides helplessly into your trap. — location: [833]() ^ref-6797
+
+---
+wispy, — location: [839]() ^ref-6762
+
+---
+mild-mannered — location: [839]() ^ref-39458
+
+---
+blustery — location: [841]() ^ref-27773
+
+---
+Ethiopians like their leaders fierce, but Selassie, who wore the front of a gentle, peace-loving man, lasted longer than any of them. Never angry or impatient, he lured his victims with sweet smiles, lulling them with charm and obsequiousness before he attacked. — location: [869]() ^ref-41239
+
+---
+In the case of Balcha, Selassie played on the man’s wariness, his suspicion that the banquet was a trap—which in fact it was, but not the one he expected. Selassie’s way of allaying Balcha’s fears—letting him bring his bodyguard to the banquet, giving him top billing there, making him feel in control—created a thick smoke screen, concealing the real action three miles away. — location: [871]() ^ref-63440
+
+---
+Remember: The paranoid and wary are often the easiest to deceive. Win their trust in one area and you have a smoke screen that blinds their view in another, letting you creep up and level them with a devastating blow. — location: [873]() ^ref-31242
+
+---
+If you believe that deceivers are colorful folk who mislead with elaborate lies and tall tales, you are greatly mistaken. The best deceivers utilize a bland and inconspicuous front that calls no attention to themselves. They know that extravagant words and gestures immediately raise suspicion. Instead, they envelop their mark in the familiar, the banal, the harmless. In Yellow Kid Weil’s dealings with Sam Geezil, the familiar was a business deal. In the Ethiopian case, it was Selassie’s misleading obsequiousness—exactly what Balcha would have expected from a weaker warlord. — location: [880]() ^ref-31537
+
+---
+Once you have lulled your suckers’ attention with the familiar, they will not notice the deception being perpetrated behind their backs. This derives from a simple truth: people can only focus on one thing at a time. — location: [884]() ^ref-6468
+
+---
+The simplest form of smoke screen is facial expression. Behind a bland, unreadable exterior, all sorts of mayhem can be planned, without detection. — location: [889]() ^ref-26629
+
+---
+As one poker manual explains it, “While playing his hand, the good player is seldom an actor. Instead he practices a bland behavior that minimizes readable patterns, frustrates and confuses opponents, permits greater concentration.” — location: [894]() ^ref-17062
+
+---
+Another effective smoke screen is the pattern, the establishment of a series of actions that seduce the victim into believing you will continue in the same way. The pattern plays on the psychology of anticipation: Our behavior conforms to patterns, or so we like to think. — location: [904]() ^ref-53965
+
+---
+You simply blend in with those around you. The better you blend, the less suspicious you become. — location: [916]() ^ref-13959
+
+---
+Another psychological weakness on which to construct a smoke screen is the tendency to mistake appearances for reality—the feeling that if someone seems to belong to your group, their belonging must be real. This habit makes the seamless blend a very effective front. The trick is simple: You simply blend in with those around you. The better you blend, the less suspicious you become. — location: [914]() ^ref-48696
+
+---
+Blending in is the perfect smoke screen for spying. The better you do it, the better you can conceal your intentions. — location: [918]() ^ref-23275
+
+---
+A sheep never marauds, a sheep never deceives, a sheep is magnificently dumb and docile. With a sheepskin on his back, a fox can pass right into the chicken coop. — location: [922]() ^ref-33520
+
+---
+Conceal your purpose and hide your progress; do not disclose the extent of your designs until they cannot be opposed, until the combat is over. — location: [925]() ^ref-1814
+
+---
+No smoke screen, red herring, false sincerity, or any other diversionary device will succeed in concealing your intentions if you already have an established reputation for deception. And as you get older and achieve success, it often becomes increasingly difficult to disguise your cunning. — location: [928]() ^ref-32896
+
+---
+such cases it is better to own up, to appear the honest rogue, or, better, the repentant rogue. Not only will you be admired for your frankness, but, most wonderful and strange of all, you will be able to continue your stratagems. As P. T. Barnum, the nineteenth-century — location: [931]() ^ref-36809
+
+---
+In such cases it is better to own up, to appear the honest rogue, or, better, the repentant rogue. Not only will you be admired for your frankness, but, most wonderful and strange of all, you will be able to continue your stratagems. — location: [931]() ^ref-38532
+
+---
+humbuggery, — location: [933]() ^ref-45679
+
+---
+indeed the charlatans had to move quickly from town to town, before word spread that the potions were useless and the entertainment a trick. Powerful people with bland exteriors, on the other hand—the Talleyrands, the Rothschilds, the Selassies—can practice their deceptions in the same place throughout their lifetimes. Their act never wears thin, and rarely causes suspicion. The colorful smoke screen should be used cautiously, then, and only when the occasion is right. — location: [945]() ^ref-57364
+
+---
+Spectacle and entertainment, clearly, are excellent devices to conceal your intentions, but they cannot be used indefinitely. The public grows tired and suspicious, and eventually catches on to the trick. And indeed the charlatans had to move quickly from town to town, before word spread that the potions were useless and the entertainment a trick. Powerful people with bland exteriors, on the other hand—the Talleyrands, the Rothschilds, the Selassies—can practice their deceptions in the same place throughout their lifetimes. Their act never wears thin, and rarely causes suspicion. The colorful smoke screen should be used cautiously, then, and only when the occasion is right. — location: [943]() ^ref-26511
+
+---
+When you are trying to impress people with words, the more you say, the more common you appear, and the less in control. Even if you are saying something banal, it will seem original if you make it vague, open-ended, and sphinxlike. Powerful people impress and intimidate by saying less. The more you say, the more likely you are to say something foolish. — location: [951]() ^ref-39039
+
+---
+LAW 4 ALWAYS SAY LESS THAN NECESSARY — location: [949]() ^ref-48722
+
+---
+Undutiful words of a subject do often take deeper root than the memory of ill deeds.... The late Earl of Essex told Queen Elizabeth that her conditions were as crooked as her carcass; but it cost him his head, which his insurrection had not cost him but for that speech. — location: [1022]() ^ref-50349
+
+---
+Louis XIV was a man of very few words. His most famous remark is “L‘état, c’est moi” (“I am the state”); nothing could be more pithy yet more eloquent. His infamous “I shall see” was one of several extremely short phrases that he would apply to all manner of requests. — location: [1025]() ^ref-50288
+
+---
+No one knew exactly where he stood, or could predict his reactions. No one could try to deceive him by saying what they thought he wanted to hear, because no one knew what he wanted to hear. — location: [1029]() ^ref-430
+
+---
+Louis’s silence kept those around him terrified and under his thumb. It was one of the foundations of his power. — location: [1032]() ^ref-64996
+
+---
+It is even more damaging for a minister to say foolish things than to do them. Cardinal de Retz, 1613-1679 — location: [1034]() ^ref-33950
+
+---
+when you say less than necessary, you inevitably appear greater and more powerful than you are. Your silence will make other people uncomfortable. — location: [1036]() ^ref-37818
+
+---
+When you carefully control what you reveal, they cannot pierce your intentions or your meaning. — location: [1038]() ^ref-28931
+
+---
+Your short answers and silences will put them on the defensive, and they will jump in, nervously filling the silence with all kinds of comments that will reveal valuable information about them and their weaknesses. — location: [1039]() ^ref-45794
+
+---
+They would turn against you, subvert your wishes, disobey you out of sheer perversity. He once told a friend, “I learned that you actually have more power when you shut up.” — location: [1044]() ^ref-1303
+
+---
+Andy Warhol had the revelation that it was generally impossible to get people to do what you wanted them to do by talking to them. They would turn against you, subvert your wishes, disobey you out of sheer perversity. He once told a friend, “I learned that you actually have more power when you shut up.” — location: [1043]() ^ref-61939
+
+---
+gallows, — location: [1054]() ^ref-50216
+
+---
+noose — location: [1054]() ^ref-32806
+
+---
+Learn the lesson: Once the words are out, you cannot take them back. Keep them under control. Be particularly careful with sarcasm: The momentary satisfaction you gain with your biting words will be outweighed by the price you pay. — location: [1062]() ^ref-43086
+
+---
+There are times when it is unwise to be silent. Silence can arouse suspicion and even insecurity, especially in your superiors; a vague or ambiguous comment can open you up to interpretations you had not bargained for. — location: [1070]() ^ref-29182
+
+---
+It is occasionally wiser to imitate the court jester, who plays the fool but knows he is smarter than the king. — location: [1072]() ^ref-63698
+
+---
+By bending your listener’s ear with talk, you can distract and mesmerize them; the more you talk, in fact, the less suspicious of you they become. The verbose are not perceived as sly and manipulative but as helpless and unsophisticated. This is the reverse of the silent policy employed by the powerful: By talking more, and making yourself appear weaker and less intelligent than your mark, you can practice deception with greater ease. — location: [1075]() ^ref-8743
+
+---
+LAW 5 SO MUCH DEPENDS ON REPUTATION—GUARD IT WITH YOUR LIFE — location: [1079]() ^ref-47995
+
+---
+Reputation is the cornerstone of power. Through reputation alone you can intimidate and win; once it slips, however, you are vulnerable, and will be attacked on all sides. Make your reputation unassailable. Always be alert to potential attacks and thwart them before they happen. Meanwhile, learn to destroy your enemies by opening holes in their own reputations. Then stand aside and let public opinion hang them. — location: [1080]() ^ref-38463
+
+---
+Without lamenting his fate, or wasting time trying to figure out how he had been caught, Liang ordered his troops to take down their flags, throw open the city gates, and hide. He himself then took a seat on the most visible part of the city’s wall, wearing a Taoist robe. He lit some incense, strummed his lute, and began to chant. Minutes later he could see the vast enemy army approaching, an endless phalanx of soldiers. Pretending not to notice them, he continued to sing and play the lute. Soon the army stood at the town gates. At its head was Sima Yi, who instantly recognized the man on the wall. Even so, as his soldiers itched to enter the unguarded town through its open gates, Sima Yi hesitated, held them back, and studied Liang on the wall. Then, he ordered an immediate and speedy retreat. — location: [1088]() ^ref-40516
+
+---
+STRICKEN — location: [1094]() ^ref-37222
+
+---
+flickering — location: [1097]() ^ref-39970
+
+---
+rove — location: [1097]() ^ref-27325
+
+---
+dove — location: [1098]() ^ref-12975
+
+---
+consort — location: [1098]() ^ref-61707
+
+---
+Sima Yi had fought against Chuko Liang dozens of times and knew him well. When he came on the empty city, with Liang praying on the wall, he was stunned. The Taoist robes, the chanting, the incense—this had to be a game of intimidation. The man was obviously taunting him, daring him to walk into a trap. The game was so obvious that for one moment it crossed Yi’s mind that Liang actually was alone, and desperate. But so great was his fear of Liang that he dared not risk finding out. Such is the power of reputation. It can put a vast army on the defensive, even force them into retreat, without a single arrow being fired. — location: [1122]() ^ref-8148
+
+---
+For, as Cicero says, even those who argue against fame still want the books they write against it to bear their name in the title and hope to become famous for despising it. Everything else is subject to barter: we will let our friends have our goods and our lives if need be; but a case of sharing our fame and making someone else the gift of our reputation is hardly to be found. — location: [1127]() ^ref-58056
+
+---
+plummeted, — location: [1140]() ^ref-24828
+
+---
+sowed — location: [1153]() ^ref-37924
+
+---
+Barnum used two different tactics to ruin Peale’s reputation. The first was simple: He sowed doubts about the museum’s stability and solvency. — location: [1152]() ^ref-10400
+
+---
+On the one hand they can deny the rumors, even prove that you have slandered them. But a layer of suspicion will remain: Why are they defending themselves so desperately? Maybe the rumor has some truth to it? If, on the other hand, they take the high road and ignore you, the doubts, unrefuted, will be even stronger. If done correctly, the sowing of rumors can so infuriate and unsettle your rivals that in defending themselves they will make numerous mistakes. This is the perfect weapon for those who have no reputation of their own to work from. — location: [1154]() ^ref-40182
+
+---
+Once you have a solid base of respect, ridiculing your opponent both puts him on the defensive and draws more attention to you, enhancing your own reputation. — location: [1159]() ^ref-36024
+
+---
+It is easier to cope with a bad conscience than with a bad reputation. Friedrich Nietzsche, 1844-1900 — location: [1163]() ^ref-42774
+
+---
+The people around us, even our closest friends, will always to some extent remain mysterious and unfathomable. Their characters have secret recesses that they never reveal. The unknowableness of other people could prove disturbing if we thought about it long enough, since it would make it impossible for us really to judge other people. So we prefer to ignore this fact, and to judge people on their appearances, on what is most visible to our eyes—clothes, gestures, words, actions. — location: [1165]() ^ref-972
+
+---
+In the beginning, you must work to establish a reputation for one outstanding quality, whether generosity or honesty or cunning. This quality sets you apart and gets other people to talk about you. You then make your reputation known to as many people as possible (subtly, though; take care to build slowly, and with a firm foundation), and watch as it spreads like wildfire. A solid reputation increases your presence and exaggerates your strengths without your having to spend much energy. It can also create an aura around you that will instill respect, even fear. — location: [1185]() ^ref-47874
+
+---
+Make your reputation simple and base it on one sterling quality. This single quality—efficiency, say, or seductiveness—becomes a kind of calling card that announces your presence and places others under a spell. — location: [1195]() ^ref-65030
+
+---
+Your success seems destined by your past triumphs. — location: [1193]() ^ref-32308
+
+---
+Perhaps you have already stained your reputation, so that you are prevented from establishing a new one. In such cases it is wise to associate with someone whose image counteracts your own, using their good name to whitewash and elevate yours. — location: [1199]() ^ref-49001
+
+---
+the great robber barons of nineteenth-century America were long unable to rid themselves of a reputation for cruelty and mean-spiritedness. Only when they began collecting art, so that the names of Morgan and Frick became permanently associated with those of da Vinci and Rembrandt, were they able to soften their unpleasant image. — location: [1203]() ^ref-10419
+
+---
+hoarded. — location: [1206]() ^ref-35848
+
+---
+Especially when you are first establishing it, you must protect it strictly, anticipating all attacks on it. Once it is solid, do not let yourself get angry or defensive at the slanderous comments of your enemies—that reveals insecurity, not confidence in your reputation. — location: [1206]() ^ref-48470
+
+---
+an attack on another man’s reputation is a potent weapon, particularly when you have less power than he does. He has much more to lose in such a battle, and your own thus-far-small reputation gives him a small target when he tries to return your fire. — location: [1209]() ^ref-9572
+
+---
+this tactic must be practiced with skill; you must not seem to engage in petty vengeance. If you do not break your enemy’s reputation cleverly, you will inadvertently ruin your own. — location: [1211]() ^ref-39958
+
+---
+Authority: Therefore I should wish our courtier to bolster up his inherent worth with skill and cunning, and ensure that whenever he has to go where he is a stranger, he is preceded by a good reputation.... For the fame which appears to rest on the opinions of many fosters a certain unshakable belief in a man’s worth which is then easily strengthened in minds already thus disposed and prepared. (Baldassare Castiglione, 1478-1529) — location: [1227]() ^ref-11881
+
+---
+Since we must live in society and must depend on the opinions of others, there is nothing to be gained by neglecting your reputation. By not caring how you are perceived, you let others decide this for you. Be the master of your fate, and also of your reputation. — location: [1232]() ^ref-46580
+
+---
+simple—never go too far in attacks like these, for that will draw more attention to your own vengefulness than to the person you are slandering. When your own reputation is solid, use subtler tactics, such as satire and ridicule, to weaken your opponent while making you out as a charming rogue. The mighty lion toys with the mouse that crosses his path—any other reaction would mar his fearsome reputation. Image: A Mine Full of Diamonds and Rubies. You dug for it, you found it, and your wealth is now assured. Guard it with your life. Robbers and thieves will appear from all sides. Never take your wealth for granted, and constantly renew it—time will diminish the jewels’ luster, and bury them from sight. Authority: Therefore I should wish our courtier to bolster up his inherent worth with skill and cunning, and ensure that whenever he has to go where he is a stranger, he is preceded by a good reputation.... For the fame which appears to rest on the opinions of many fosters a certain unshakable belief in a man’s worth which is then easily strengthened in minds already thus disposed and prepared. (Baldassare Castiglione, 1478-1529) REVERSAL There is no possible Reversal. Reputation is critical; there are no exceptions to this law. Perhaps, not caring what others think of you, you gain a reputation for insolence and arrogance, but that can be a valuable image in itself—Oscar Wilde used it to great advantage. Since we must live in society and must depend on the opinions of others, there is nothing to be gained by neglecting your reputation. By not caring how you are perceived, you let others decide this for you. Be the master of your fate, and also of your reputation. — location: [1221]() ^ref-21192
+
+---
+Perhaps, not caring what others think of you, you gain a reputation for insolence and arrogance, but that can be a valuable image in itself—Oscar Wilde used it to great advantage. Since we must live in society and must depend on the opinions of others, there is nothing to be gained by neglecting your reputation. By not caring how you are perceived, you let others decide this for you. Be the master of your fate, and also of your reputation. — location: [1231]() ^ref-55044
+
+---
+LAW 6 COURT ATTENTION AT ALL COST JUDGMENT Everything is judged by its appearance; what is unseen counts for nothing. Never let yourself get lost in the crowd, then, or buried in oblivion. Stand out. Be conspicuous, at all cost. Make yourself a magnet of attention by appearing larger, more colorful, more mysterious than the bland and timid masses. — location: [1235]() ^ref-40156
+
+---
+mysterious movements. By his fourth circuit, onlookers swarmed around — location: [1264]() ^ref-31416
+
+---
+Barnum would put a band of musicians on a balcony overlooking the street, beneath a huge banner proclaiming FREE MUSIC FOR THE MILLIONS. What generosity, New Yorkers thought, and they flocked to hear the free concerts. But Barnum took pains to hire the worst musicians he could find, and soon after the band struck up, people would hurry to buy tickets to the museum, where they would be out of earshot of the band’s noise, and of the booing of the crowd. THE COURT ARTIST — location: [1270]() ^ref-2833
+
+---
+oddities — location: [1283]() ^ref-61272
+
+---
+dwindle, — location: [1285]() ^ref-54550
+
+---
+They will gather like dust bunnies. Then, given a gentle push, they will enter your museum or watch your show. — location: [1301]() ^ref-35181
+
+---
+Barnum understood the fundamental truth about attracting attention: Once people’s eyes are on you, you have a special legitimacy. For Barnum, creating interest meant creating a crowd; as he later wrote, “Every crowd has a silver lining.” And crowds tend to act in conjunction. If one person stops to see your beggarman laying bricks in the street, more will do the same. They will gather like dust bunnies. Then, given a gentle push, they will enter your museum or watch your show. To create a crowd you have to do something different and odd. Any kind of curiosity will serve the purpose, for crowds are magnetically attracted by the unusual and inexplicable. — location: [1299]() ^ref-26446
+
+---
+veers — location: [1304]() ^ref-28199
+
+---
+No matter how badly his shows were reviewed, or how slanderously personal were the attacks on his hoaxes, Barnum would never complain. If a newspaper critic reviled him particularly badly, in fact, he made sure to invite the man to an opening and to give him the best seat in the house. He would even write anonymous attacks on his own work, just to keep his name in the papers. — location: [1306]() ^ref-58051
+
+---
+If the courtier happens to engage in arms in some public spectacle such as jousting ... he will ensure that the horse he has is beautifully caparisoned, that he himself is suitably attired, with appropriate mottoes and ingenious devices to attract the eyes of the onlookers in his direction as surely as the lodestone attracts iron. — location: [1310]() ^ref-1956
+
+---
+You have to learn to attract attention, “as surely as the lodestone attracts iron.” At the start of your career, you must attach your name and reputation to a quality, an image, that sets you apart from other people. This image can be something like a characteristic style of dress, or a personality quirk that amuses people and gets talked about. — location: [1315]() ^ref-22171
+
+---
+It is a common mistake to imagine that this peculiar appearance of yours should not be controversial, that to be attacked is somehow bad. Nothing could be further from the truth. — location: [1318]() ^ref-39568
+
+---
+you must not discriminate between different types of attention; in the end, every kind will work in your favor. Barnum, we have seen, welcomed personal attacks and felt no need to defend himself. He deliberately courted the image of being a humbug. — location: [1320]() ^ref-23469
+
+---
+The duke was short, almost dwarfish, and he was prone to the most insolent kinds of behavior—he slept with the king’s mistress, and openly insulted not only other courtiers but the king himself. Louis, however, was so beguiled by the duke’s eccentricities that he could not bear his absences from the court. It was simple: The strangeness of the duke’s character attracted attention. Once people were enthralled by him, they wanted him around at any cost. — location: [1323]() ^ref-56565
+
+---
+Society craves larger-than-life figures, people who stand above the general mediocrity. Never be afraid, then, of the qualities that set you apart and draw attention to you. Court controversy, even scandal. It is better to be attacked, even slandered, than ignored. — location: [1327]() ^ref-35830
+
+---
+Edison would design visually dazzling experiments to display his discoveries with electricity. He would talk of future inventions that seemed fantastic at the time—robots, and machines that could photograph thought—and that he had no intention of wasting his energy on, but that made the public talk about him. — location: [1331]() ^ref-62546
+
+---
+If you find yourself in a lowly position that offers little opportunity for you to draw attention, an effective trick is to attack the most visible, most famous, most powerful person you can find. — location: [1338]() ^ref-33027
+
+---
+Remember, however, to use such tactics sparingly after you have the public’s attention, when the act can wear thin. Once in the limelight you must constantly renew it by adapting and varying your method of courting attention. If you don’t, the public will grow tired, will take you for granted, and will move on to a newer star. The game requires constant vigilance and creativity. — location: [1342]() ^ref-16467
+
+---
+Pablo Picasso never allowed himself to fade into the background; if his name became too attached to a particular style, he would deliberately upset the public with a new series of paintings that went against all expectations. Better to create something ugly and disturbing, he believed, than to let viewers grow too familiar with his work. — location: [1345]() ^ref-43828
+
+---
+Understand: People feel superior to the person whose actions they can predict. If you show them who is in control by playing against their expectations, you both gain their respect and tighten your hold on their fleeting attention. — location: [1347]() ^ref-35629
+
+---
+PART II: CREATE AN AIR OF MYSTERY In a world growing increasingly banal and familiar, what seems enigmatic instantly draws attention. Never make it too clear what you are doing or about to do. Do not show all your cards. An air of mystery heightens your presence; it also creates anticipation—everyone will be watching you to see what happens next. Use mystery to beguile, seduce, even frighten. — location: [1357]() ^ref-51443
+
+---
+riot. — location: [1379]() ^ref-18413
+
+---
+chastened. — location: [1390]() ^ref-22496
+
+---
+What separated her from the mass, what attracted and held the public’s attention and made her famous and wealthy, was her mystery. People are enthralled by mystery; because it invites constant interpretation, they never tire of it. The mysterious cannot be grasped. And what cannot be seized and consumed creates power. — location: [1397]() ^ref-25235
+
+---
+in a world that is ever more banal, that has had its mystery and myth squeezed out of it, we secretly crave enigmas, people or things that cannot be instantly interpreted, seized, and consumed. — location: [1403]() ^ref-60023
+
+---
+It invites layers of interpretation, excites our imagination, seduces us into believing that it conceals something marvelous. — location: [1405]() ^ref-56209
+
+---
+That is the power of the mysterious: It invites layers of interpretation, excites our imagination, seduces us into believing that it conceals something marvelous. — location: [1404]() ^ref-56878
+
+---
+The world has become so familiar and its inhabitants so predictable that what wraps itself in mystery will almost always draw the limelight to it and make us watch it. — location: [1406]() ^ref-34236
+
+---
+Remember: Most people are upfront, can be read like an open book, take little care to control their words or image, and are hopelessly predictable. By simply holding back, keeping silent, occasionally uttering ambiguous phrases, deliberately appearing inconsistent, and acting odd in the subtlest of ways, you will emanate an aura of mystery. The people around you will then magnify that aura by constantly trying to interpret you. — location: [1408]() ^ref-21882
+
+---
+No one, not even his own wife, ever felt they understood him, and he therefore seemed larger than life. This also meant that the public paid constant attention to him, ever anxious to witness his next move. — location: [1429]() ^ref-43554
+
+---
+If you find yourself trapped, cornered, and on the defensive in some situation, try a simple experiment: Do something that cannot be easily explained or interpreted. Choose a simple action, but carry it out in a way that unsettles your opponent, a way with many possible interpretations, making your intentions obscure. — location: [1450]() ^ref-55457
+
+---
+Authority: If you do not declare yourself immediately, you arouse expectation.... Mix a little mystery with everything, and the very mystery stirs up veneration. And when you explain, be not too explicit.... In this manner you imitate the Divine way when you cause men to wonder and watch. (Baltasar Gracián, 1601-1658) — location: [1461]() ^ref-39896
+
+---
+Do not let your air of mystery be slowly transformed into a reputation for deceit. The mystery you create must seem a game, playful and unthreatening. Recognize when it goes too far, and pull back. — location: [1467]() ^ref-51801
+
+---
+The attention you attract must never offend or challenge the reputation of those above you—not, at any rate, if they are secure. You will seem not only paltry but desperate by comparison. — location: [1470]() ^ref-51954
+
+---
+Never appear overly greedy for attention, then, for it signals insecurity, and insecurity drives power away. Understand that there are times when it is not in your interest to be the center of attention. When in the presence of a king or queen, for instance, or the equivalent thereof, bow and retreat to the shadows; never compete. — location: [1483]() ^ref-57314
+
+---
+LAW 7 GET OTHERS TO DO THE WORK FOR YOU, BUT ALWAYS TAKE THE CREDIT — location: [1487]() ^ref-24558
+
+---
+Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered. Never do yourself what others can do for you. — location: [1488]() ^ref-48003
+
+---
+The name of Guglielmo Marconi is forever linked with the invention of radio. But few know that in producing his invention—he broadcast a signal across the English Channel in 1899—Marconi made use of a patent Tesla had filed in 1897, and that his work depended on Tesla’s research. Once again Tesla received no money and no credit. — location: [1522]() ^ref-2777
+
+---
+induction motor as well as the AC power system, and he is the real “father of radio.” Yet none of these discoveries bear his name. As an old man, he lived in poverty. — location: [1524]() ^ref-14187
+
+---
+Nikola Tesla was one of those. He believed science had nothing to do with politics, and claimed not to care for fame and riches. As he grew older, though, this ruined his scientific work. Not associated with any particular discovery, he could attract no investors to his many ideas. While he pondered great inventions for the future, others stole the patents he had already developed and got the glory for themselves. — location: [1531]() ^ref-27553
+
+---
+Edison was Tesla’s polar opposite. He wasn’t actually much of a scientific thinker or inventor; he once said that he had no need to be a mathematician because he could always hire one. — location: [1535]() ^ref-50227
+
+---
+vultures — location: [1547]() ^ref-9869
+
+---
+Time is precious and life is short. If you try to do it all on your own, you run yourself ragged, waste energy, and burn yourself out. It is far better to conserve your forces, pounce on the work others have done, and find a way to make it your own. — location: [1547]() ^ref-49546
+
+---
+Everybody steals in commerce and industry. I’ve stolen a lot myself. But I know how to steal. Thomas Edison, 1847-1931 — location: [1549]() ^ref-2091
+
+---
+A hen who had lost her sight, and was accustomed to scratching up the earth in search of food, although blind, still continued to scratch away most diligently. Of what use was it to the industriuus fool? Another sharp-sighted hen who spared her tender feet never moved from her side, and enjoyed, without scratching, the fruit of the other’s labor. For as often as the blind hen scratched up a barley-corn, her watchful companion devoured it.   FABLES, GOITCHOLD LESSING, 1729-1781 — location: [1558]() ^ref-26126
+
+---
+beheaded — location: [1568]() ^ref-10277
+
+---
+shoo — location: [1572]() ^ref-21946
+
+---
+This is the essence of the Law: Learn to get others to do the work for you while you take the credit, and you appear to be of godlike strength and power. If you think it important to do all the work yourself, you will never get far, and you will suffer the fate of the Balboas and Teslas of the world. Find people with the skills and creativity you lack. Either hire them, while putting your own name on top of theirs, or find a way to take their work and make it your own. — location: [1574]() ^ref-46911
+
+---
+Learn to use the knowledge of the past and you will look like a genius, even when you are really just a clever borrower. — location: [1585]() ^ref-21404
+
+---
+You can slog through life, making endless mistakes, wasting time and energy trying to do things from your own experience. Or you can use the armies of the past. As Bismarck once said, “Fools say that they learn by experience. I prefer to profit by others’ experience.” — location: [1589]() ^ref-64748
+
+---
+nourishment. — location: [1593]() ^ref-38126
+
+---
+Image: The Vulture. Of all the creatures in the jungle, he has it the easiest. The hard work of others becomes his work; their failure to survive becomes his nourishment. Keep an eye on the Vulture—while you are hard at work, he is cir cling above. Do not fight him, join him. — location: [1591]() ^ref-16066
+
+---
+Authority: There is much to be known, life is short, and life is not life without knowledge. It is therefore an excellent device to acquire knowledge from everybody. Thus, by the sweat of another’s brow, you win the reputation of being an oracle. (Baltasar Gracián, 1601-1658) — location: [1595]() ^ref-8260
+
+---
+There are times when taking the credit for work that others have done is not the wise course: If your power is not firmly enough established, you will seem to be pushing people out of the limelight. To be a brilliant ex ploiter of talent your position must be unshakable, or you will be accused of deception. — location: [1598]() ^ref-32731
+
+---
+It is especially important to not be greedy when you have a master above you. — location: [1601]() ^ref-42577
+
+---
+He took credit for the work of those below him while graciously giving credit for his own labors to those above. That is the way to play the game. — location: [1605]() ^ref-34066
+
+---
+LAW 8 MAKE OTHER PEOPLE COME TO YOU—USE BAIT IF NECESSARY — location: [1607]() ^ref-20602
+
+---
+JUDGMENT When you force the other person to act, you are the one in control. It is always better to make your opponent come to you, abandoning his own plans in the process. Lure him with fabulous gains—then attack. You hold the cards. — location: [1608]() ^ref-56849
+
+Play weak when you aeent
+
+---
+mockery — location: [1619]() ^ref-51196
+
+---
+Although it would have been safer to leave Europe, Napoleon not only chose to return to France, he raised the odds by marching on Paris with a tiny army, in hopes of recapturing the throne. His strategy worked—people of all classes threw themselves at his feet. An army under Marshal Ney sped from Paris to arrest him, but when the soldiers saw their beloved former leader, they changed sides. Napoleon was declared emperor again. Volunteers swelled the ranks of his new army. Delirium swept the country. In Paris, crowds went wild. The king who had replaced Napoleon fled the country. — location: [1624]() ^ref-17968
+
+---
+unsettling — location: [1638]() ^ref-3409
+
+---
+“He has set the house ablaze in order to save it from the plague.” — location: [1645]() ^ref-20451
+
+---
+When I have laid bait for deer, I don’t shoot at the first doe that comes to sniff, but wait until the whole herd has gathered round. Otto von Bismarck, 1815-1898 — location: [1646]() ^ref-5915
+
+---
+In the realm of power, you must ask yourself, what is the point of chasing here and there, trying to solve problems and defeat my enemies, if I never feel in control? Why am I always having to react to events instead of directing them? The answer is simple: Your idea of power is wrong. — location: [1654]() ^ref-12146
+
+---
+And most often the most effective action is to stay back, keep calm, and let others be frustrated by the traps you lay for them, playing for long-term power rather than quick victory. — location: [1657]() ^ref-43741
+
+---
+Remember: The essence of power is the ability to keep the initiative, to get others to react to your moves, to keep your opponent and those around you on the defensive. When you make other people come to you, you suddenly become the one controlling the situation. And the one who has control has power. — location: [1658]() ^ref-25532
+
+---
+Two things must happen to place you in this position: You yourself must learn to master your emotions, and never to be influenced by anger; meanwhile, however, you must play on people’s natural tendency to react angrily when pushed and baited. In the long run, the ability to make others come to you is a weapon far more powerful than any tool of aggression. — location: [1660]() ^ref-29013
+
+---
+For negotiations or meetings, it is always wise to lure others into your territory, or the territory of your choice. You have your bearings, while they see nothing familiar and are subtly placed on the defensive. — location: [1682]() ^ref-11951
+
+---
+Manipulation is a dangerous game. Once someone suspects he is being manipulated, it becomes harder and harder to control him. But when you make your opponent come to you, you create the illusion that he is controlling the situation. — location: [1684]() ^ref-49599
+
+---
+Everything depends on the sweetness of your bait. If your trap is attractive enough, the turbulence of your enemies’ emotions and desires will blind them to reality. The greedier they become, the more they can be led around. — location: [1686]() ^ref-18716
+
+---
+He knew that Ghiberti had gotten the job through his connections, and that he would do none of the work and get half the credit. At a critical moment of the construction, then, Brunelleschi suddenly developed a mysterious illness. He had to stop work, but pointed out to city officials that they had hired Ghiberti, who should have been able to continue the work on his own. Soon it became clear that Ghiberti was useless and the officials came begging to Brunelleschi. He ignored them, insisting that Ghiberti should finish the project, until finally they realized the problem: They fired Ghiberti. By some miracle, Brunelleschi recovered within days. He did not have to throw a tantrum or make a fool of himself; he simply practiced the art of “making others come to you.” — location: [1703]() ^ref-6435
+
+---
+The bear hunter does not chase his prey; a bear that knows it is hunted is nearly impossible to catch and is fero cious if cornered. Instead, the hunter lays traps baited with honey. He does not exhaust himself and risk his life in pursuit. He baits, then waits. — location: [1710]() ^ref-42967
+
+---
+Fast attack can be an awesome weapon, for it forces the other person to react without the time to think or plan. With no time to think, people make errors of judgment, and are thrown on the defensive. — location: [1720]() ^ref-14964
+
+---
+You must choose your tactics depending on the situation. If you have time on your side, and know that you and your enemies are at least at equal strength, then deplete their strength by making them come to you. If time is against you—your enemies are weaker, and waiting will only give them the chance to recover—give them no such chance. Strike quickly and they have nowhere to go. As the boxer Joe Louis put it, “He can run, but he can’t hide.” — location: [1723]() ^ref-43512
+
+---
+LAW 9 WIN THROUGH YOUR ACTIONS, NEVER THROUGH ARGUMENT — location: [1728]() ^ref-10064
+
+---
+JUDGMENT Any momentary triumph you think you have gained through argument is really a Pyrrhic victory: The resentment and ill will you stir up is stronger and lasts longer than any momentary change of opinion. It is much more powerful to get others to agree with you through your actions, without saying a word. Demonstrate, do not explicate. — location: [1729]() ^ref-34205
+
+---
+scourged with rods until he died. — location: [1749]() ^ref-42297
+
+---
+perfidy. — location: [1752]() ^ref-60196
+
+---
+A vizier had served his master for some thirty years and was known and admired for his loyalty, truthfulness, and devotion to God. His honesty, however, had made him many enemies in the court, who spread stories of his duplicity and perfidy. They worked on the sultan day in and day out until he too came to distrust the innocent vizier and finally ordered the man who had served him so well to be put to death. — location: [1750]() ^ref-48565
+
+---
+Since each man believes that he is right, and words will rarely convince him otherwise, the arguer’s reasoning falls on deaf ears. When cornered, he only argues more, digging his own grave. Once he has made the other person feel insecure and inferior in his beliefs, the eloquence of Socrates could not save the situation. It is not simply a question of avoiding an argument with those who stand above you. We all believe we are masters in the realm of opinions and reasoning. You must be careful, then: Learn to demonstrate the correctness of your ideas indirectly. — location: [1775]() ^ref-59270
+
+---
+marble — location: [1780]() ^ref-42613
+
+---
+Michelangelo knew that by changing the shape of the nose he might ruin the entire sculpture. Yet Soderini was a patron who prided himself on his aesthetic judgment. To offend such a man by arguing would not only gain Michelangelo nothing, it would put future commissions in jeopardy. Michelangelo was too clever to argue. His solution was to change Soderini’s perspective (literally bringing him closer to the nose) without making him realize that this was the cause of his misperception. Fortunately for posterity, Michelangelo found a way to keep the perfection of the statue intact while at the same time making Soderini believe he had improved it. Such is the double power of winning through actions rather than argument: No one is offended, and your point is proven. — location: [1796]() ^ref-60883
+
+---
+In the realm of power you must learn to judge your moves by their long-term effects on other people. The problem in trying to prove a point or gain a victory through argument is that in the end you can never be certain how it affects the people you’re arguing with: They may appear to agree with you politely, but inside they may resent you. Or perhaps something you said inadvertently even offended them—words have that insidious ability to be interpreted according to the other person’s mood and insecurities. Even the best argument has no solid foundation, for we have all come to distrust the slippery nature of words. And days after agreeing with someone, we often revert to our old opinion out of sheer habit. — location: [1813]() ^ref-49113
+
+---
+Everyone knows that in the heat of an argument, we will all say anything to support our cause. We will quote the Bible, refer to unverifiable statistics. Who can be persuaded by bags of air like that? Action and demonstration are much more powerful and meaningful. — location: [1819]() ^ref-57300
+
+---
+“The truth is generally seen, rarely heard.” — location: [1822]() ^ref-3967
+
+---
+There are no offensive words, no possibility of misinterpretation. No one can argue with a demonstrated proof. As Baltasar Gracián remarks, “The truth is generally seen, rarely heard.” — location: [1821]() ^ref-39028
+
+---
+Making them literally and physically feel your meaning is infinitely more powerful than argument. — location: [1832]() ^ref-47604
+
+---
+Verbal argument has one vital use in the realm of power: To distract and cover your tracks when you are practicing deception or are caught in a lie. In such cases it is to your advantage to argue with all the conviction you can muster. Draw the other person into an argument to distract them from your deceptive move. When caught in a lie, the more emotional and certain you appear, the less likely it seems that you are lying. — location: [1865]() ^ref-50878
+
+---
+conviction — location: [1883]() ^ref-16960
+
+---
+counterfeit — location: [1883]() ^ref-4524
+
+---
+LAW 10 INFECTION: AVOID THE UNHAPPY AND UNLUCKY JUDGMENT You can die from someone else’s misery—emotional states are as infectious as diseases. You may feel you are helping the drowning man but you are only precipitating your own disaster. The unfortunate sometimes draw misfortune on themselves; they will also draw it on you. Associate with the happy and fortunate instead. — location: [1885]() ^ref-33825
+
+---
+languishing, — location: [1891]() ^ref-28617
+
+---
+woo — location: [1893]() ^ref-46166
+
+---
+eloped — location: [1897]() ^ref-48251
+
+---
+enthralled. — location: [1962]() ^ref-26453
+
+---
+maelstrom — location: [1963]() ^ref-60119
+
+---
+quarrels. — location: [1967]() ^ref-11680
+
+---
+embroiled — location: [1967]() ^ref-41654
+
+---
+When you suspect you are in the presence of an infector, don’t argue, don’t try to help, don’t pass the person on to your friends, or you will become enmeshed. — location: [1971]() ^ref-15764
+
+---
+The incurably unhappy and unstable have a particularly strong infecting power because their characters and emotions are so intense. They often present themselves as victims, making it difficult, at first, to see their miseries as self-inflicted. Before you realize the real nature of their problems you have been infected by them. — location: [1981]() ^ref-8873
+
+---
+Understand this: In the game of power, the people you associate with are critical. The risk of associating with infectors is that you will waste valuable time and energy trying to free yourself. — location: [1983]() ^ref-62417
+
+---
+There are many kinds of infector to be aware of, but one of the most insidious is the sufferer from chronic dissatisfaction. — location: [1986]() ^ref-13729
+
+---
+sourness, — location: [1988]() ^ref-39601
+
+---
+brooded, — location: [1989]() ^ref-46094
+
+---
+wrought. — location: [1991]() ^ref-45633
+
+---
+How can you protect yourself against such insidious viruses? The answer lies in judging people on the effects they have on the world and not on the reasons they give for their prob-Image: — location: [1995]() ^ref-18499
+
+---
+forewarned — location: [1998]() ^ref-15409
+
+---
+enmesh — location: [2000]() ^ref-48514
+
+---
+There are people who attract happiness to themselves by their good cheer, natural buoyancy, and intelligence. They are a source of pleasure, and you must associate with them to share in the prosperity they draw upon themselves. — location: [2001]() ^ref-24408
+
+---
+only generous souls attain greatness. Associate with the generous, then, and they will infect you, opening up everything that is tight and restricted in you. If you are gloomy, gravitate to the cheerful. If you are prone to isolation, force yourself to befriend the gregarious. Never associate with those who share your defects—they will reinforce everything that holds you back. — location: [2010]() ^ref-47247
+
+---
+Recognize the fortunate so that you may choose their company, and the unfortunate so that you may avoid them. Misfortune is usually the crime of folly, and among those who suffer from it there is no malady more contagious: Never open your door to the least of misfortunes, for, if you do, many others will follow in its train.... Do not die of another’s misery. (Baltasar Gracián, 1601-1658) — location: [2014]() ^ref-27464
+
+---
+LAW 11 LEARN TO KEEP PEOPLE DEPENDENT ON YOU JUDGMENT To maintain your independence you must always be needed and wanted. The more you are relied on, the more freedom you have. Make people depend on you for their happiness and prosperity and you have nothing to fear. Never teach them enough so that they can do without you. — location: [2021]() ^ref-7221
+
+Never teach them enough. Likebreaking bad. In the CWS prjet make sure whoever you cntract feels yu will pay them more and need them. Never show them the project.
+
+---
+Sooner or later someone comes along who can do the job as well as they can—someone younger, fresher, less expensive, less threatening. Be the only one who can do what you do, and make the fate of those who hire you so entwined with yours that they cannot possibly get rid of you. — location: [2048]() ^ref-27403
+
+---
+galore, — location: [2071]() ^ref-18088
+
+---
+Most young and ambitious politicians looking out on the political landscape of 1840s Germany would have tried to build a power base among those with the most power. Bismarck saw different. Joining forces with the powerful can be foolish: They will swallow you up, just as the doge of Venice swallowed up the Count of Carmagnola. No one will come to depend on you if they are already strong. If you are ambitious, it is much wiser to seek out weak rulers or masters with whom you can create a relationship of dependency. You become their strength, their intelligence, their spine. What power you hold! If they got rid of you the whole edifice would collapse. — location: [2079]() ^ref-29759
+
+---
+Thus a wise prince will think of ways to keep his citizens of every sort and under every circumstance dependent on the state and on him; and then they will always be trustworthy. Niccolo Machiavelli, 1469-1527 — location: [2088]() ^ref-60828
+
+SI dependes del estado te controlan
+. De una nomina , vicios, placeres del capitalismo
+
+---
+An extravagant young Vine, vainly ambitious of independence, and fond of rambling at large, despised the alliance of a slately elm that grew near, and courted her embraces. Having risen to some small height without any kind of support, she shot forth her flimsy branches to a very uncommon and superfluous length; calling on her neighbour to take notice how little she wanted his assistance. “Poor infatuated shrub,” replied the elm, “how inconsistent is thy conduct! Wouldst thou be truly independent, thou shouldst carefully apply those juices to the enlargement of thy stem. which thou lavishest in vain upon unnecessary foliage. I shortly shall behold thee grovelling on the ground; yet countenanced, indeed, by many of the human race, who, intoxicated with vanity, have despised economy; and who, to support for a moment their empty boast of independence, have exhausted the very source of it in frivolous expenses.” — location: [2090]() ^ref-28600
+
+---
+The ultimate power is the power to get people to do as you wish. When you can do this without having to force people or hurt them, when they willingly grant you what you desire, then your power is untouchable. The best way to achieve this position is to create a relationship of dependence. — location: [2098]() ^ref-33938
+
+---
+Do not be one of the many who mistakenly believe that the ultimate form of power is independence. Power involves a relationship between people; you will always need others as allies, pawns, or even as weak masters who serve as your front. The completely independent man would live in a cabin in the woods—he would have the freedom to come and go as he pleased, but he would have no power. The best you can hope for is that others will grow so dependent on you that you enjoy a kind of reverse independence: Their need for you frees you. — location: [2105]() ^ref-63242
+
+---
+haughty — location: [2125]() ^ref-43004
+
+---
+You do not have to have the talent of a Michelangelo; you do have to have a skill that sets you apart from the crowd. You should create a situation in which you can always latch on to another master or patron but your master cannot easily ,find another servant with your particular talent. And if, in reality, you are not actually indispensable, you must find a way to make it look as if you are. — location: [2126]() ^ref-17665
+
+---
+Having the appearance of specialized knowledge and skill gives you leeway in your ability to deceive those above you into thinking they cannot do without you. Real dependence on your master’s part, however, leaves him more vulnerable to you than the faked variety, and it is always within your power to make your skill indispensable. — location: [2129]() ^ref-59269
+
+---
+intertwining — location: [2131]() ^ref-42279
+
+---
+He got himself involved in so many aspects and departments of the administration that his involvement became a card in his hand. It also made him many allies. If you can arrange such a position for yourself, getting rid of you becomes dangerous—all sorts of interdependencies will unravel. — location: [2147]() ^ref-47222
+
+---
+One last warning: Do not imagine that your master’s dependence on you will make him love you. In fact, he may resent and fear you. But, as Machiavelli said, it is better to be feared than loved. Fear you can control; love, never. Depending on an emotion as subtle and changeable as love or friendship will only make you insecure. Better to have others depend on you out of fear of the consequences of losing you than out of love of your company. — location: [2154]() ^ref-7034
+
+---
+slaked his thirst, — location: [2160]() ^ref-28104
+
+---
+When dependence disappears, so does civility and decency, and then respect. The first lesson which experience should teach you is to keep hope alive but never satisfied, keeping even a royal patron ever in need of you. (Baltasar Gracián, 1601-1658) — location: [2161]() ^ref-38847
+
+---
+REVERSAL The weakness of making others depend on you is that you are in some measure dependent on them. But trying to move beyond that point means getting rid of those above you—it means standing alone, depending on no one. — location: [2163]() ^ref-1962
+
+---
+Such is the monopolistic drive of a J. P. Morgan or a John D. Rockefeller—to drive out all competition, to be in complete control. If you can corner the market, so much the better. No such independence comes without a price. You are forced to isolate yourself. Monopolies often turn inward and destroy themselves from the internal pressure. They also stir up powerful resentment, making their enemies bond together to fight them. — location: [2165]() ^ref-44405
+
+---
+Interdependence remains the law, independence a rare and often fatal exception. Better to place yourself in a position of mutual dependence, then, and to follow this critical law rather than look for its reversal. You will not have the unbearable pressure of being on top, and the master above you will in essence be your slave, for he will depend on you. — location: [2169]() ^ref-58796
+
+---
+LAW 12 USE SELECTIVE HONESTY AND GENEROSITY TO DISARM YOUR VICTIM JUDGMENT One sincere and honest move will cover over dozens of dishonest ones. Open-hearted gestures of honesty and generosity bring down the guard of even the most suspicious people. Once your selective honesty opens a hole in their armor, you can deceive and manipulate them at will. A timely gift—a Trojan horse—will serve the same purpose. — location: [2172]() ^ref-25405
+
+---
+To make others dependent on you, one route to take is the secret-intelligence tactic. By knowing other people’s secrets, by holding information that they wouldn’t want broadcast, you seal your fate with theirs. You are untouchable. — location: [2150]() ^ref-57625
+
+---
+Lustig understood that a man like Capone spends his life mistrusting others. No one around him is honest or generous, and being so much in the company of wolves is exhausting, even depressing. — location: [2210]() ^ref-25078
+
+---
+An act of kindness, generosity, or honesty is often the most powerful form of distraction because it disarms other people’s suspicions. It turns them into children, eagerly lapping up any kind of affectionate gesture. — location: [2220]() ^ref-8601
+
+---
+In ancient China this was called “giving before you take”—the giving makes it hard for the other person to notice the taking. — location: [2222]() ^ref-711
+
+---
+It is also dangerous simply to ask for what you need, no matter how politely: Unless the other person sees some gain for themselves, they may come to resent your neediness. Learn to give before you take. — location: [2224]() ^ref-22175
+
+---
+Selective honesty is best employed on your first encounter with someone. We are all creatures of habit, and our first impressions last a long time. If someone believes you are honest at the start of your relationship it takes a lot to convince them otherwise. This gives you room to maneuver. — location: [2227]() ^ref-40520
+
+---
+culprits — location: [2234]() ^ref-28793
+
+---
+There had been many clues before then that Gordon-Gordon was a con man, but his initial act of honesty and support had so blinded Gould that it took the loss of millions for him to see through the scheme. A single act of honesty is often not enough. What is required is a reputation for honesty, built on a series of acts—but these can be quite inconsequential. Once this reputation is established, as with first impressions, it is hard to shake. — location: [2239]() ^ref-19783
+
+---
+Honesty is one of the best ways to disarm the wary, but it is not the only one. Any kind of noble, apparently selfless act will serve. Perhaps the best such act, though, is one of generosity. — location: [2249]() ^ref-17872
+
+---
+Selective kindness should also be part of your arsenal of deception. For years the ancient Romans had besieged the city of the Faliscans, always unsuccessfully. — location: [2262]() ^ref-35740
+
+---
+One day, however, when the Roman general Camillus was encamped outside the city, he suddenly saw a man leading some children toward him. The man was a Faliscan teacher, and the children, it turned out, were the sons and daughters of the noblest and wealthiest citizens of the town. On the pretense of taking these children out for a walk, he had led them straight to the Romans, offering them as hostages in hopes of ingratiating himself with Camillus, the city’s enemy. — location: [2264]() ^ref-3969
+
+---
+Remember: By playing on people’s emotions, calculated acts of kindness can turn a Capone into a gullible child. As with any emotional approach, the tactic must be practiced with caution: If people see through it, their disappointed feelings of gratitude and warmth will become the most violent hatred and distrust. Unless you can make the gesture seem sincere and heartfelt, do not play with fire. — location: [2273]() ^ref-57281
+
+---
+When you have a history of deceit behind you, no amount of honesty, generosity, or kindness will fool people. In fact it will only call attention to itself. Once people have come to see you as deceitful, to act honest all of a sudden is simply suspicious. In these cases it is better to play the rogue. — location: [2279]() ^ref-22420
+
+---
+Nothing in the realm of power is set in stone. Overt deceptiveness will sometimes cover your tracks, even making you admired for the honesty of your dishonesty. — location: [2295]() ^ref-23499
+
+---
+LAW 13 WHEN ASKING FOR HELP, APPEAL TO PEOPLE’S SELF-INTEREST, NEVER TO THEIR MERCY OR GRATITUDE — location: [2297]() ^ref-27034
+
+---
+JUDGMENT If you need to turn to an ally for help, do not bother to remind him of your past assistance and good deeds. He will find a way to ignore you. Instead, uncover something in your request, or in your alliance with him, that will benefit him, and emphasize it out of all proportion. He will respond enthusiastically when he sees something to be gained for himself. — location: [2298]() ^ref-62896
+
+---
+the early fourteenth century, a young man named Castruccio Castracani rose from the rank of common soldier to become lord of the great city of Lucca, Italy. One of the most powerful families in the city, the Poggios, had been instrumental in his climb (which succeeded through treachery and bloodshed), but after he came to power, they came to feel he had forgotten them. — location: [2302]() ^ref-44519
+
+---
+Not only is a man not obliged to be grateful, gratitude is often a terrible burden that he gladly discards. And in this case Castruccio rid himself of his obligations to the Poggios by eliminating the Poggios. — location: [2338]() ^ref-25720
+
+---
+the rhetoric, all the emotional appeals in the world, could not match a good pragmatic argument, especially one that added to their power. What the Corinthian ambassador did not realize was that his references to Corinth’s past generosity to Athens only irritated the Athenians, subtly asking them to feel guilty and putting them under obligation. — location: [2359]() ^ref-22672
+
+---
+When people choose between talk about the past and talk about the future, a pragmatic person will always opt for the future and forget the past. — location: [2364]() ^ref-36361
+
+---
+And in the end, most people are in fact pragmatic—they will rarely act against their own self-interest. — location: [2366]() ^ref-24699
+
+---
+In your quest for power, you will constantly find yourself in the position of asking for help from those more powerful than you. There is an art to asking for help, an art that depends on your ability to understand the person you are dealing with, and to not confuse your needs with theirs. — location: [2373]() ^ref-19650
+
+---
+They start from the assumption that the people they are appealing to have a selfless interest in helping them. They talk as if their needs mattered to these people—who probably couldn’t care less. Sometimes they refer to larger issues: a great cause, or grand emotions such as love and gratitude. They go for the big picture when simple, everyday realities would have much more appeal. What they do not realize is that even the most powerful person is locked inside needs of his own, and that if you make no appeal to his self-interest, he merely sees you as desperate or, at best, a waste of time. In the sixteenth century, Portuguese missionaries tried for years to convert the people of Japan to Catholicism, while at the same time Portugal had a monopoly on trade between Japan and Europe. Although the missionaries did have some success, they never got far among the ruling elite; by the beginning of the seventeenth century, in fact, their proselytizing had completely antagonized the Japanese emperor Ieyasu. When the Dutch began to arrive in Japan in great numbers, Ieyasu was much relieved. He needed Europeans for their know-how in guns and navigation, and here at last were Europeans who cared nothing for spreading religion—the Dutch wanted only to trade. Ieyasu swiftly moved to evict the Portuguese. From then on, he would only deal with the practical-minded Dutch. Japan and Holland were vastly different cultures, but each shared a timeless and universal concern: self-interest. Every person you deal with is like another culture, an alien land with a past that has nothing to do with yours. Yet you can bypass the differences between you and him by appealing to his self-interest. Do not be subtle: You have valuable knowledge to share, you will fill his coffers with gold, you will make him live longer and happier. This is a language that all of us speak and understand. A key step in the process is to understand the other person’s psychology. Is he vain? Is he concerned about his reputation or his social standing? Does he have enemies you could help him vanquish? Is he simply motivated by money and power? When the Mongols invaded China in the twelfth century, they threatened to obliterate a culture that had thrived for over two thousand years. Their leader, Genghis Khan, saw nothing in China but a country that lacked pasturing for his horses, and he decided to destroy the place, leveling all its cities, for “it would be better to exterminate the Chinese and let the grass grow.” It was not a soldier, a general, or a king who saved the Chinese from devastation, but a man named Yelu Ch‘u-Ts’ai. A foreigner himself, Ch‘u-Ts’ai had come to appreciate the superiority of Chinese culture. He managed to make himself a trusted adviser to Genghis Khan, and persuaded him that he would reap riches out of the place if, instead of destroying it, he simply taxed everyone who lived there. Khan saw the wisdom in this and did as Ch‘u-Ts’ai advised. When Khan took the city of Kaifeng, after a long siege, and decided to massacre its inhabitants (as he had in other cities that had resisted him), Ch‘u-Ts’ai told him that the finest craftsmen and engineers in China had fled to Kaifeng, and it would be better to put them to use. — location: [2375]() ^ref-5756
+
+---
+They talk as if their needs mattered to these people—who probably couldn’t care less. Sometimes they refer to larger issues: a great cause, or grand emotions such as love and gratitude. They go for the big picture when simple, everyday realities would have much more appeal. What they do not realize is that even the most powerful person is locked inside needs of his own, and that if you make no appeal to his self-interest, he merely sees you as desperate or, at best, a waste of time. — location: [2376]() ^ref-50276
+
+---
+Although the missionaries did have some success, they never got far among the ruling elite; by the beginning of the seventeenth century, in fact, their proselytizing had completely antagonized the Japanese emperor Ieyasu. — location: [2381]() ^ref-47523
+
+---
+Japan and Holland were vastly different cultures, but each shared a timeless and universal concern: self-interest. Every person you deal with is like another culture, an alien land with a past that has nothing to do with yours. — location: [2385]() ^ref-57250
+
+---
+Do not be subtle: You have valuable knowledge to share, you will fill his coffers with gold, you will make him live longer and happier. This is a language that all of us speak and understand. — location: [2387]() ^ref-29948
+
+---
+A key step in the process is to understand the other person’s psychology. Is he vain? Is he concerned about his reputation or his social standing? Does he have enemies you could help him vanquish? Is he simply motivated by money and power? — location: [2389]() ^ref-27782
+
+---
+Kaifeng was spared. Never before had Genghis Khan shown such mercy, but then it really wasn’t mercy that saved Kaifeng. Ch‘u-Ts’ai knew Khan well. He was a barbaric peasant who cared nothing for culture, or indeed for anything other than warfare and practical results. Ch‘u-Ts’ai chose to appeal to the only emotion that would work on such a man: greed. Self-interest is the lever that will move people. Once you make them see how you can in some way meet their needs or advance their cause, their resistance to your requests for help will magically fall away. At each step on the way to acquiring power, you must train yourself to think your way inside the other person’s mind, to see their needs and interests, to get rid of the screen of your own feelings that obscure the truth. — location: [2399]() ^ref-2597
+
+---
+threadbare, — location: [2406]() ^ref-2626
+
+---
+woven — location: [2407]() ^ref-44849
+
+---
+Authority: The shortest and best way to make your fortune is to let people see clearly that it is in their interests to promote yours. (Jean de La Bruyère, 1645-1696) — location: [2409]() ^ref-12050
+
+---
+Some people will see an appeal to their self-interest as ugly and ignoble. They actually prefer to be able to exercise charity, mercy, and justice, which are their ways of feeling superior to you: When you beg them for help, you emphasize their power and position. — location: [2411]() ^ref-13432
+
+---
+REVERSAL Some people will see an appeal to their self-interest as ugly and ignoble. They actually prefer to be able to exercise charity, mercy, and justice, which are their ways of feeling superior to you: When you beg them for help, you emphasize their power and position. — location: [2410]() ^ref-60927
+
+---
+They need opportunities to display their good heart. Do not be shy. Give them that opportunity. It’s not as if you are conning them by asking for help—it is really their pleasure to give, and to be seen giving. — location: [2416]() ^ref-10187
+
+---
+LAW 14 POSE AS A FRIEND, WORK AS A SPY JUDGMENT Knowing about your rival is critical. Use spies to gather valuable information that will keep you a step ahead. Better still: Play the spy yourself. In polite social encounters, learn to probe. Ask indirect questions to get people to reveal their weaknesses and intentions. There is no occasion that is not an opportunity for artful spying. — location: [2420]() ^ref-30905
+
+---
+payroll, — location: [2431]() ^ref-18994
+
+---
+valet, — location: [2433]() ^ref-42058
+
+---
+A man as ambitious and competitive as Joseph Duveen left nothing to chance. What’s the point of winging it, of just hoping you may be able to charm this or that client? It’s like shooting ducks blindfolded. Arm yourself with a little knowledge and your aim improves. — location: [2444]() ^ref-52420
+
+---
+In the realm of power, your goal is a degree of control over future events. Part of the problem you face, then, is that people won’t tell you all their thoughts, emotions, and plans. Controlling what they say, they often keep the most critical parts of their character hidden—their weaknesses, ulterior motives, obsessions. The result is that you cannot predict their moves, and are constantly in the dark. The trick is to find a way to probe them, to find out their secrets and hidden intentions, without letting them know what you are up to. This is not as difficult as you might think. A friendly front will let you secretly gather information on friends and enemies alike. — location: [2456]() ^ref-39169
+
+---
+The most common way of spying is to use other people, as Duveen did. The method is simple, powerful, but risky: You will certainly gather information, but you have little control over the people who are doing the work. Perhaps they will ineptly reveal your spying, or even secretly turn against you. It is far better to be the spy yourself, to pose as a friend while secretly gathering information. — location: [2462]() ^ref-33669
+
+---
+The French politician Talleyrand was one of the greatest practitioners of this art. He had an uncanny ability to worm secrets out of people in polite conversation. — location: [2464]() ^ref-2509
+
+---
+The key here is Talleyrand’s ability to suppress himself in the conversation, to make others talk endlessly about themselves and inadvertently reveal their intentions and plans. — location: [2468]() ^ref-57786
+
+---
+He never talked about his own ideas; he got others to reveal theirs. He would organize friendly games of charades for foreign diplomats, social gatherings where, however, he would carefully weigh their words, cajole confidences out of them, and gather information invaluable to his work as France’s foreign minister. — location: [2470]() ^ref-27009
+
+---
+If you have reason to suspect that a person is telling you a lie, look as though you believed every word he said. This will give him courage to go on; he will become more vehement in his assertions, and in the end betray himself. — location: [2477]() ^ref-57252
+
+---
+courtier — location: [2500]() ^ref-28528
+
+---
+By tempting people into certain acts, you learn about their loyalty, their honesty, and so on. And this kind of knowledge is often the most valuable of all: Armed with it, you can predict their actions in the future. — location: [2504]() ^ref-3211
+
+---
+Over two thousand V-1 flying bombs fell on the city, killing more than five thousand people and wounding many more. Somehow, however, the Germans consistently missed their targets. Bombs that were intended for Tower Bridge, or Piccadilly, would fall well short of the city, landing in the less populated suburbs. This was because, in fixing their targets, the Germans relied on secret agents they had planted in England. They did not know that these agents had been discovered, and that in their place, English-controlled agents were feeding them subtly deceptive information. — location: [2517]() ^ref-46850
+
+---
+By feeding people wrong information, then, you gain a potent advantage. While spying gives you a third eye, disinformation puts out one of your enemy’s eyes. A cyclops, he always misses his target. — location: [2522]() ^ref-57620
+
+---
+LAW 15 CRUSH YOUR ENEMY TOTALLY JUDGMENT All great leaders since Moses have known that a feared enemy must be crushed completely. (Sometimes they have learned this the hard way.) If one ember is left alight, no matter how dimly it smolders, a fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit. — location: [2525]() ^ref-57094
+
+---
+Liu Pang came from peasant stock. He had never been much of a soldier, and preferred women and wine to fighting; in fact, he was something of a scoundrel. But he was wily, and he had the ability to recognize the best strategists, keep them as his advisers, and listen to their advice. — location: [2532]() ^ref-57020
+
+---
+The remnants of an enemy can become active like those of a disease or fire. Hence, these should be exterminated completely.... One should never ignore an enemy, knowing him to be weak. He becomes dangerous in due course, like the spark of fire in a haystack. KAUTILYA, INDIAN PHILOSOPHER, THIRD CENTURY B.C. — location: [2535]() ^ref-9841
+
+---
+On the day Ramiro was executed, Cesare [Borgia] quit Cesena, leaving the mutilated body on the town square, and marched south. Three days later he arrived at Fano, where he received the envoys of the city of Ancona, who assured him of their loyalty. A messenger from Vitellozzo Vitelli announced that the little Adriatic port of Sinigaglia had surrendered to the condottieri [mercenary soldiers]. Only the citadel, in charge of the Genoese Andrea Doria, still held out, and Doria refused to hand it over to anyone except Cesare himself. [Borgia] sent word that he would arrive the next day, which was just what the condottieri wanted to hear. Once he reached Sinigaglia. Cesare would be an easy prey, caught between the citadel and their forces ringing the town.... The condottieri were sure they had military superiority, — location: [2542]() ^ref-41687
+
+---
+This is the fate that faces all of us when we sympathize with our enemies, when pity, or the hope of reconciliation, makes us pull back from doing away with them. We only strengthen their fear and hatred of us. We have beaten them, and they are humiliated; yet we nurture these resentful vipers who will one day kill us. Power cannot be dealt with this way. It must be exterminated, crushed, and denied the chance to return to haunt us. — location: [2591]() ^ref-16119
+
+---
+harem — location: [2603]() ^ref-7951
+
+---
+smothered — location: [2613]() ^ref-26574
+
+---
+Your enemies wish you ill. There is nothing they want more than to eliminate you. If, in your struggles with them, you stop halfway or even three quarters of the way, out of mercy or hope of reconciliation, you only make them more determined, more embittered, and they will someday take revenge. — location: [2638]() ^ref-14901
+
+---
+bide — location: [2640]() ^ref-62357
+
+---
+Have no mercy. Crush your enemies as totally as they would crush you. Ultimately the only peace and security you can hope for from your enemies is their disappearance. — location: [2641]() ^ref-41732
+
+---
+The wisdom behind “crushing the enemy” is as ancient as the Bible: Its first practitioner may have been Moses, who learned it from God Himself, when He parted the Red Sea for the Jews, then let the water flow back over the pursuing Egyptians so that “not so much as one of them remained.” When Moses returned from Mount Sinai with the Ten Commandments and found his people worshipping the Golden Calf, he had every last offender slaughtered. And just before he died, he told his followers, finally about to enter the Promised Land, that when they had defeated the tribes of Canaan they should “utterly destroy them... make no covenant with them, and show no mercy to them.” — location: [2649]() ^ref-12494
+
+---
+covenant — location: [2653]() ^ref-6241
+
+---
+Realize this: In your struggle for power you will stir up rivalries and create enemies. There will be people you cannot win over, who will remain your enemies no matter what. But whatever wound you inflicted on them, deliberately or not, do not take their hatred personally. Just recognize that there is no possibility of peace between you, especially as long as you stay in power. If you let them stick around, they will seek revenge, as certainly as night follows day. To wait for them to show their cards is just silly; as Empress Wu understood, by then it will be too late. — location: [2663]() ^ref-33672
+
+---
+understand that they are plotting against you, and pay no heed to whatever friendliness they feign. — location: [2670]() ^ref-18416
+
+---
+law should very rarely be ignored, but it does sometimes happen that it is better to let your enemies destroy themselves, if such a thing is possible, than to make them suffer by your hand. In warfare, for example, a good general knows that if he attacks an army when it is cornered, its soldiers will fight much more fiercely. — location: [2678]() ^ref-61932
+
+---
+it does sometimes happen that it is better to let your enemies destroy themselves, if such a thing is possible, than to make them suffer by your hand. In warfare, for example, a good general knows that if he attacks an army when it is cornered, its soldiers will fight much more fiercely. It is sometimes better, then, to leave them an escape route, a way out. As they retreat, they wear themselves out, and are ultimately more demoralized by the retreat than by any defeat he might inflict on the battlefield. — location: [2678]() ^ref-50473
+
+---
+sometimes by crushing an enemy, you embitter them so much that they spend years and years plotting revenge. — location: [2684]() ^ref-58357
+
+---
+LAW 16 USE ABSENCE TO INCREASE RESPECT AND HONOR — location: [2688]() ^ref-8534
+
+---
+JUDGMENT Too much circulation makes the price go down: The more you are seen and heard from, the more common you appear. If you are already established in a group, temporary withdrawal from it will make you more talked about, even more admired. You must learn when to leave. Create value through scarcity. — location: [2690]() ^ref-13469
+
+---
+If you absent yourself too early, you may be forgotten. But once your lover’s emotions are engaged, and the feeling of love has crystallized, absence inflames and excites. Giving no reason for your absence excites even more: The other person assumes he or she is at fault. While you are away, the lover’s imagination takes flight, and a stimulated imagination cannot help but make love grow stronger. — location: [2742]() ^ref-10828
+
+---
+What withdraws, what becomes scarce, suddenly seems to deserve our respect and honor. What stays too long, inundating us with its presence, makes us disdain it. — location: [2747]() ^ref-65292
+
+---
+Absence diminishes minor passions and inflames great ones, as the wind douses a candle and fans a fire. La Rochefoucauld, 1613-1680 — location: [2751]() ^ref-31757
+
+---
+By serving so many clients, he had become too noticeable, too available, and had lost the respect he had earlier enjoyed. People were taking his services for granted. The only way to regain the veneration and power he wanted was to withdraw completely, and let the Medes taste what life was like without him. As he expected, they came begging for him to rule. — location: [2782]() ^ref-36138
+
+---
+“There was a risk that if they saw him habitually, it might lead to jealousy and resentment, and plots would follow; but if nobody saw him, the legend would grow that he was a being of a different order from mere men.” — location: [2786]() ^ref-16093
+
+---
+A man said to a Dervish: “Why do I not see you more often?” The Dervish replied, “Because the words ‘Why have you not been to see me?’ are sweeter to my ear than the words ‘Why have you come again?”’ — location: [2788]() ^ref-17929
+
+---
+KEYS TO POWER Everything in the world depends on absence and presence. A strong presence will draw power and attention to you—you shine more brightly than those around you. But a point is inevitably reached where too much presence creates the opposite effect: The more you are seen and heard from, the more your value degrades. You become a habit. No matter how hard you try to be different, subtly, without your knowing why, people respect you less and less. — location: [2790]() ^ref-23692
+
+---
+In the beginning stages of an affair, the lover’s absence stimulates your imagination, forming a sort of aura around him or her. — location: [2796]() ^ref-1157
+
+---
+The loved one becomes a person like anyone else, a person whose presence is taken for granted. — location: [2797]() ^ref-12885
+
+---
+“Love never dies of starvation,” she wrote, “but often of indigestion.” The — location: [2799]() ^ref-7976
+
+---
+The moment you allow yourself to be treated like anyone else, it is too late—you are swallowed and digested. — location: [2799]() ^ref-38270
+
+---
+Once you die, everything about you will seem different. You will be surrounded by an instant aura of respect. People will remember their criticisms of you, their arguments with you, and will be filled with regret and guilt. They are missing a presence that will never return. But you do not have to wait until you die: By completely withdrawing for a while, you create a kind of death before death. — location: [2802]() ^ref-28299
+
+---
+In seventeenth-century Holland, the upper classes wanted to make the tulip more than just a beautiful flower—they wanted it to be a kind of status symbol. Making the flower scarce, indeed almost impossible to obtain, they sparked what was later called tulipomania. A single flower was now worth more than its weight in gold. — location: [2811]() ^ref-9782
+
+---
+The Sun. It can only be appreciated by its absence. The longer the days of rain, the more the sun is craved. But too many hot days and the sun overwhelms. Learn to keep yourself obscure and make people demand your return. — location: [2817]() ^ref-29403
+
+---
+There is an art to knowing when to retire. If it is done right, you regain the respect you had lost, and retain a part of your power. — location: [2823]() ^ref-20622
+
+---
+This law only applies once a certain level of power has been attained. The need to withdraw only comes after you have established your presence; leave too early and you do not increase your respect, you are simply forgotten. — location: [2836]() ^ref-21939
+
+---
+LAW 17 KEEP OTHERS IN SUSPENDED TERROR: CULTIVATE AN AIR OF UNPREDICTABILITY JUDGMENT Humans are creatures of habit with an insatiable need to see familiarity in other people’s actions. Your predictability gives them a sense of control. Turn the tables: Be deliberately unpredictable. Behavior that seems to have no consistency or purpose will keep them off-balance, and they will wear themselves out trying to explain your moves. Taken to an extreme, this strategy can intimidate and terrorize. — location: [2844]() ^ref-59810
+
+---
+sangfroid — location: [2897]() ^ref-56000
+
+---
+Chess contains the concentrated essence of life: First, because to win you have to be supremely patient and farseeing; and second, because the game is built on patterns, whole sequences of moves that have been played before and will be played again, with slight alterations, in any one match. — location: [2898]() ^ref-24469
+
+---
+In chess as in life, when people cannot figure out what you are doing, they are kept in a state of terror—waiting, uncertain, confused. — location: [2901]() ^ref-6545
+
+---
+Life at court is a serious, melancholy game of chess, which requires us to draw up our pieces and batteries, form a plan, pursue it, parry that of our adversary. Sometimes, however, it is better to take risks and play the most capricious, unpredictable move. — location: [2902]() ^ref-42742
+
+---
+Only man has the capacity to consciously alter his behavior, to improvise and overcome the weight of routine and habit. — location: [2909]() ^ref-20524
+
+---
+Nothing is more terrifying than the sudden and unpredictable. That is why we are so frightened by earthquakes and tornadoes: We do not know when they will strike. After one has occurred, we wait in terror for the next one. To a lesser degree, this is the effect that unpredictable human behavior has on us. Animals behave in set patterns, which is why we are able to hunt and kill them. Only man has the capacity to consciously alter his behavior, to improvise and overcome the weight of routine and habit. Yet most men do not realize this power. They prefer the comforts of routine, of giving in to the animal nature that has them repeating the same compulsive actions time and time again. — location: [2906]() ^ref-60356
+
+---
+A person of power instills a kind of fear by deliberately unsettling those around him to keep the initiative on his side. You sometimes need to strike without warning, to make others tremble when they least expect it. It is a device that the powerful have used for centuries. — location: [2912]() ^ref-5734
+
+---
+The secret of dealing with Filippo was simple: Do not presume to know what he wants. Do not try to guess what will please him. Never inject your will; just surrender to his will. Then wait to see what happens. Amidst the confusion and uncertainty he created, the duke ruled supreme, unchallenged and at peace. — location: [2919]() ^ref-26083
+
+---
+For instance, he might suddenly shower a courtier with attention, and then, once the man had come to expect a promotion to higher office, would suddenly start treating him with the utmost disdain. Confused, the man might leave the court, when the duke would suddenly recall him and start treating him well again. Doubly confused, the courtier would wonder whether his assumption that he would be promoted had become obvious, and offensive, to the duke, and would start to behave as if he no longer expected such honor. The duke would rebuke him for his lack of ambition and would send him away. — location: [2915]() ^ref-1567
+
+---
+Unpredictability is most often the tactic of the master, but the underdog too can use it to great effect. If you find yourself outnumbered or cornered, throw in a series of unpredictable moves. Your enemies will be so confused that they will pull back or make a tactical blunder. — location: [2922]() ^ref-63609
+
+---
+Throw in a completely inexplicable move and you put them on the defensive. Because they do not understand you, they are unnerved, and in such a state you can easily intimidate them. — location: [2934]() ^ref-356
+
+---
+This law applies not only to war but to everyday situations. People are always trying to read the motives behind your actions and to use your predictability against you. Throw in a completely inexplicable move and you put them on the defensive. Because they do not understand you, they are unnerved, and in such a state you can easily intimidate them. — location: [2933]() ^ref-34782
+
+---
+Sometimes predictability can work in your favor: By creating a pattern for people to be familiar and comfortable with, you can lull them to sleep. They have prepared everything according to their preconceived notions about you. — location: [2953]() ^ref-53927
+
+---
+A warning: Unpredictability can work against you sometimes, especially if you are in a subordinate position. There are times when it is better to let people feel comfortable and settled around you than to disturb them. Too much unpredictability will be seen as a sign of indecisiveness, or even of some more serious psychic problem. Patterns are powerful, and you can terrify people by disrupting them. — location: [2969]() ^ref-46362
+
+---
+LAW 18 DO NOT BUILD FORTRESSES TO PROTECT YOURSELF—ISOLATION IS DANGEROUS JUDGMENT The world is dangerous and enemies are everywhere—everyone has to protect themselves. A fortress seems the safest. But isolation exposes you to more dangers than it Protects you from—it cuts you off from valuable information, it makes you conspicuous and an easy target. Better to circulate among people, find allies, mingle. You are shielded from your enemies by the crowd. — location: [2973]() ^ref-61020
+
+---
+unbridled — location: [3016]() ^ref-2492
+
+---
+waspish — location: [3016]() ^ref-6914
+
+---
+slits, — location: [3016]() ^ref-59485
+
+---
+jackal, — location: [3016]() ^ref-63636
+
+---
+That is what isolation brings: Retreat into a fortress and you lose contact with the sources of your power. You lose your ear for what is happening around you, as well as a sense of proportion. Instead of being safer, you cut yourself off from the kind of knowledge on which your life depends. Never enclose yourself so far from the streets that you cannot hear what is happening around you, including the plots against you. — location: [3029]() ^ref-43074
+
+---
+beehive, — location: [3034]() ^ref-17159
+
+---
+nestled — location: [3035]() ^ref-60657
+
+---
+Because humans are social creatures by nature, power depends on social interaction and circulation. To make yourself powerful you must place yourself at the center of things, as Louis XIV did at Versailles. All activity should revolve around you, and you should be aware of everything happening on the street, and of anyone who might be hatching plots against you. — location: [3070]() ^ref-28675
+
+---
+they come to rely for information on a smaller and smaller circle, and lose perspective on events around them. They lose maneuverability and become easy targets, and their isolation makes them paranoid. As in warfare and most games of strategy, isolation often precedes defeat and death. — location: [3073]() ^ref-58348
+
+---
+In moments of uncertainty and danger, you need to fight this desire to turn inward. Instead, make yourself more accessible, seek out old allies and make new ones, force yourself into more and more different circles. This has been the trick of powerful people for centuries. — location: [3076]() ^ref-44589
+
+---
+The moment you lose contact with your people, seeking security in isolation, rebellion is brewing. Never imagine yourself so elevated that you can afford to cut yourself off from even the lowest echelons. By retreating to a fortress, you make yourself an easy target for your plotting subjects, who view your isolation as an insult and a reason for rebellion. — location: [3086]() ^ref-15756
+
+---
+The more you are in contact with others, the more graceful and at ease you become. Isolation, on the other hand, engenders an awkwardness in your gestures, and leads to further isolation, as people start avoiding you. — location: [3090]() ^ref-8814
+
+---
+These frescoes were visual equivalents of the effects of isolation on the human mind: a loss of proportion, an obsession with detail combined with an inability to see the larger picture, a kind of extravagant ugliness that no longer communicates. — location: [3105]() ^ref-39035
+
+---
+Authority: A good and wise prince, desirous of maintaining that character, and to avoid giving the opportunity to his sons to become oppressive, will never build fortresses, so that they may place their reliance upon the good will of their subjects, and not upon the strength of citadels. (Niccolò Machiavelli, 1469-1527) — location: [3119]() ^ref-46992
+
+---
+The weight of society’s pressure to conform, and the lack of distance from other people, can make it impossible to think clearly about what is going on around you. As a temporary recourse, then, isolation can help you to gain perspective. — location: [3124]() ^ref-27395
+
+---
+Machiavelli could write The Prince only once he found himself in exile and isolated on a farm far from the political intrigues of Florence. The danger is, however, that this kind of isolation will sire all kinds of strange and perverted ideas. You may gain perspective on the larger picture, but you lose a sense of your own smallness and limitations. Also, the more isolated you are, the harder it is to break out of your isolation when you choose to—it sinks you deep into its quicksand without your noticing. If you need time to think, then, choose isolation only as a last resort, and only in small doses. Be careful to keep your way back into society open. — location: [3126]() ^ref-3648
+
+---
+LAW 19 KNOW WHO YOU’RE DEALING WITH—DO NOT OFFEND THE WRONG PERSON JUDGMENT There are many different kinds of people in the world, and you can never assume that everyone will react to your strategies in the same way. Deceive or outmaneuver some people and they will spend the rest of their lives seeking revenge. They are wolves in lambs’ clothing. Choose your victims and opponents carefully, then—never of fend or deceive the wrong person. — location: [3132]() ^ref-14428
+
+---
+The highest form of the art of power is the ability to distinguish the wolves from the lambs, the foxes from the hares, the hawks from the vultures. If you make this distinction well, you will succeed without needing to coerce anyone too much. — location: [3138]() ^ref-23613
+
+---
+Being able to recognize types of people, and to act accordingly, is critical. — location: [3140]() ^ref-65526
+
+---
+The Arrogant and Proud Man. Although he may initially disguise it, this man’s touchy pride makes him very dangerous. Any perceived slight will lead to a vengeance of overwhelming violence. — location: [3144]() ^ref-36934
+
+---
+If at any point in your dealings with a person you sense an oversensitive and overactive pride, flee. Whatever you are hoping for from him isn’t worth it. — location: [3146]() ^ref-27735
+
+---
+freed, — location: [3155]() ^ref-23860
+
+---
+sternly — location: [3160]() ^ref-17684
+
+---
+The Hopelessly Insecure Man. This man is related to the proud and arrogant type, but is less violent and harder to spot. His ego is fragile, his sense of self insecure, and if he feels himself deceived or attacked, the hurt will simmer. — location: [3166]() ^ref-62803
+
+---
+If you find you have deceived or harmed such a man, disappear for a long time. Do not stay around him or he will nibble you to death. — location: [3168]() ^ref-5956
+
+---
+Mr. Suspicion. Another variant on the breeds above, this is a future Joe Stalin. He sees what he wants to see—usually the worst—in other people, and imagines that everyone is after him. Mr. Suspicion is in fact the least dangerous of the three: Genuinely unbalanced, he is easy to deceive, just as Stalin himself was constantly deceived. Play on his suspicious nature to get him to turn against other people. But if you do become the target of his suspicions, watch out. — location: [3170]() ^ref-29655
+
+---
+The Serpent with a Long Memory. If hurt or deceived, this man will show no anger on the surface; he will calculate and wait. — location: [3174]() ^ref-36252
+
+---
+shrewdness. — location: [3176]() ^ref-1912
+
+---
+Recognize this man by his calculation and cunning in the different areas of his life. He is usually cold and unaffectionate. Be doubly careful of this snake, and if you have somehow injured him, either crush him completely or get him out of your sight. — location: [3176]() ^ref-36062
+
+---
+Have a test ready for a mark—a joke, a story. If his reaction is utterly literal, this is the type you are dealing with. Continue at your own risk. — location: [3182]() ^ref-30851
+
+---
+Never assume that the person you are dealing with is weaker or less important than you are. Some men are slow to take offense, which may make you misjudge the thickness of their skin, and fail to worry about insulting them. But should you offend their honor and their pride, they will overwhelm you with a violence that seems sudden and extreme given their slowness to anger. If you want to turn people down, it is best to do so politely and respectfully, even if you feel their request is impudent or their offer ridiculous. Never reject them with an insult until you know them better; you may be dealing with a Genghis Khan. — location: [3203]() ^ref-10218
+
+---
+A troublesome Crow seated herself on the back of a Sheep. The Sheep, much against his will, carried her backward and forward for a long time, and at last said, “If you had treated a dog in this way, you would have had your deserts from his sharp teeth.”To this the Crow replied, “I despise the weak, and yield to the strong. I know whom I may bully, and whom I must flatter; and thus I hope to prolong my life to a good old age. — location: [3208]() ^ref-20971
+
+---
+In the late 1910s some of the best swindlers in America formed a con-artist ring based in Denver, Colorado. — location: [3212]() ^ref-42998
+
+---
+plying — location: [3213]() ^ref-10133
+
+---
+To see if you are dealing with such a type, test them first—make, say, a mild joke at their expense. A confident person will laugh; an overly insecure one will react as if personally insulted. If you suspect you are dealing with this type, find another victim. — location: [3241]() ^ref-30245
+
+---
+You can never be sure who you are dealing with. A man who is of little importance and means today can be a person of power tomorrow. We forget a lot in our lives, but we rarely forget an insult. How was the ruler of Cheng to know that Prince Ch’ung-erh was an ambitious, calculating, cunning type, a serpent with a long memory? There was really no way for him to know, you may say—but since there was no way, it would have been better not to tempt the fates by finding out. — location: [3253]() ^ref-43232
+
+---
+meager — location: [3257]() ^ref-33907
+
+---
+The year of 1920 had been a particularly bad one for American art dealers. Big buyers—the robber-baron generation of the previous century—were getting to an age where they were dying off like flies, and no new millionaires had emerged to take their place. Things were so bad that a number of the major dealers decided to pool their resources, an unheard-of event, since art dealers usually get along like cats and dogs. — location: [3259]() ^ref-3595
+
+---
+Ford was the unassuming plain-man type who just isn’t worth the bother. He was the incarnation of those literal-minded folk who do not possess enough imagination to be deceived. From then on, Duveen saved his energies for the Mellons and Mor gans of the world—men crafty enough for him to entrap in his snares. — location: [3280]() ^ref-10018
+
+---
+chinks — location: [3286]() ^ref-39298
+
+---
+The ability to measure people and to know who you’re dealing with is the most important skill of all in gathering and conserving power. Without it you are blind: Not only will you offend the wrong people, you will choose the wrong types to work on, and will think you are flattering people when you are actually insulting them. Before embarking on any move, take the measure of your mark or potential opponent. Otherwise you will waste time and make mistakes. Study people’s weaknesses, the chinks in their armor, their areas of both pride and insecurity. — location: [3283]() ^ref-46148
+
+---
+Two final words of caution: First, in judging and measuring your opponent, never rely on your instincts. You will make the greatest mistakes of all if you rely on such inexact indicators. Nothing can substitute for gathering concrete knowledge. Study and spy on your opponent for however long it takes; this will pay off in the long run. — location: [3287]() ^ref-5341
+
+---
+Second, never trust appearances. Anyone with a serpent’s heart can use a show of kindness to cloak it; a person who is blustery on the outside is often really a coward. Learn to see through appearances and their contradictions. Never trust the version that people give of themselves—it is utterly unreliable. — location: [3290]() ^ref-46986
+
+---
+Authority: Be convinced, that there are no persons so insignificant and inconsiderable, but may, some time or other, have it in their power to be of use to you; which they certainly will not, if you have once shown them contempt. Wrongs are often forgiven, but contempt never is. Our pride remembers it for ever. (Lord Chesterfield, 1694-1773) REVERSAL What possible good can come from ignorance about other people? — location: [3294]() ^ref-39690
+
+---
+Be convinced, that there are no persons so insignificant and inconsiderable, but may, some time or other, have it in their power to be of use to you; which they certainly will not, if you have once shown them contempt. Wrongs are often forgiven, but contempt never is. Our pride remembers it for ever. (Lord Chesterfield, 1694-1773) — location: [3295]() ^ref-5092
+
+---
+What possible good can come from ignorance about other people? Learn to tell the lions from the lambs or pay the price. Obey this law to its fullest extent; it has no reversal—do not bother looking for one. — location: [3298]() ^ref-12538
+
+---
+LAW 20 DO NOT COMMIT TO ANYONE JUDGMENT It is the fool who always rushes to take sides. Do not commit to any side or cause but yourself. By maintaining your independence, you become the master of others—playing people against one another, making them pursue you. PART I: DO NOT COMMIT TO ANYONE, BUT BE COURTED BY ALL If you allow people to feel they possess you to any degree, you lose all power over them. By not committing your affections, they will only try harder to win you over. Stay aloof and you gain the power that comes from their attention and frustrated desire. Play the Virgin Queen: Give them hope but never satisfaction. — location: [3300]() ^ref-40819
+
+---
+In conversation with her, her many male suitors would employ bold sexual innuendo, a dare that Elizabeth did not discourage. — location: [3317]() ^ref-16143
+
+---
+In the end Mary chose Lord Darnley, a Catholic. In doing so she incurred the wrath of Scotland’s Protestants, and endless turmoil ensued. Elizabeth knew that marriage can often lead to a female ruler’s undoing: By marrying and committing to an alliance with one party or nation, the queen becomes embroiled in conflicts that are not of her choosing, conflicts which may eventually overwhelm her or lead her into a futile war. — location: [3334]() ^ref-34630
+
+---
+She had two goals as a ruler: to avoid marriage and to avoid war. She managed to combine these goals by dangling the possibility of marriage in order to forge alliances. — location: [3339]() ^ref-50505
+
+---
+Keeping her independence above all, Elizabeth protected her power and made herself an object of worship. I would rather be a beggar and single than a queen and married. Queen Elizabeth I, 1533-1603 — location: [3343]() ^ref-50605
+
+---
+Since power depends greatly on appearances, you must learn the tricks that will enhance your image. Refusing to commit to a person or group is one of these. When you hold yourself back, you incur not anger but a kind of respect. You instantly seem powerful because you make yourself ungraspable, rather than succumbing to the group, or to the relationship, as most people do. — location: [3345]() ^ref-48932
+
+---
+Desire is like a virus: If we see that someone is desired by other people, we tend to find this person desirable too. The moment you commit, the magic is gone. You become like everyone else. — location: [3349]() ^ref-20860
+
+---
+Encourage the attention, stimulate their interest, but do not commit at any cost. Accept the gifts and favors if you so desire, but be careful to maintain your inner aloofness. — location: [3352]() ^ref-65209
+
+---
+Remember, though: The goal is not to put people off, or to make it seem that you are incapable of commitment. Like the Virgin Queen, you need to stir the pot, excite interest, lure people with the possibility of having you. You have to bend to their attention occasionally, then—but never too far. — location: [3354]() ^ref-38347
+
+---
+defected — location: [3358]() ^ref-25655
+
+---
+He made promises to every side but committed to none, and in the end he held all the cards. If you aspire to power and influence, try the Alcibiades tactic: Put yourself in the middle between competing powers. Lure one side with the promise of your help; the other side, always wanting to outdo its enemy, will pursue you as well. As each side vies for your attention, you will immediately seem a person of great influence and desirability. — location: [3361]() ^ref-24190
+
+---
+To perfect this tactic you need to keep yourself inwardly free from emotional entanglements, and to view all those around you as pawns in your rise to the top. You cannot let yourself become the lackey for any cause. — location: [3364]() ^ref-38093
+
+---
+People who rush to the support of others tend to gain little respect in the process, for their help is so easily obtained, while those who stand back find themselves besieged with supplicants. Their aloofness is powerful, and everyone wants them on their side. — location: [3377]() ^ref-23374
+
+---
+The tactic has a parallel in seduction: When you want to seduce a woman, Stendhal advises, court her sister first. — location: [3384]() ^ref-62633
+
+---
+Stay aloof and people will come to you. It will become a challenge for them to win your affections. As long as you imitate the wise Virgin Queen and stimulate their hopes, you will remain a magnet of attention and desire. — location: [3385]() ^ref-31901
+
+---
+PART II: DO NOT COMMIT TO ANYONE-STAY ABOVE THE FRAY Do not let people drag you into their petty fights and squabbles. Seem interested and supportive, but find a way to remain neutral; let others do the fighting while you stand back, watch and wait. When the fighting parties are good and tired they will be ripe for the picking. You can make it a practice, in fact, to stir up quarrels between other people, and then offer to mediate, gaining power as the go-between. — location: [3392]() ^ref-26711
+
+---
+Men of great abilities are slow to act. for it is easier to avoid occasions for committing yourself than to come well out of a commitment. Such occasions test your judgment; it is safer to avoid them than to emerge victorious from them. One obligation leads to a greater one, and you come very near to the brink of disaster. BALTASAR GRACIAN, 1601-1658 — location: [3427]() ^ref-20161
+
+---
+receded, — location: [3430]() ^ref-24570
+
+---
+gobbling up — location: [3431]() ^ref-17741
+
+---
+cajoled — location: [3432]() ^ref-18132
+
+---
+Isabella understood Cesare perfectly: He could be neither trusted nor in any way offended. He had to be cajoled and kept at arm’s length. — location: [3431]() ^ref-50799
+
+---
+She sent messengers with flattering greetings (although these messengers also acted as her spies). At one point Cesare asked if he could house some troops in Mantua; Isabella managed to dissuade him politely, knowing full well that once the troops were quartered in the city, they would never leave. — location: [3433]() ^ref-54639
+
+---
+She even dangled in front of him the possibility of a marriage between her family and his. Somehow it all worked, for although elsewhere he seized everything in his path, he spared Mantua. — location: [3438]() ^ref-43935
+
+---
+Once you took the side of any of the forces in the field, you were doomed. The powerful would take you over, the weak would wear you down. Any new alliance would lead to a new enemy, and as this cycle stirred up more conflict, other forces would be dragged in, until you could no longer extricate yourself. Eventually you would collapse from exhaustion. — location: [3462]() ^ref-14839
+
+---
+If the various parties were fighting to the death, and exhausting themselves in the process, they were in no position to gobble up Mantua. The source of Isabella’s power was her clever ability to seem interested in the affairs and interests of each side, while actually committing to no one but herself and her kingdom. Once you step into a fight that is not of your own choosing, you lose all initiative. The combatants’ interests become your interests; you become their tool. — location: [3467]() ^ref-7423
+
+---
+Be friendly and charming to each of the combatants, then step back as they collide. With every battle they grow weaker, while you grow stronger with every battle you avoid. — location: [3471]() ^ref-3110
+
+---
+When the snipe and the mussel struggle, the fisherman gets the benefit. Ancient Chinese saying — location: [3473]() ^ref-26339
+
+---
+To succeed in the game of power, you have to master your emotions. But even if you succeed in gaining such self-control, you can never control the temperamental dispositions of those around you. — location: [3475]() ^ref-11969
+
+---
+Most people operate in a whirlpool of emotions, constantly reacting, churning up squabbles and conflicts. Your self-control and autonomy will only bother and infuriate them. They will try to draw you into the whirlpool, begging you to take sides in their endless battles, or to make peace for them. If you succumb to their emotional entreaties, little by little you will find your mind and time occupied by their problems. — location: [3476]() ^ref-31565
+
+---
+Do not allow whatever compassion and pity you possess to suck you in. You can never win in this game; the conflicts can only multiply. — location: [3479]() ^ref-51328
+
+---
+On the other hand, you cannot completely stand aside, for that would cause needless offense. To play the game properly, you must seem interested in other people’s problems, even sometimes appear to take their side. But while you make outward gestures of support, you must maintain your inner energy and sanity by keeping your emotions disengaged. — location: [3480]() ^ref-2658
+
+Not to let toxic people venom reach you
+
+---
+Give them gifts, listen with a sympathetic look, even occasionally play the charmer—but inwardly keep both the friendly kings and the perfidious Borgias at arm’s length. — location: [3483]() ^ref-34115
+
+---
+Slowness to pick up your weapons can be a weapon itself, especially if you let other people exhaust themselves fighting, then take advantage of their exhaustion. — location: [3503]() ^ref-39699
+
+---
+That is what holding back from the fray allows you: time to position yourself to take advantage of the situation once one side starts to lose. — location: [3509]() ^ref-28277
+
+---
+Preserving your autonomy gives you options when people come to blows—you can play the mediator, broker the peace, while really securing your own interests. — location: [3517]() ^ref-26425
+
+---
+Castruccio — location: [3515]() ^ref-3380
+
+---
+Castruccio knew that Pistoia — location: [3513]() ^ref-6649
+
+---
+Oftentimes when a conflict breaks out, you are tempted to side with the stronger party, or the one that offers you apparent advantages in an alliance. This is risky business. First, it is often difficult to foresee which side will prevail in the long run. But even if you guess right and ally yourself with the stronger party, you may find yourself swallowed up and lost, or conveniently forgotten, when they become victors. Side with the weaker, on the other hand, and you are doomed. But play a waiting game and you cannot lose. — location: [3520]() ^ref-21497
+
+---
+Washington avoided the temptation of making an alliance with France or England, despite the pressure on him to do so. He wanted the country to earn the world’s respect through its independence. Although a treaty with France might have helped in the short term, in the long run he knew it would be more effective to establish the nation’s autonomy. Europe would have to see the United States as an equal power. — location: [3533]() ^ref-60300
+
+---
+Every moment wasted on the affairs of others subtracts from your strength. — location: [3537]() ^ref-61726
+
+---
+Both parts of this law will turn against you if you take it too far. The game proposed here is delicate and difficult. If you play too many parties against one another, they will see through the maneuver and will gang up on you. If you keep your growing number of suitors waiting too long, you will inspire not desire but distrust. People will start to lose interest. — location: [3545]() ^ref-54736
+
+---
+LAW 21 PLAY A SUCKER TO CATCH A SUCKER—SEEM DUMBER THAN YOUR MARK JUDGMENT No one likes feeling stupider than the next person. The trick, then, is to make your victims feel smart—and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives. — location: [3553]() ^ref-13270
+
+---
+boulders, — location: [3595]() ^ref-42895
+
+---
+being fleeced by the unscrupulous tycoons and investors who would run the corporation — location: [3602]() ^ref-1215
+
+---
+All of the experts had been real. All of them honestly believed in the existence of the mine and in the value of the gems. What had fooled them all was nothing else than Arnold and Slack themselves. The two men seemed to be such rubes, such hayseeds, so naive, that no one for an instant had believed them capable of an audacious scam. — location: [3610]() ^ref-13062
+
+---
+clodhopper — location: [3621]() ^ref-56116
+
+---
+No one believed that these country simpletons could possibly be conning the most devious, unscrupulous financiers of the time. And once Harpending, Ralston, and even Rothschild accepted the mine’s existence, anyone who doubted it was questioning the intelligence of the world’s most successful businessmen. — location: [3622]() ^ref-16243
+
+---
+The feeling that someone else is more intelligent than we are is almost intolerable. We usually try to justify it in different ways: — location: [3628]() ^ref-7960
+
+---
+Given how important the idea of intelligence is to most people’s vanity, it is critical never inadvertently to insult or impugn a person’s brain power. — location: [3632]() ^ref-61125
+
+---
+venturesome — location: [3642]() ^ref-52929
+
+---
+witless — location: [3643]() ^ref-16142
+
+---
+surplus — location: [3643]() ^ref-35361
+
+---
+The Chinese have a phrase, “Masquerading as a swine to kill the tiger.” This refers to an ancient hunting technique in which the hunter clothes himself in the hide and snout of a pig, and mimics its grunting. The mighty tiger thinks a pig is coming his way, and lets it get close, savoring the prospect of an easy meal. But it is the hunter who has the last laugh. Masquerading as a swine works wonders on those who, like tigers, are arrogant and overconfident: The easier they think it is to prey on you, the more easily you can turn the tables. — location: [3648]() ^ref-38833
+
+---
+naivete — location: [3659]() ^ref-46318
+
+---
+Authority: Know how to make use of stupidity: The wisest man plays this card at times. There are occasions when the highest wisdom consists in appearing not to know—you must not be ignorant but capable of playing it. It is not much good being wise among fools and sane among lunatics. He who poses as a fool is not a fool. The best way to be well received by all is to clothe yourself in the skin of the dumbest of brutes. (Baltasar Gracián, 1601-1658) — location: [3665]() ^ref-2240
+
+---
+To reveal the true nature of your intelligence rarely pays; you should get in the habit of downplaying it at all times. If people inadvertently learn the truth—that you are actually much smarter than you look—they will admire you more for being discreet than for making your brilliance show. At the start of your climb to the top, of course, you cannot play too stupid: You may want to let your bosses know, in a subtle way, that you are smarter than the competition around you. As you climb the ladder, however, you should to some degree try to dampen your brilliance. — location: [3669]() ^ref-52113
+
+---
+scrape. — location: [3675]() ^ref-34990
+
+---
+tycoon — location: [3676]() ^ref-17310
+
+---
+wane. — location: [3690]() ^ref-8154
+
+---
+When you are weaker, there is nothing to be gained by fighting a useless fight. No one comes to help the weak—by doing so they would only put themselves in jeopardy. — location: [3722]() ^ref-50894
+
+---
+Weakness is no sin, and can even become a strength if you learn how to play it right. Had the Melians surrendered in the first place, they would have been able to sabotage the Athenians in subtle ways, or might have gotten what they could have out of the alliance and then left it when the Athenians themselves were weakened, as in fact happened several years later. — location: [3724]() ^ref-20977
+
+---
+Surrender conceals great power: Lulling the enemy into complacency, it gives you time to recoup, time to undermine, time for revenge. Never sacrifice that time in exchange for honor in a battle that you cannot win. — location: [3727]() ^ref-40126
+
+---
+Voltaire was living in exile in London at a time when anti-French sentiment was at its highest. One day walking through the streets. he found himself surrounded by an angry crowd. “Hang him. Hang the Frenchman,”they yelled. Voltaire calmly addressed the mob with the following words: “Men of England’ You wish to kill me because I am a Frenchman. Am I not punished enough in not being born an Englishman?” The crowd cheered his thoughtfill words, and escorted him safely back to his lodgings. THE LITTLE, BROWN BOOK OF ANECDOTES. CLIFTON FADIMAN, ED., 1985 — location: [3729]() ^ref-10611
+
+---
+States—Americans who sympathized with his beliefs, as well as fellow German intellectuals who had fled Hitler. — location: [3737]() ^ref-3569
+
+---
+Over the next few years Brecht wrote screenplays with a pointedly an ticapitalist slant. He had little success in Hollywood, so in 1947, the war having ended, he decided to return to Europe. — location: [3739]() ^ref-5853
+
+---
+and this group came to be known as the Hollywood 19. — location: [3744]() ^ref-48997
+
+---
+Brecht — location: [3740]() ^ref-36730
+
+---
+At one point a committee member read one of Brecht’s revolutionary poems out loud in English, and asked him if he had written it. “No,” he responded, “I wrote a German poem, which is very different from this.” The author’s elusive answers baffled the committee members, but his politeness and the way he yielded to their authority made it impossible for them to get angry with him. — location: [3763]() ^ref-10720
+
+---
+The Hollywood 19’s confrontational approach won them a lot of sympathy, and years later they gained a kind of vindication in public opinion. But they were also blacklisted, and lost valuable years of profitable working time. Brecht, on the other hand, expressed his disgust at the committee more indirectly. It was not that he changed his beliefs or compromised his values; instead, during his short testimony, he kept the upper hand by appearing to yield while all the time running circles around the committee with vague responses, outright lies that went unchallenged because they were wrapped in enigmas, and word games. — location: [3769]() ^ref-36053
+
+---
+detainment — location: [3774]() ^ref-41261
+
+---
+Keep in mind the following: People trying to make a show of their authority are easily deceived by the surrender tactic. Your outward sign of submission makes them feel important; satisfied that you respect them, they become easier targets for a later counterattack, or for the kind of indirect ridicule used by Brecht. Measuring your power over time, never sacrifice long-term maneuverability for the short-lived glories of martyrdom. — location: [3775]() ^ref-23275
+
+---
+When the great lord passes, the wise peasant bows deeply and silently farts. Ethiophan proverb — location: [3778]() ^ref-56365
+
+---
+What gets us into trouble in the realm of power is often our own overreaction to the moves of our enemies and rivals. — location: [3780]() ^ref-32032
+
+---
+It also has an endless rebound effect, for the enemy then overreacts as well, much as the Athenians did to the Melians. It is always our first instinct to react, to meet aggression with some other kind of aggression. But the next time someone pushes you and you find yourself starting to react, try this: Do not resist or fight back, but yield, turn the other cheek, bend. You will find that this often neutralizes their behavior—they expected, even wanted you to react with force and so they are caught off-guard and confounded by your lack of resistance. — location: [3782]() ^ref-466
+
+---
+This is the essence of the surrender tactic: Inwardly you stay firm, but outwardly you bend. Deprived of a reason to get angry, your opponents will often be bewildered instead. — location: [3787]() ^ref-59895
+
+---
+you are allowed the time and space to plot the countermoves that will bring them down. In the battle of the intelligent against the brutal and the aggressive, the surrender tactic is the supreme weapon. It does require self-control: Those who genuinely surrender give up their freedom, and may be crushed by the humiliation of their defeat. You have to remember that you only appear to surrender, like the animal that plays dead to save its hide. — location: [3788]() ^ref-8400
+
+---
+coil — location: [3794]() ^ref-7080
+
+---
+fangs — location: [3794]() ^ref-4881
+
+---
+In 473 B.C., in ancient China, King Goujian of Yue suffered a horrible defeat from the ruler of Wu in the battle of Fujiao. — location: [3795]() ^ref-55516
+
+---
+When a terrible drought struck Wu, and the kingdom was weakened by inner turmoil, he raised an army, invaded, and won with ease. That is the power behind surrender: It gives you the time and the flexibility to plot a devastating counterblow. Had Goujian run away, he would have lost this chance. — location: [3799]() ^ref-54878
+
+---
+“I am therefore convinced that our policy should be to conclude friendly alliances, to send ships to foreign countries everywhere and conduct trade, to copy the foreigners where they are at their best and so repair our own shortcomings, to foster our national strength and complete our armaments, and so gradually subject the foreigners to our influence until in the end all the countries of the world know the blessings of perfect tranquillity and our hegemony is acknowledged throughout the globe.” — location: [3803]() ^ref-3050
+
+---
+When foreign trade began to threaten Japanese independence in the mid-nineteenth century, the Japanese debated how to defeat the foreigners. One minister, Hotta Masayoshi, wrote a memorandum in 1857 that influenced Japanese policy for years to come: “I am therefore convinced that our policy should be to conclude friendly alliances, to send ships to foreign countries everywhere and conduct trade, to copy the foreigners where they are at their best and so repair our own shortcomings, to foster our national strength and complete our armaments, and so gradually subject the foreigners to our influence until in the end all the countries of the world know the blessings of perfect tranquillity and our hegemony is acknowledged throughout the globe.” — location: [3801]() ^ref-56482
+
+---
+Use surrender to gain access to your enemy. Learn his ways, insinuate yourself with him slowly, outwardly conform to his customs, but inwardly maintain your own culture. — location: [3807]() ^ref-6802
+
+---
+relay — location: [3813]() ^ref-21279
+
+---
+If you find yourself temporarily weakened, the surrender tactic is perfect for raising yourself up again—it disguises your ambition; it teaches you patience and self-control, key skills in the game; and it puts you in the best possible position for taking advantage of your oppressor’s sudden slide. If you run away or fight back, in the long run you cannot win. If you surrender, you will almost always emerge victorious. — location: [3820]() ^ref-62650
+
+---
+Authority: Ye have heard that it hath been said, An eye for an eye and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also. And if any man will sue thee at the law, and take away thy coat, let them have thy cloak also. And whosoever shall compel thee to go a mile, go with him twain. (Jesus Christ, in Matthew 5:38-41) — location: [3828]() ^ref-7132
+
+---
+The point of surrendering is to save your hide for a later date when you can reassert yourself. — location: [3832]() ^ref-38945
+
+---
+LAW 23 CONCENTRATE YOUR FORCES — location: [3840]() ^ref-30491
+
+---
+Conserve your forces and energies by keeping them concentrated at their strongest point. You gain more by finding a rich mine and mining it deeper, than by flitting from one shallow mine to another—intensity defeats extensity every time. When looking for sources of power to elevate you, find the one key patron, the fat cow who will give you milk for a long time to come. — location: [3842]() ^ref-24440
+
+Wisetalk?
+
+---
+The horse, snorting somewhat disdainfully, replied: “It is true you inhabit three elements, but you make no very distinguished figure in any one of them. You fly, indeed; but your flight is so heavy and clumsy, that you have no right to put yourself on a level with the lark or the swallow. You can swim on the surface of the waters, but you cannot live in them as fishes do; you cannot find your food in that element, nor glide smoothly along the bottom of the waves. And when you walk, or rather waddle, upon the ground, with your broad feet and your long neck stretched out, hissing at everyone who passes by, you bring upon yourself the derision of all beholders. I confess that I am only formed to move upon the ground; but how graceful is my make! How well turned mv lunbs! How highly finished my whole body! How great my strength! How astonishing my speed! I had much rather be confined to one element, and be admired in that, than be a goose in all!” FABLES FROM BOCCAACCIO AND CHAUCER. DR. JOHN AIKIN, 1747-1822 — location: [3856]() ^ref-14821
+
+---
+Drunk with success and sick with ambition, such empires expand to grotesque proportions and meet a ruin that is total. This is what happened to ancient Athens, which lusted for the faraway island of Sicily and ended up losing its empire. The Romans stretched the boundaries of their empire to encompass vast territories; in doing so they increased their vulnerability, and the chances of invasion from yet another barbarian tribe. — location: [3872]() ^ref-32668
+
+---
+The story of Wu is a paradigm of all the empires that have come to ruin by overreaching. Drunk with success and sick with ambition, such empires expand to grotesque proportions and meet a ruin that is total. This is what happened to ancient Athens, which lusted for the faraway island of Sicily and ended up losing its empire. The Romans stretched the boundaries of their empire to encompass vast territories; in doing so they increased their vulnerability, and the chances of invasion from yet another barbarian tribe. Their useless expansion led their empire into oblivion. — location: [3871]() ^ref-35788
+
+---
+“If you are not in danger,” says Sun-tzu, “do not fight.” It is almost a physical law: What is bloated beyond its proportions inevitably collapses. — location: [3877]() ^ref-44880
+
+---
+For the Chinese, the fate of the kingdom of Wu serves as an elemental lesson on what happens when you dissipate your forces on several fronts, losing sight of distant dangers for the sake of present gain. “If you are not in danger,” says Sun-tzu, “do not fight.” It is almost a physical law: What is bloated beyond its proportions inevitably collapses. The mind must not wander from goal to goal, or be distracted by success from its sense of purpose and proportion. What is concentrated, coherent, and connected to its past has power. What is dissipated, divided, and distended rots and falls to the ground. — location: [3875]() ^ref-19853
+
+---
+zealous — location: [3882]() ^ref-65030
+
+---
+Genius thinks it can do whatever it sees others doing, but it is sure to repent of every ill-judged outlay. — location: [3890]() ^ref-28971
+
+---
+foothold — location: [3892]() ^ref-20322
+
+---
+The Rothschilds established the fastest courier system in Europe, allowing them to get news of events before all their competitors. They held a virtual monopoly on information. — location: [3898]() ^ref-22863
+
+---
+In 1824 James Rothschild decided it was time to get married. This presented a problem for the Rothschilds, since it meant incorporating an outsider into the Rothschild clan, an outsider who could betray its secrets. James therefore decided to marry within the family, and chose the daughter of his brother Salomon. The brothers were ecstatic—this was the perfect solution to their marriage problems. James’s choice now became the family policy: Two years later, Nathan married off his daughter to Salomon’s son. In the years to come, the five brothers arranged eighteen matches among their children, sixteen of these being contracted between first cousins. “We are like the mechanism of a watch: Each part is essential,” said brother Salomon. — location: [3901]() ^ref-61943
+
+---
+While other rich and powerful families suffered irrecoverable downturns during the tumultous first half of the nineteenth century, the tight-knit Rothschilds managed not only to preserve but to expand their unprecedented wealth. — location: [3908]() ^ref-51903
+
+---
+As Schopenhauer wrote, “Intellect is a magnitude of intensity, not a magnitude of extensity.” Napoleon knew the value of concentrating your forces at the enemy’s weakest spot— it was the secret of his success on the battlefield. But his willpower and his mind were equally modeled on this notion. — location: [3925]() ^ref-39240
+
+---
+Casanova attributed his success in life to his ability to concentrate on a single goal and push at it until it yielded. It was his ability to give himself over completely to the women he desired that made him so intensely seductive. — location: [3929]() ^ref-34136
+
+---
+Concentrate on a single goal, a single task, and beat it into submission. — location: [3935]() ^ref-62305
+
+---
+The scientist Nikola Tesla ruined himself by believing that he somehow maintained his independence by not having to serve a single master. He even turned down J. P. Morgan, who offered him a rich contract. — location: [3939]() ^ref-44266
+
+---
+Throughout his life Aretino suffered the indignities of having to please this prince and that. At last, he had had enough, and decided to woo Charles V, promising the emperor the services of his powerful pen. He finally discovered the freedom that came from attachment to a single source of power. Michelangelo found this freedom with Pope Julius II, Galileo with the Medicis. In the end, the single patron appreciates your loyalty and becomes dependent on your services; in the long run the master serves the slave. — location: [3942]() ^ref-46182
+
+---
+with the titles. In the game of power, only the fool flails — location: [3947]() ^ref-30019
+
+---
+flails — location: [3948]() ^ref-37501
+
+---
+You must find out who controls the operations, who is the real director behind the scenes. As Richelieu discovered at the beginning of his rise to the top of the French political scene during the early seventeenth century, it was not King Louis XIII who decided things, it was the king’s mother. And so he attached himself to her, and catapulted through the ranks of the courtiers, all the way to the top. — location: [3948]() ^ref-34935
+
+---
+The Arrow. You cannot hit two targets with one arrow. If your thoughts stray, you miss the enemy’s heart. Mind and arrow must become one. Only with such concentration of mental and physical power can your arrow hit the target and pierce the heart. — location: [3952]() ^ref-26765
+
+---
+Authority: Prize intensity more than extensity. Perfection resides in quality, not quantity. Extent alone never rises above mediocrity, and it is the misfortune of men with wide general interests that while they would like to have their finger in every pie, they have one in none. Intensity gives eminence, and rises to the heroic in matters sublime. (Baltasar Gracián, 1601-1658) — location: [3955]() ^ref-48590
+
+---
+When fighting a stronger army, concentrating your forces only makes you an easier target—better to dissolve into the scenery and frustrate your enemy with the elusiveness of your presence. — location: [3961]() ^ref-10713
+
+---
+In cases when you may need protection, then, it is often wise to entwine yourself around several sources of power. — location: [3966]() ^ref-60994
+
+---
+Even if you concentrate on the single source of power, you still must practice caution, and prepare for the day when your master or patron is no longer there to help you. — location: [3969]() ^ref-26750
+
+---
+Finally, being too single-minded in purpose can make you an intolerable bore, especially in the arts. The Renaissance painter Paolo Uccello was so obsessed with perspective that his paintings look lifeless and contrived. Whereas Leonardo da Vinci interested himself in everything—architecture, painting, warfare, sculpture, mechanics. Diffusion was the source of his power. But such genius is rare, and the rest of us are better off erring on the side of intensity. — location: [3970]() ^ref-11216
+
+---
+LAW 24 PLAY THE PERFECT COURTIER JUDGMENT The perfect courtier thrives in a world where everything revolves around power and political dexterity. He has mastered the art of indirection; he flatters, yields to superiors, and asserts power over others in the most oblique and graceful manner. Learn and apply the laws of courtiership and there will be no limit to how far you can rise in the court. — location: [3974]() ^ref-3375
+
+---
+The court serves power in many ways, but most of all it glorifies the ruler, providing him with a microcosmic world that must struggle to please him. To be a courtier was a dangerous game. A nineteenth-century Arab traveler to the court of Darfur, in what is now Sudan, reported that courtiers there had to do whatever the sultan did: If he were injured, they had to suffer the same injury; if he fell off his horse during a hunt, they fell, too. Mimicry like this appeared in courts all over the world. More troublesome was the danger of displeasing the ruler—one wrong move spelled death or exile. The successful courtier had to walk a tightrope, pleasing but not pleasing too much, obeying but somehow distinguishing himself from the other courtiers, while also never distinguishing himself so far as to make the ruler insecure. — location: [3982]() ^ref-61866
+
+---
+Great courtiers throughout history have mastered the science of manipulating people. They make the king feel more kingly; they make everyone else fear their power. — location: [3988]() ^ref-38685
+
+Como jair
+
+---
+Great courtiers are gracious and polite; their aggression is veiled and indirect. Masters of the word, they never say more than necessary, getting the most out of a compliment or hidden insult. They are magnets of pleasure—people want to be around them because they know how to please, yet they neither fawn nor humiliate themselves. — location: [3990]() ^ref-15073
+
+---
+Avoid Ostentation. It is never prudent to prattle on about yourself or call too much attention to your actions. The more you talk about your deeds the more suspicion you cause. You also stir up enough envy among your peers to induce treachery and backstabbing. — location: [4011]() ^ref-59609
+
+---
+Practice Nonchalance. Never seem to be working too hard. Your talent must appear to flow naturally, with an ease that makes people take you for a genius rather than a workaholic. Even when something demands a lot of sweat, make it look effortless—people prefer to not see your blood and toil, which is another form of ostentation. — location: [4014]() ^ref-12502
+
+---
+Be Frugal with Flattery. It may seem that your superiors cannot get enough flattery, but too much of even a good thing loses its value. It also stirs up suspicion among your peers. Learn to flatter indirectly—by downplaying your own contribution, for example, to make your master look bet ter. — location: [4018]() ^ref-2390
+
+---
+stingy. — location: [4022]() ^ref-974
+
+---
+by being polite and friendly, you can make people pliable and obliging, even though they are apt to be crabbed and malevolent. Hence politeness is to human nature what warmth is to wax. — location: [4024]() ^ref-65358
+
+---
+Arrange to Be Noticed. There is a paradox: You cannot display yourself too brazenly, yet you must also get yourself noticed. In the court of Louis XIV, whoever the king decided to look at rose instantly in the court hierarchy. You stand no chance of rising if the ruler does not notice you in the swamp of courtiers. — location: [4026]() ^ref-21721
+
+---
+Alter Your Style and Language According to the Person You Are Dealing With. The pseudo-belief in equality—the idea that talking and acting the same way with everyone, no matter what their rank, makes you somehow a paragon of civilization—is a terrible mistake. Those below you will take it as a form of condescension, which it is, and those above you will be offended, although they may not admit it. You must change your style and your way of speaking to suit each person. This is not lying, it is acting, and acting is an art, not a gift from God. Learn the art. — location: [4031]() ^ref-51104
+
+---
+Never Be the Bearer of Bad News. The king kills the messenger who brings bad news: This is a cliche but there is truth to it. You must struggle and if necessary lie and cheat to be sure that the lot of the bearer of bad news falls on a colleague, never on you. Bring only good news and your approach will gladden your master. — location: [4037]() ^ref-14790
+
+---
+Never Affect Friendliness and Intimacy with Your Master. He does not want a friend for a subordinate, he wants a subordinate. Never approach him in an easy, friendly way, or act as if you are on the best of terms—that is his prerogative. If he chooses to deal with you on this level, assume a wary chumminess. Otherwise err in the opposite direction, and make the distance between you clear. — location: [4040]() ^ref-23516
+
+---
+Never Criticize Those Above You Directly. This may seem obvious, but there are often times when some sort of criticism is necessary—to say nothing, or to give no advice, would open you to risks of another sort. You must learn, however, to couch your advice and criticism as indirectly and as politely as possible. Think twice, or three times, before deciding you have made them sufficiently circuitous. Err on the side of subtlety and gentleness. — location: [4043]() ^ref-62722
+
+---
+Be Frugal in Asking Those Above You for Favors. Nothing irritates a master more than having to reject someone’s request. It stirs up guilt and resentment. Ask for favors as rarely as possible, and know when to stop. Rather than making yourself the supplicant, it is always better to earn your favors, so that the ruler bestows them willingly. Most important: Do not ask for favors on another person’s behalf, least of all a friend’s.   Never Joke About Appearances or Taste. A lively wit and a humorous disposition are essential qualities for a good courtier, and there are times when vulgarity is appropriate and engaging. But avoid any kind of joke about appearance or taste, two highly sensitive areas, especially with those above you. Do not even try it when you are away from them. You will dig your own grave.   Do Not Be the Court Cynic. Express admiration for the good work of others. If you constantly criticize your equals or subordinates some of that criticism will rub off on you, hovering over you like a gray cloud wherever you go. People will groan at each new cynical comment, and you will irritate them. By expressing modest admiration for other people’s achievements, you paradoxically call attention to your own. The ability to express wonder and amazement, and seem like you mean it, is a rare and dying talent, but one still greatly valued.   Be Self-observant. The mirror is a miraculous invention; without it you would commit great sins against beauty and decorum. You also need a mirror for your actions. This can sometimes come from other people telling you what they see in you, but that is not the most trustworthy method: You must be the mirror, training your mind to try to see yourself as others see you. Are you acting too obsequious? Are you trying too hard to please? Do you seem desperate for attention, giving the impression that you are on the decline? Be observant about yourself and you will avoid a mountain of blunders. Master Your Emotions. As an actor in a great play, you must learn to cry and laugh on command and when it is appropriate. You must be able both to disguise your anger and frustration and to fake your contentment and agreement. You must be the master of your own face. Call it lying if you like; but if you prefer to not play the game and to always be honest and upfront, do not complain when others call you obnoxious and arrogant.   Fit the Spirit of the Times. A slight affectation of a past era can be charming, as long as you choose a period at least twenty years back; wearing the fashions of ten years ago is ludicrous, unless you enjoy the role of court jester. Your spirit and way of thinking must keep up with the times, even if the times offend your sensibilities. Be too forward-thinking, however, and no one will understand you. It is never a good idea to stand out too much in this area; you are best off at least being able to mimic the spirit of the times.   Be a Source of Pleasure. — location: [4047]() ^ref-31524
+
+---
+Be a Source of Pleasure. This is critical. It is an obvious law of human nature that we will flee what is unpleasant and distasteful, while charm and the promise of delight will draw us like moths to a flame. — location: [4071]() ^ref-32058
+
+---
+Not everyone can play the role of favorite, for not everyone is blessed with charm and wit. But we can all control our unpleasant qualities and obscure them when necessary. — location: [4075]() ^ref-6030
+
+---
+Jean de La Bruyère, 1645-1696 SCENES OF COURT LIFE: Exemplary Deeds and Fatal Mistakes Scene I Alexander — location: [4079]() ^ref-26972
+
+---
+Alexander the Great, conqueror of the Mediterranean basin and the Middle East through to India, had had the great Aristotle as his tutor and mentor, and throughout his short life he remained devoted to philosophy and his master’s teachings. He once complained to Aristotle that during his long campaigns he had no one with whom he could discuss philosophical matters. Aristotle responded by suggesting that he take Callisthenes, a former pupil of Aristotle’s and a promising philosopher in his own right, along on the next campaign. Aristotle had schooled Callisthenes in the skills of being a courtier, but the young man secretly scoffed at them. He believed in pure philosophy, in unadorned words, in speaking the naked truth. If Alexander loved learning so much, Callisthenes thought, he could not object to one who spoke his mind. During one of Alexander’s major campaigns, Callisthenes spoke his mind one too many times and Alexander had him put to death. Interpretation In court, honesty is a fool’s game. Never be so self-absorbed as to believe that the master is interested in your criticisms of him, no matter how accurate they are. — location: [4080]() ^ref-44592
+
+---
+The chronicles were their solution: Identify no one person as the source of criticism, make the advice as impersonal as possible, but let the emperor know the gravity of the situation. Your master is no longer the center of the universe, but he still imagines that everything revolves around him. When you criticize him he sees the person criticizing, not the criticism itself. — location: [4102]() ^ref-59562
+
+---
+The courtier Saint-Simon described Mansart’s technique in dealing with the king: “His particular skill was to show the king plans that purposely included something imperfect about them, often dealing with the gardens, which were not Mansart’s specialty. The king, as Mansart expected, would put his finger exactly on the problem and propose how to solve it, at which point Mansart would exclaim for all to hear that he would never have seen the problem that the king had so masterfully found and solved; he would burst with admiration, confessing that next to the king he was but a lowly pupil.” — location: [4109]() ^ref-19015
+
+---
+In court the courtier’s art is more important than his talent; never spend so much time on your studies that you neglect your social skills. And the greatest skill of all is the ability to make the master look more talented than those around him. — location: [4119]() ^ref-31062
+
+---
+It is often very difficult to satisfy the master, but to satisfy two masters in one stroke takes the genius of a great courtier. — location: [4132]() ^ref-62022
+
+---
+Despite falling into the prince’s disfavor, Brummell continued to treat everyone around him with the same arrogance. Without the Prince of Wales’ patronage to support him, he sank into horrible debt, but he maintained his insolent manners, and everyone soon abandoned him. He died in the most pitiable poverty, alone and deranged. — location: [4144]() ^ref-57890
+
+---
+withering — location: [4143]() ^ref-26068
+
+---
+deranged. — location: [4147]() ^ref-2411
+
+---
+Beau Brummell’s devastating wit was one of the qualities that endeared him to the Prince of Wales. But not even he, the arbiter of taste and fashion, could get away with a joke about the prince’s appearance, least of all to his face. Never joke about a person’s plumpness, even indirectly—and particularly when he is your master. The poorhouses of history are filled with people who have made such jokes at their master’s expense. — location: [4147]() ^ref-48068
+
+---
+Interpretation In matters of taste you can never be too obsequious with your master. Taste is one of the ego’s prickliest parts; never impugn or question the master’s taste—his poetry is sublime, his dress impeccable, and his manner the model for all. — location: [4160]() ^ref-14345
+
+---
+Do not overstep your bounds. Do what you are assigned to do, to the best of your abilities, and never do more. To think that by doing more you are doing better is a common blunder. It is never good to seem to be trying too hard—it is as if you were covering up some deficiency. — location: [4169]() ^ref-57681
+
+---
+galleys, — location: [4174]() ^ref-41504
+
+---
+There they were captured by two Moorish galleys, which hauled them off in chains to Barbary, where they were sold as slaves. For eighteen long months Filippo toiled with no hope of returning to Italy. — location: [4173]() ^ref-8362
+
+---
+We who toil for other people have all in some way been captured by pirates and sold into slavery. But like Fra Filippo (if to a lesser degree), most of us possess some gift, some talent, an ability to do something better than other people. Make your master a gift of your talents and you will rise above other courtiers. — location: [4181]() ^ref-55103
+
+---
+In his treatment of the servant’s first dream, Alfonso remained in control. By making a dream come true, he claimed a godlike power for himself, if in a mild and humorous way. In the second dream, however, all appearance of magic was gone; this was nothing but an ugly con game on the servant’s part. Never ask for too much, then, and know when to stop. — location: [4190]() ^ref-49871
+
+---
+Better to win favors by deserving them, so that they are bestowed without your asking. — location: [4193]() ^ref-38164
+
+---
+How many of the great have been felled by envious colleagues! Better temporarily to dull your brilliance than to suffer the slings and arrows of envy. — location: [4207]() ^ref-49804
+
+---
+boar — location: [4228]() ^ref-3493
+
+---
+Courtiers are like magicians: They deceptively play with appearances, only letting those around them see what they want them to see. With so much deception and manipulation afoot, it is essential to keep people from seeing your tricks and glimpsing your sleight of hand. — location: [4253]() ^ref-30041
+
+---
+Never risk being caught in your maneuvers; never let people see your devices. If that happens you instantly pass in people’s perceptions from a courtier of great manners to a loathsome rogue. — location: [4257]() ^ref-13789
+
+---
+LAW 25 RE-CREATE YOURSELF JUDGMENT Do not accept the roles that society foists on you. Re-create yourself by forging a new identity, one that commands attention and never bores the audience. Be the master of your own image rather than letting others define it for you. Incorporate dramatic devices into your public gestures and actions—your power will be enhanced and your character will seem larger than life. — location: [4260]() ^ref-13869
+
+---
+The man who intends to make his fortune in this ancient capital of the world [Rome] must be a chameleon susceptible of reflecting the colors of the atmosphere that surrounds him—a Proteus apt to assume every form, every shape. He must be supple, flexible, insinuating, close, inscrutable, often base, sometimes sincere, sometimes perfidious, always concealing a part of his knowledge, indulging in but one tone of voice, patient, a perfect master of his own countenance, as cold as ice when any other man would be all fire; and if unfortunately he is not religious at heart—a very common occurrence for a soul possessing the above requisites-he must have religion in his mind, — location: [4270]() ^ref-42638
+
+---
+GIOVANNI CASANOVA, — location: [4278]() ^ref-17657
+
+---
+Before his staff Caesar argued both sides, forming the options like an actor on stage, a precursor of Hamlet. Finally, to put his soliloquy to an end, he pointed to a seemingly innocent apparition at the edge of the river—a very tall soldier blasting a call on a trumpet, then going across a bridge over the Rubicon—and pronounced, “Let us accept this as a sign from the Gods and follow where they beckon, in vengeance on our double-dealing enemies. The die is cast.” — location: [4282]() ^ref-51413
+
+---
+“Let us accept this as a sign from the Gods and follow where they beckon, in vengeance on our double-dealing enemies. The die is cast.” All of this he spoke portentously and dramatically, gesturing toward the river and looking his generals in the eye. He knew that these generals were uncertain in their support, but his oratory overwhelmed them with a sense of the drama of the moment, and of the need to seize the time. A more prosaic speech would never have had the same effect. The generals rallied to his cause; Caesar and his army crossed the Rubicon and by the following year had vanquished Pompey, making Caesar dictator of Rome. — location: [4284]() ^ref-28154
+
+---
+In warfare, Caesar always played the leading man with gusto. He was as skilled a horseman as any of his soldiers, and took pride in outdoing them in feats of bravery and endurance. He entered battle astride the strongest mount, so that his soldiers would see him in the thick of battle, urging them on, always positioning himself in the center, a godlike symbol of power and a model for them to follow. Of all the armies in Rome, Caesar’s was the most devoted and loyal. His soldiers, like the common people who had attended his entertainments, had come to identify with him and with his cause. After the defeat of Pompey, the entertainments grew in scale. Nothing like them had ever been seen in Rome. The chariot races became more spectacular, the gladiator fights more dramatic, as Caesar staged fights to the death among the Roman nobility. He organized enormous mock naval battles on an artificial lake. Plays were performed in every Roman ward. A giant new theater was built that sloped dramatically down the Tarpeian Rock. Crowds from all over the empire flocked to these events, the roads to Rome lined with visitors’ tents. And in 45 B.C., timing his entry into the city for maximum effect and surprise, Caesar brought Cleopatra back to Rome after his Egyptian campaign, and staged even more extravagant public spectacles. These events were more than devices to divert the masses; they dramatically enhanced the public’s sense of Caesar’s character, and made him seem larger than life. Caesar was the master of his public image, of which he was forever aware. When he appeared before crowds he wore the most spectacular purple robes. He would be upstaged by no one. He was notoriously vain about his appearance—it was said that one reason he enjoyed being honored by the Senate and people was — location: [4288]() ^ref-10922
+
+---
+He entered battle astride the strongest mount, so that his soldiers would see him in the thick of battle, urging them on, always positioning himself in the center, a godlike symbol of power and a model for them to follow. — location: [4290]() ^ref-6313
+
+---
+Immensely popular among the Roman people, Caesar was hated and feared by his rivals. On the ides of March—March 15—in the year 44 B.C., a group of conspirators led by Brutus and Cassius surrounded him in the senate and stabbed him to death. Even dying, however, he kept his sense of drama. Drawing the top of his gown over his face, he let go of the cloth’s lower part so that it draped his legs, allowing him to die covered and decent. According to the Roman historian Suetonius, his final words to his old friend Brutus, who was about to deliver a second blow, were in Greek, and as if rehearsed for the end of a play: “You too, my child?” — location: [4304]() ^ref-29665
+
+---
+Julius Caesar was perhaps the first public figure to understand the vital link between power and theater. This was because of his own obsessive interest in drama. He sublimated this interest by making himself an actor and director on the world stage. He said his lines as if they had been scripted; he gestured and moved through a crowd with a constant sense of how he appeared to his audience. He incorporated surprise into his repertoire, building drama into his speeches, staging into his public appearances. His gestures were broad enough for the common man to grasp them instantly. He became immensely popular. — location: [4311]() ^ref-23707
+
+---
+Caesar set the ideal for all leaders and people of power. Like him, you must learn to enlarge your actions through dramatic techniques such as surprise, suspense, the creation of sympathy, and symbolic identification. Also like him, you must be constantly aware of your audience—of what will please them and what will bore them. You must arrange to place yourself at the center, to command attention, and never to be upstaged at any cost. — location: [4316]() ^ref-45691
+
+---
+Understand this: The world wants to assign you a role in life. And once you accept that role you are doomed. Your power is limited to the tiny amount allotted to the role you have selected or have been forced to assume. An actor, on the other hand, plays many roles. Enjoy that protean power, and if it is beyond you, at least forge a new identity, one of your own making, one that has had no boundaries assigned to it by an envious and resentful world. — location: [4347]() ^ref-37032
+
+---
+Your new identity will protect you from the world precisely because it is not “you”; it is a costume you put on and take off. You need not take it personally. — location: [4351]() ^ref-11563
+
+---
+The character you seem to have been born with is not necessarily who you are; beyond the characteristics you have inherited, your parents, your friends, and your peers have helped to shape your personality. The Promethean task of the powerful is to take control of the process, to stop allowing others that ability to limit and mold them. Remake yourself into a character of power. Working on yourself like clay should be one of your greatest and most pleasurable life tasks. — location: [4356]() ^ref-47796
+
+---
+The first step in the process of self-creation is self-consciousness—being aware of yourself as an actor and taking control of your appearance and emotions. As Diderot said, the bad actor is the one who is always sincere. People who wear their hearts on their sleeves out in society are tiresome and embarrassing. Their sincerity notwithstanding, it is hard to take them seriously. — location: [4373]() ^ref-62634
+
+---
+The second step in the process of self-creation is a variation on the George Sand strategy: the creation of a memorable character, one that compels attention, that stands out above the other players on the stage. This was the game Abraham Lincoln played. — location: [4381]() ^ref-18447
+
+---
+Good actors control themselves better. They can play sincere and heartfelt, can affect a tear and a compassionate look at will, but they don’t have to feel it. — location: [4378]() ^ref-30833
+
+---
+No ruler or leader could possibly play the part if all of the emotions he showed had to be real. — location: [4380]() ^ref-26269
+
+---
+Although many of these qualities came naturally to him, he played them up—the hat and clothes, the beard. (No president before him had worn a beard.) Lincoln was also the first president to use photographs to spread his image, helping to create the icon of the “homespun president.” — location: [4384]() ^ref-54674
+
+---
+Franklin Delano Roosevelt understood the importance of staging political events in a particular order and rhythm. At the time of his 1932 presidential election, the United States was in the midst of a dire economic crisis. Banks were failing at an alarming rate. Shortly after winning the election, Roosevelt went into a kind of retreat. He said nothing about his plans or his cabinet appointments. He even refused to meet the sitting president, Herbert Hoover, to discuss the transition. By the time of Roosevelt’s inauguration the country was in a state of high anxiety. — location: [4391]() ^ref-37467
+
+---
+The period after the inauguration became known as the “Hundred Days,” and its success in altering the country’s mood partly stemmed from Roosevelt’s clever pacing and use of dramatic contrast. He held his audience in suspense, then hit them with a series of bold gestures that seemed all the more momentous because they came from nowhere. — location: [4398]() ^ref-6808
+
+---
+Take note of temperaments and adapt yourself to that of each person you meet—follow the lead of the serious and jovial in turn, changing your mood discreetly. (Baltasar Gracián, 1601-1658) — location: [4423]() ^ref-42761
+
+---
+There can really be no reversal to this critical law: Bad theater is bad theater. Even appearing natural requires art—in other words, acting. Bad acting only creates embarrassment. Of course you should not be too dramatic—avoid the histrionic gesture. But that is simply bad theater anyway, since it violates centuries-old dramatic laws against overacting. — location: [4425]() ^ref-52059
+
+---
+PART I: CONCEAL YOUR MISTAKES—HAVE A SCAPEGOAT AROUND TO TAKE THE BLAME Our good name and reputation depend more on what we conceal than on what we reveal. Everyone makes mistakes, but those who are truly clever manage to hide them, and to make sure someone else is blamed. A convenient scapegoat should always be kept around for such moments. — location: [4433]() ^ref-9516
+
+---
+Occasional mistakes are inevitable—the world is just too unpredictable. People of power, however, are undone not by the mistakes they make, but by the way they deal with them. Like surgeons, they must cut away the tumor with speed and finality. Excuses and apologies are much too blunt tools for this delicate operation; the powerful avoid them. By apologizing you open up all sorts of doubts about your competence, your intentions, any other mistakes you may not have confessed. Excuses satisfy no one and apologies make everyone uncomfortable. — location: [4463]() ^ref-30221
+
+---
+I would rather betray the whole world than let the world betray me. General Ts‘ao Ts’ao, c. A.D. 155-220 — location: [4469]() ^ref-48874
+
+---
+To establish order, Cesare appointed a lieutenant general of the region—Remirro de Orco, “a cruel and vigorous man,” according to Niccolõ Machiavelli. — location: [4474]() ^ref-48746
+
+---
+As Machiavelli concluded his comments on the affair, “The ferocity of this scene left the people at once stunned and satisfied.” — location: [4481]() ^ref-64346
+
+---
+Cesare Borgia was a master player in the game of power. Always planning several moves ahead, he set his opponents the cleverest traps. For this Machiavelli honored him above all others in The Prince. — location: [4483]() ^ref-24848
+
+---
+he chose the one man who could do the dirty work, knowing in advance that once the task was done he would have to display de Orco’s head on a pike. The scapegoat in this case had been planned from the beginning. — location: [4488]() ^ref-34598
+
+---
+like Cesare, even making yourself the one to bring him to justice. Not only are you free of involvement in the problem, you can appear as the one who cleaned it up. — location: [4492]() ^ref-57391
+
+---
+The main idea behind these sacrifices is the shifting of guilt and sin to an outside figure—object, animal, or man—which is then banished or destroyed. — location: [4498]() ^ref-24443
+
+Covid?
+
+---
+Franklin D. Roosevelt had a reputation for honesty and fairness. Throughout his career, however, he faced many situations in which being the nice guy would have spelled political disaster—yet he could not be seen as the agent of any foul play. For twenty years, then, his secretary, Louis Howe, played the role de Orco had. He handled the backroom deals, the manipulation of the press, the underhanded campaign maneuvers. And whenever a mistake was committed, or a dirty trick contradicting Roosevelt’s carefully crafted image became public, Howe served as the scapegoat, and never complained. — location: [4515]() ^ref-11489
+
+---
+Besides conveniently shifting blame, a scapegoat can serve as a warning to others. In 1631 a plot was hatched to oust France’s Cardinal Richelieu from power, a plot that became known as “The Day of the Dupes.” It almost succeeded, since it involved the upper echelons of government, including the queen mother. But through luck and his own connivances, Richelieu survived. — location: [4519]() ^ref-31658
+
+---
+hatched to oust — location: [4520]() ^ref-58564
+
+---
+In fact it is often wise to choose the most innocent victim possible as a sacrificial goat. Such people will not be powerful enough to fight you, and their naive protests may be seen as protesting too much—may be seen, in other words, as a sign of their guilt. Be careful, however, not to create a martyr. It is important that you remain the victim, the poor leader betrayed by the incompetence of those around you. If the scapegoat appears too weak and his punishment too cruel, you may end up the victim of your own device. Sometimes you should find a more powerful scapegoat—one who will elicit less sympathy in the long run. — location: [4527]() ^ref-9142
+
+---
+In this vein, history has time and again shown the value of using a close associate as a scapegoat. This is known as the “fall of the favorite.” Most kings had a personal favorite at court, a man whom they singled out, sometimes for no apparent reason, and lavished with favors and attention. But this court favorite could serve as a convenient scapegoat in case of a threat to the king’s reputation. The public would readily believe in the scapegoat’s guilt—why would the king sacrifice his favorite unless he were guilty? And the other courtiers, resentful of the favorite anyway, would rejoice at his downfall. — location: [4532]() ^ref-46923
+
+---
+You may lose a friend or aide, but in the long-term scheme of things, it is more important to hide your mistakes than to hold on to someone who one day will probably turn against you. Besides, you can always find a new favorite to take his place. — location: [4538]() ^ref-49879
+
+---
+Authority: Folly consists not in committing Folly, but in being incapable of concealing it. All men make mistakes, but the wise conceal the blunders they have made, while fools make them public. Reputation depends more on what is hidden than on what is seen. If you can’t be good, be careful. (Baltasar Gracián, 1601-1658) — location: [4544]() ^ref-38984
+
+---
+the two marauders scampered. — location: [4558]() ^ref-20139
+
+---
+under the agreement that he would broker a truce. — location: [4583]() ^ref-7177
+
+---
+pond, — location: [4596]() ^ref-12510
+
+---
+Legend has it that Cleopatra succeeded through her seductive charms, but in reality her power came from an ability to get people to do her bidding without realizing they were being manipulated. Caesar and Antony not only rid her of her most dangerous siblings—Ptolemy XIII and Arsinoe—they decimated all of her enemies, in both the government and the military. The two men became her cat’s-paws. — location: [4601]() ^ref-62597
+
+---
+Like Cleopatra, you need a cat’s-paw. This will usually be a person from outside your immediate circle, who will therefore be unlikely to realize how he or she is being used. — location: [4609]() ^ref-55300
+
+---
+But as they accomplish tasks that may seem to them innocent enough, or at least completely justified, they are actually clearing the field for you, spreading the information you feed them, undermining people they do not realize are your rivals, inadvertently furthering your cause, dirtying their hands while yours remain spotless. — location: [4611]() ^ref-25558
+
+---
+There are two uses of the cat‘s-paw: to save appearances, as Cleopatra did, and to save energy and effort. The latter case in particular demands that you plan several moves in advance, realizing that a temporary move backward (letting Chiang go, say) can lead to a giant leap forward. — location: [4648]() ^ref-41009
+
+---
+Look for a powerful third party who shares an enemy with you (if for different reasons), then take advantage of their superior power to deal blows which would have cost you much more energy, since you are weaker. You can even gently guide them into hostilities. Always search out the overly aggressive as potential cat’s-paws—they are often more than willing to get into a fight, and you can choose just the right fight for your purposes. — location: [4651]() ^ref-59570
+
+---
+Kuriyama Daizen was an adept of Cha-no-yu (Hot Water for Tea, the Japanese tea ceremony) and a student of the teachings of the great tea master Sen no Rikyu. Around 1620 Daizen learned that a friend of his, Hoshino Soemon, had borrowed a large sum of money (300 ryo) to help a relative who had fallen into debt. But although Soemon had managed to bail out his relative, he had simply displaced the burden onto himself. Daizen knew Soemon well—he neither cared nor understood much about money, and could easily get into trouble through slowness in repaying the loan, which had been made by a wealthy merchant called Kawachiya Sanemon. Yet if Daizen offered to help Soemon pay back the loan, he would refuse, out of pride, and might even be offended. — location: [4663]() ^ref-20110
+
+---
+As soon as these words were spoken the merchant’s bird collapsed and fell to the bottom of the cage. “The news of his kins-man’s death has killed him, too, ”thotight the merchant. Sorrowfully he picked up the bird and put it on the windowsill. At once the bird revived and flew to a nearby tree. “Now you know, ”the bird said, “that what you hought was disaster was in fact good news for me. — location: [4689]() ^ref-54321
+
+---
+And how the message, the suggestion of how to behave in order to free myself, was transmitted to me through you, my captor.” And he flew away, free at last. — location: [4691]() ^ref-33428
+
+---
+the granting of a favor is never simple: If it is done with fuss and obviousness, its receiver feels burdened by an obligation. This may give the doer a certain power, but it is a power that will eventually self-destruct, for it will stir up resentment and resistance. A favor done indirectly and elegantly has ten times more power. — location: [4694]() ^ref-57978
+
+---
+never impose your favors. Search out ways to make yourself the cat’s-paw, indirectly extricating your friends from distress without imposing yourself or making them feel obligated to you. — location: [4702]() ^ref-47453
+
+---
+One should not be too straightforward. Go and see the forest. The straight trees are cut down, the crooked ones are left standing. Kautilya, Indian philosopher, third century B.C. — location: [4703]() ^ref-54119
+
+---
+As a leader you may imagine that constant diligence, and the appearance of working harder than anyone else, signify power. Actually, though, they have the opposite effect: They imply weakness. Why are you working so hard? Perhaps you are incompetent, and have to put in extra effort just to keep up; perhaps you are one of those people who does not know how to delegate, and has to meddle in everything. — location: [4706]() ^ref-53495
+
+---
+Truly powerful people keep their hands clean. Only good things surround them, and the only announcements they make are of glorious achievements. — location: [4712]() ^ref-37146
+
+---
+You will often find it necessary, of course, to expend energy, or to effect an evil but necessary action. But you must never appear to be this action’s agent. Find a cat‘s-paw. Develop the arts of finding, using, and, in time, getting rid of these people when their cat’s-paw role has been fulfilled. — location: [4713]() ^ref-50881
+
+---
+The key to planning such a strategy is the ability to think far ahead, to imagine ways in which other people can be baited into doing the job for you. — location: [4723]() ^ref-58898
+
+---
+Dr. Erickson would see the wife alone, and as she talked he would interject interpretations of the husband’s behavior that he knew would rile the husband up if he heard them. Sure enough, the wife would tell her husband what the doctor had said. After a few weeks the husband would be so furious he would insist on joining his wife in the sessions so he could set the doctor straight. Finally, you may well find cases in which deliberately offering yourself as the cat’s-paw will ultimately gain you great power. — location: [4751]() ^ref-40841
+
+---
+As the instrument that protects a master or peer from unpleasantness or danger, you gain immense respect, which sooner or later will pay dividends. And remember: If you can make your assistance subtle and gracious rather than boastful and burdensome, your recompense will be that much the more satisfying and powerful. — location: [4756]() ^ref-38240
+
+---
+you may well find cases in which deliberately offering yourself as the cat’s-paw will ultimately gain you great power. — location: [4754]() ^ref-36026
+
+---
+Authority: Do everything pleasant yourself, everything unpleasant through third parties. By adopting the first course you win favor, by taking the second you deflect ill will. Important affairs often require rewards and punishments. Let only the good come from you and the evil from others. (Baltasar Gracián, 1601-1658) — location: [4763]() ^ref-31348
+
+---
+Eventually the failed assassination and the arguments that ensued from it set off a chain of events that led to a bloody civil war between Catholics and Protestants, culminating in the horrifying Massacre of St. Bartholomew’s Eve, — location: [4776]() ^ref-60980
+
+---
+Massacre of St. Bartholomew’s Eve, — location: [4777]() ^ref-43845
+
+---
+If you have to use a cat’s-paw or a scapegoat in an action of great consequence, be very careful: Too much can go wrong. It is often wiser to use such dupes in more innocent endeavors, where mistakes or miscalculations will cause no serious harm. — location: [4778]() ^ref-61240
+
+---
+LAW 27 PLAY ON PEOPLE’S NEED TO BELIEVE TO CREATE A CULTLIKE FOLLOWING JUDGMENT People have an overwhelming desire to believe in something. Become the focal point of such desire by offering them a cause, a new faith to follow. Keep your words vague but full of promise ; emphasize enthusiasm over rationality and clear thinking. Give your new disciples rituals to perform, ask them to make sacrifices on your behalf. In the absence of organized religion and grand causes, your new belief system will bring you untold power. — location: [4787]() ^ref-35006
+
+---
+you will find the creation of a cultlike following one of the most effective. Having a large following opens up all sorts of possibilities for deception; not only will your followers worship you, they will defend you from your enemies and will voluntarily take on the work of enticing others to join your fledgling cult. — location: [4794]() ^ref-14913
+
+---
+gargantuan — location: [4797]() ^ref-45356
+
+---
+
+As humans, we have a desperate need to believe in something, anything. This makes us eminently gullible: We simply cannot endure long periods of doubt, or of the emptiness that comes from a lack of something to believe in. Dangle in front of us some new cause, elixir, get-rich-quick scheme, or the latest technological trend or art movement and we leap from the water as one to take the bait. — location: [4798]() ^ref-6498
+
+---
+Always in a rush to believe in something, we will manufacture saints and faiths out of nothing. Do not let this gullibility go to waste: Make yourself the object of worship. Make people form a cult around you. — location: [4803]() ^ref-15760
+
+---
+The charlatans had begun by peddling health elixirs and alchemic shortcuts to wealth. Moving quickly from town to town, they originally focused on small groups—until, by accident, they stumbled on a truth of human nature: The larger the group they gathered around themselves, the easier it was to deceive. — location: [4806]() ^ref-16813
+
+---
+rapt — location: [4811]() ^ref-17336
+
+---
+Had the charlatan spoken to them individually, they might have found him ridiculous, but lost in a crowd they got caught up in a communal mood of rapt attention. It became impossible for them to find the distance to be skeptical. Any deficiencies in the charlatan’s ideas were hidden by the zeal of the mass. — location: [4810]() ^ref-59086
+
+---
+With the immense growth of knowledge and its spread through printing in modern times, the mass of the half educated, the eagerly gullible prey of the quack, also increased, became indeed a majority; real power could be based on their wishes, opinions, preferences, and rejections. — location: [4817]() ^ref-3691
+
+---
+The illiterate would be protected against his absurdities by their healthy common sense. His choicest audience would be composed of the semiliterate, those who had exchanged their common sense for a little distorted information and had encountered science and education at some time, though briefly and unsuccessfully.... — location: [4821]() ^ref-26272
+
+---
+gimmicks — location: [4828]() ^ref-59991
+
+---
+Step 1: Keep It Vague; Keep It Simple. To create a cult you must first attract attention. This you should do not through actions, which are too clear and readable, but through words, which are hazy and deceptive. Your initial speeches, conversations, and interviews must include two elements: on the one hand the promise of something great and transformative, and on the other a total vagueness. This combination will stimulate all kinds of hazy dreams in your listeners, who will make their own connections and see what they want to see. — location: [4833]() ^ref-1439
+
+---
+your cult new and fresh, so that few will understand it. Done right, the combination of vague promises, cloudy but alluring concepts, and fiery enthusiasm will stir people’s souls and a group will form around you. — location: [4839]() ^ref-25170
+
+---
+Done right, the combination of vague promises, cloudy but alluring concepts, and fiery enthusiasm will stir people’s souls and a group will form around you. — location: [4840]() ^ref-51653
+
+---
+Talk too vaguely and you have no credibility. But it is more dangerous to be specific. If you explain in detail the benefits people will gain by following your cult, you will be expected to satisfy them. — location: [4841]() ^ref-21592
+
+---
+most people want to hear that a simple solution will cure their problems. The ability to offer this kind of solution will give you great power and build you a following. — location: [4844]() ^ref-8069
+
+---
+Step 2: Emphasize the Visual and the Sensual over the Intellectual. — location: [4847]() ^ref-33723
+
+---
+You need to amuse the bored, then, and ward off the cynics. — location: [4850]() ^ref-53971
+
+---
+Appeal to all the senses: Use incense for scent, soothing music for hearing, colorful charts and graphs for the eye. You might even tickle the mind, perhaps by using new technological gadgets to give your cult a pseudo-scientific veneer—as long as you do not make anyone really think. Use the exotic—distant cultures, strange customs—to create theatrical effects, — location: [4874]() ^ref-51802
+
+---
+Step 3: Borrow the Forms of Organized Religion to Structure the Group. — location: [4878]() ^ref-30983
+
+---
+secular — location: [4880]() ^ref-51697
+
+---
+Create rituals for your followers; organize them into a hierarchy, ranking them in grades of sanctity, and giving them names and titles that resound with religious overtones; — location: [4881]() ^ref-10800
+
+---
+Step 4: Disguise Your Source of Income. Your group has grown, and you have structured it in a churchlike form. Your coffers are beginning to fill with your followers’ money. Yet you must never be seen as hungry for money and the power it brings. — location: [4885]() ^ref-14449
+
+---
+Never reveal that your wealth actually comes from your followers’ pockets; instead, make it seem to come from the truth of your methods. Followers will copy your each and every move in the belief that it will bring them the same results, and their imitative enthusiasm will blind them to the charlatan nature of your wealth. — location: [4889]() ^ref-5286
+
+Yados?
+
+---
+Step 5: Set Up an Us-Versus-Them Dynamic. The group is now large and thriving, a magnet attracting more and more particles. If you are not careful, though, inertia will set in, and time and boredom will demagnetize the group. To keep your followers united, you must now do what all religions and belief systems have done: create an us-versus-them dynamic. First, make sure your followers believe they are part of an exclusive club, unified by a bond of common goals. — location: [4892]() ^ref-59493
+
+---
+Any outsider who tries to reveal the charlatan nature of your belief system can now be described as a member of this devious force. — location: [4897]() ^ref-45364
+
+---
+If you have no enemies, invent one. Given a straw man to react against, your followers will tighten and cohere. — location: [4898]() ^ref-38245
+
+---
+Borri had previously devoted himself to a life of wine, women, and gambling. Now he gave all that up, plunging himself into the study of alchemy and talking only of mysticism and the occult. The transformation was so sudden and miraculous, and Borri’s words were so filled with enthusiasm, that he began to create a following. — location: [4905]() ^ref-23030
+
+---
+His method was simple: He spoke of his vision, which had grown more and more elaborate, and offered to “look into” the soul of anyone who believed him (and they were many). Seemingly in a trance, he would stare at this new follower for several minutes, then claim to have seen the person’s soul, degree of enlightenment, and potential for spiritual greatness. — location: [4910]() ^ref-29076
+
+---
+To become the founder of a new religion one must be psychologically infallible in one’s knowledge of a certain average type of souls who have not yet recognized that they belong together. FRIEDRICH NIETZSCHE, 1844-1900 Men are so simple of mind, and so much dominated by their immediate needs, that a deceitful man will always find plenty who are ready to be deceived.   NICCOLO MACHIAVELLI, 1469-1527 — location: [4922]() ^ref-45297
+
+---
+By only hinting at his accomplishments, he encouraged people’s imaginations to blow them up to fantastic proportions. — location: [4929]() ^ref-60913
+
+---
+The Church continued to pursue him, denouncing him for heresy and witchcraft, and Borri’s response to these charges was a dignified silence; this only enhanced his reputation and made his followers more passionate. Only the great are persecuted, after all; how many understood Jesus Christ in his own time? Borri did not have to say a word—his followers now called the Pope the Antichrist. — location: [4931]() ^ref-24573
+
+---
+He must have noticed, however, that when he alluded to a mystical experience (rather than physical exhaustion) as the source of his conversion, people of all classes wanted to hear more. Realizing the power he could gain by ascribing the change to something external and mysterious, he went further with his manufactured visions. — location: [4960]() ^ref-43410
+
+---
+Remember: People are not interested in the truth about change. They do not want to hear that it has come from hard work, or from anything as banal as exhaustion, boredom, or depression; they are dying to believe in something romantic, otherworldly. — location: [4964]() ^ref-4069
+
+---
+Indulge them. Hint at the mystical source of some personal change, wrap it in ethereal colors, and a cultlike following will form around you. — location: [4966]() ^ref-5838
+
+---
+The messiah must mirror the desires of his followers. And always aim high. The bigger and bolder your illusion, the better. — location: [4967]() ^ref-28692
+
+---
+Trudging — location: [4971]() ^ref-39271
+
+---
+wagon — location: [4988]() ^ref-24094
+
+---
+soothing. — location: [5001]() ^ref-18844
+
+---
+He would sometimes use in his practice some of the village remedies he had grown up with, and apparently he noticed some results, for soon these herbal tinctures — location: [4998]() ^ref-12690
+
+---
+herbal tinctures — location: [4999]() ^ref-41333
+
+---
+ailments, — location: [5003]() ^ref-25740
+
+---
+First, you must find a way to engage people’s will, to make their belief in your powers strong enough that they imagine all sorts of benefits. Their belief will have a self-fulfilling quality, but you must make sure that it is you, rather than their own will, who is seen as the agent of transformation. Find the belief, cause, or fantasy that will make them believe with a passion and they will imagine the rest, worshipping you as healer, prophet, genius, whatever you like. — location: [5004]() ^ref-15112
+
+---
+Second, Schüppach teaches us the everlasting power of belief in nature, and in simplicity. Nature, in reality, is full of much that is terrifying—poisonous plants, fierce animals, sudden disasters, plagues. Belief in the healing, comforting quality of nature is really a constructed myth, a romanticism. But the appeal to nature can bring you great power, especially in complicated and stressful times. — location: [5008]() ^ref-17977
+
+---
+He did not make himself one with nature; instead he molded nature into a cult, an artificial construction. To create a “natural” effect you actually have to work hard, making nature theatrical and delightfully pagan. — location: [5013]() ^ref-16045
+
+---
+Franz Mesmer was at a crossroads. — location: [5016]() ^ref-37448
+
+---
+mischief, — location: [5034]() ^ref-31095
+
+---
+shriek — location: [5052]() ^ref-64136
+
+---
+This is the lesson that Mesmer teaches us: Our tendency to doubt, the distance that allows us to reason, is broken down when we join a group. The warmth and infectiousness of the group overwhelm the skeptical individual. This is the power you gain by creating a cult. — location: [5075]() ^ref-42487
+
+---
+Remember too that the most effective cults mix religion with science. Take the latest technological trend or fad and blend it with a noble cause, a mystical faith, a new form of healing. — location: [5079]() ^ref-42128
+
+---
+Become the magnet, the invisible force that attracts people’s imaginations and holds them together. Once they have clustered around you, no power can wrest them away. — location: [5083]() ^ref-33855
+
+---
+One reason to create a following is that a group is often easier to deceive than an individual, and turns over to you that much more power. This comes, however, with a danger: If at any moment the group sees through you, you will find yourself facing not one deceived soul but an angry crowd that will tear you to pieces as avidly as it once followed you. The charlatans constantly faced this danger, and were always ready to move out of town as it inevitably became clear that their elixirs did not work and their ideas were sham. Too slow and they paid with their lives. — location: [5090]() ^ref-31332
+
+---
+Use spies, be on top of everything, and keep your bags packed. — location: [5096]() ^ref-64810
+
+---
+LAW 28 ENTER ACTION WITH BOLDNESS JUDGMENT If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid. — location: [5100]() ^ref-10506
+
+---
+Hesitation puts obstacles in your path, boldness eliminates them. Once you understand this, you will find it essential to overcome your natural timidity and practice the art of audacity. — location: [5123]() ^ref-51125
+
+---
+The Bolder the Lie the Better. We all have weaknesses, and our efforts are never perfect. But entering action with boldness has the magical effect of hiding our deficiencies. — location: [5126]() ^ref-17553
+
+---
+Lions Circle the Hesitant Prey. — location: [5130]() ^ref-2737
+
+---
+once you are seen as the kind of person who quickly goes on the defensive, who is willing to negotiate and be amenable, you will be pushed around without mercy. — location: [5132]() ^ref-50517
+
+---
+Boldness Strikes Fear; Fear Creates Authority. The bold move makes you seem larger and more powerful than you are. — location: [5134]() ^ref-21556
+
+---
+Hesitation Creates Gaps, Boldness Obliterates Them. When you take time to think, to hem and haw, you create a gap that allows others time to think as well. Your timidity infects people with awkward energy, elicits embarrassment. Doubt springs up on all sides. Boldness destroys such gaps. — location: [5141]() ^ref-28495
+
+---
+In seduction, hesitation is fatal—it makes your victim conscious of your intentions. The bold move crowns seduction with triumph: It leaves no time for reflection. — location: [5144]() ^ref-43752
+
+---
+Suddenly, however, he realized that the director had changed his tone. Instead of talking about the tower, he was complaining about his low salary, about his wife’s desire for a fur coat, about how galling it was to work hard and be unappreciated. It dawned on Monsieur P. that this high government official was asking for a bribe. The effect on him, though, was not outrage but relief. Now he was sure that Lustig was for real, since in all of his previous encounters with French bureaucrats, they had inevitably asked for a little greasing of the palm. — location: [5169]() ^ref-51629
+
+---
+Largeness of scale deceives the human eye. It distracts and awes us, and is so self-evident that we cannot imagine there is any illusion or deception afoot. Arm yourself with bigness and boldness—stretch your deceptions as far as they will go and then go further. — location: [5183]() ^ref-34390
+
+---
+If you sense that the sucker has suspicions, do as the intrepid Lustig did: Instead of backing down, or lowering his price, he simply raised his price higher, by asking for and getting a bribe. Asking for more puts the other person on the defensive, cuts out the nibbling effect of compromise and doubt, and overwhelms with its boldness. — location: [5185]() ^ref-16353
+
+---
+Always set to work without misgivings on the score of imprudence. Fear of failure in the mind of a performer is, for an onlooker, already evidence of failure.... Actions are dangerous when there is doubt as to their wisdom; it would be safer to do nothing. BALTASAR GRACIÁN, 1601-1658 — location: [5187]() ^ref-56382
+
+---
+The aristocracy—the boyars—secretly rejoiced: For years the dukes of Moscow had been trying to extend their authority over the boyars’ turf. With Vasily dead, his heir a mere three years old, and a young woman in charge of the dukedom, the boyars would be able to roll back the dukes’ gains, wrest control of the state, and humiliate the royal family. — location: [5209]() ^ref-25809
+
+---
+This is how Ivan met such a situation: He lay low, showing neither ambition nor discontent. He waited, and when the time came he brought the palace guards over to his side. The guards had come to hate the cruel Shuiskys. Once they agreed to Ivan’s plan, he struck with the swiftness of a snake, pointing his finger at Shuisky and giving him no time to react. — location: [5231]() ^ref-1810
+
+---
+scullion — location: [5237]() ^ref-28012
+
+---
+Entitled “The Last Will and Testament of the Elephant Hanno,” it read, in part, “To my heir the Cardinal Santa Croce, I give my knees, so that he can imitate my genuflections.... To my heir Cardinal Santi Quattro, I give my jaws, so that he can more readily devour all of Christ’s revenues.... To my heir Cardinal Medici, I give my ears, so that he can hear everyone’s doings....” To Cardinal Grassi, who had a reputation for lechery, the elephant bequeathed the appropriate, oversized part of his own anatomy. — location: [5244]() ^ref-52819
+
+---
+I give my ears, so that he can hear everyone’s doings....” To Cardinal Grassi, who had a reputation for lechery, the elephant bequeathed the appropriate, oversized part of his own anatomy. — location: [5246]() ^ref-1120
+
+---
+To Cardinal Grassi, who had a reputation for lechery, the elephant bequeathed the appropriate, oversized part of his own anatomy. — location: [5247]() ^ref-16335
+
+---
+The Aretino strategy is simple: When you are as small and obscure as David was, you must find a Goliath to attack. The larger the target, the more attention you gain. The bolder the attack, the more you stand out from the crowd, and the more admiration you earn. — location: [5259]() ^ref-36529
+
+---
+Society is full of those who think daring thoughts but lack the guts to print and publicize them. Voice what the public feels—the expression of shared feelings is always powerful. — location: [5261]() ^ref-53082
+
+El que se hizo rico vendiendo pegatinas para teslas criticando a elon pero alabando los teslas
+
+---
+We are terrified of the consequences, of what others might think of us, of the hostility we will stir up if we dare go beyond our usual place. Although we may disguise our timidity as a concern for others, a desire not to hurt or offend them, in fact it is the opposite—we are really self-absorbed, worried about ourselves and how others perceive us. — location: [5270]() ^ref-48455
+
+---
+effrontery. — location: [5274]() ^ref-32630
+
+---
+engulfed, — location: [5278]() ^ref-30073
+
+---
+The moment the seducer hesitates, the charm is broken, because we become aware of the process, of their deliberate effort to seduce us, of their self-consciousness. Boldness directs attention outward and keeps the illusion alive. It never induces awkwardness or embarrassment. And so we admire the bold, and prefer to be around them, because their self-confidence infects us and draws us outside our own realm of inwardness and reflection. HOW IOBL. — location: [5279]() ^ref-23076
+
+---
+You must practice and develop your boldness. You will often find uses for it. The best place to begin is often the delicate world of negotiation, particularly those discussions in which you are asked to set your own price. How often we put ourselves down by asking for too little. When Christopher Columbus proposed that the Spanish court finance his voyage to the Americas, he also made the insanely bold demand that he be called “Grand Admiral of the Ocean.” The court agreed. The price he set was the price he received—he demanded to be treated with respect, and so he was. — location: [5297]() ^ref-16216
+
+---
+Henry Kissinger — location: [5301]() ^ref-18203
+
+---
+piecemeal — location: [5302]() ^ref-27048
+
+---
+Understand: If boldness is not natural, neither is timidity. It is an acquired habit, picked up out of a desire to avoid conflict. If timidity has taken hold of you, then, root it out. Your fears of the consequences of a bold action are way out of proportion to reality, and in fact the consequences of timidity are worse. Your value is lowered and you create a self-fulfilling cycle of doubt and disaster. — location: [5303]() ^ref-19577
+
+---
+Remember: The problems created by an audacious move can be disguised, even remedied, by more and greater audacity. — location: [5305]() ^ref-1946
+
+---
+Authority: I certainly think that it is better to be impetuous than cautious, for fortune is a woman, and it is necessary, if you wish to master her, to conquer her by force; and it can be seen that she lets herself be overcome by the bold rather than by those who proceed coldly. And therefore, like a woman, she is always a friend to the young, because they are less cautious, fiercer, and master her with greater audacity. (Niccolò Machiavelli, 1469-1527) — location: [5311]() ^ref-34691
+
+---
+Boldness should never be the strategy behind all of your actions. It is a tactical instrument, to be used at the right moment. Plan and think ahead, and make the final element the bold move that will bring you success. — location: [5315]() ^ref-60675
+
+---
+Timidity has no place in the realm of power; you will often benefit, however, by being able to feign it. At that point, of course, it is no longer timidity but an offensive weapon: You are luring people in with your show of shyness, all the better to pounce on them boldly later. — location: [5323]() ^ref-30945
+
+---
+LAW 29 PLAN ALL THE WAY TO THE END JUDGMENT The ending is everything. Plan all the way to it, taking into account all the possible consequences, obstacles, and twists of fortune that might reverse your hard work and give the glory to others. By planning to the end you will not be overwhelmed by circumstances and you will know when to stop. Gently guide fortune and help determine the future by thinking far ahead. — location: [5326]() ^ref-37063
+
+---
+stowaway — location: [5332]() ^ref-58498
+
+---
+There are very few men—and they are the exceptions—who are able to think and feel beyond the present moment.   CARL VON CLAUSEWITZ, 1780-1831 — location: [5334]() ^ref-28485
+
+---
+Look to the end, no matter what it is you are considering. Often enough, God gives a man a glimpse of happiness, and then utterly ruins him. THE HISTORIES, HERODOTUS, FIFTH CENTURY B.C. — location: [5363]() ^ref-22962
+
+---
+lumber. — location: [5378]() ^ref-42935
+
+---
+“My advice is this: Never begin anything until you have reflected what will be the end of it.” — location: [5388]() ^ref-56911
+
+---
+Not long afterward a plotter desired to kill the king. He bribed the royal surgeon with a promise of the prime ministership if he thrust a poisoned lancet into the king’s arm. When the time came to let some of the king’s blood, a silver basin was placed to catch the blood. Suddenly the surgeon became aware of the words engraved upon it: “Never begin anything until you have reflected what will be the end of it. ” It was only then that he realized that if the plotter became king he could have the surgeon killed instantly, and would not need to fulfill his bargain. The king, seeing that the surgeon was now trembling, asked him what was wrong with hun. And so he confessed the truth, at that very moment. The plotter was seized; and the king sent for all the people who had been present when the abdal gave his advice, and said to them: “Do you still laugh at the dervish?” CARAVAN OF DREAMS. IDRIES SHAH, 1968 — location: [5393]() ^ref-40460
+
+---
+Most men are ruled by the heart, not the head. Their plans are vague, and when they meet obstacles they improvise. — location: [5401]() ^ref-27956
+
+---
+Balboa had a dream of glory and wealth, and a vague plan to reach it. Yet his bold deeds, and his discovery of the Pacific, are largely forgotten, for he committed what in the world of power is the ultimate sin: He went part way, leaving the door open for others to take over. — location: [5403]() ^ref-61580
+
+---
+Balboa should have kept his knowledge of the Incas secret until after he had conquered Peru. Only then would his wealth, and his head, have been secure. — location: [5406]() ^ref-41742
+
+---
+What good is it to have the greatest dream in the world if others reap the benefits and the glory? Never lose your head over a vague, open-ended dream—plan to the end. — location: [5409]() ^ref-63431
+
+---
+In 1863 the Prussian premier Otto von Bismarck surveyed the chessboard of European power as it then stood. The main players were England, France, and Austria. Prussia itself was one of several states in the loosely allied German Federation. Austria, dominant member of the Federation, made sure that the other German states remained weak, divided and submissive. Bismarck believed that Prussia was destined for something far greater than servant boy to Austria. This is how Bismarck played the game. His first move was to start a war with lowly Denmark, in order to recover the former Prussian lands of Schleswig-Holstein. He knew that these rumblings of Prussian independence might worry France and England, so he enlisted Austria in the war, claiming that he was recovering Schleswig-Holstein for their benefit. In a few months, after the war was decided, Bismarck demanded that the newly conquered lands be made part of Prussia. — location: [5411]() ^ref-53873
+
+---
+forfeits — location: [5438]() ^ref-7269
+
+---
+The person who goes too far in his triumphs creates a reaction that inevitably leads to a decline. The only solution is to plan for the long run. Foresee the future with as much clarity as the gods on Mount Olympus, who look through the clouds and see the ends of all things. — location: [5442]() ^ref-14167
+
+---
+Experience shows that, if one foresees from far away the designs to be undertaken, one can act with speed when the moment comes to execute them. Cardinall Richelieu, 1585-1642 — location: [5451]() ^ref-49754
+
+---
+the ability to ignore immediate dangers and pleasures translates into power. — location: [5459]() ^ref-25826
+
+---
+Most people believe that they are in fact aware of the future, that they are planning and thinking ahead. They are usually deluded: What they are really doing is succumbing to their desires, to what they want the future to be. Their plans are vague, based on their imaginations rather than their reality. — location: [5461]() ^ref-9247
+
+---
+Cardinal de Retz later wrote, “is their being too much frightened at the present danger, and not enough so at that which is remote.” — location: [5474]() ^ref-5948
+
+---
+How many plans we would instantly abort if we realized we were avoiding a small danger only to step into a larger one. So much of power is not what you do but what you do not do—the rash and foolish actions that you refrain from before they get you into trouble. Plan in detail before you act—do not let vague plans lead you into trouble. — location: [5476]() ^ref-41639
+
+---
+Unhappy endings are much more common than happy ones—do not be swayed by the happy ending in your mind. — location: [5479]() ^ref-6548
+
+---
+rabble-rouser — location: [5481]() ^ref-62010
+
+---
+The ending is everything. It is the end of the action that determines who gets the glory, the money, the prize. Your conclusion must be crystal clear, and you must keep it constantly in mind. You must also figure out how to ward off the vultures circling overhead, trying to live off the carcass of your creation. And you must anticipate the many possible crises that will tempt you to improvise. — location: [5487]() ^ref-32179
+
+---
+Bismarck — location: [5490]() ^ref-56143
+
+---
+When you see several steps ahead, and plan your moves all the way to the end, you will no longer be tempted by emotion or by the desire to improvise. Your clarity will rid you of the anxiety and vagueness that are the primary reasons why so many fail to conclude their actions successfully. You see the ending and you tolerate no deviation. — location: [5492]() ^ref-37867
+
+---
+Authority: How much easier it is never to get in than to get yourself out! We should act contrary to the reed which, when it first appears, throws up a long straight stem but afterwards, as though it were exhausted ... makes several dense knots, indicating that it no longer has its original vigor and drive. We must rather begin gently and coolly, saving our breath for the encounter and our vigorous thrusts for finishing off the job. In their beginnings it is we who guide affairs and hold them in our power; but so often once they are set in motion, it is they which guide us and sweep us along. (Montaigne, 1533-1592) — location: [5501]() ^ref-8437
+
+---
+It is a cliché among strategists that your plan must include alternatives and have a degree of flexibility. That is certainly true. If you are locked into a plan too rigidly, you will be unable to deal with sudden shifts of fortune. Once you have examined the future possibilities and decided on your target, you must build in alternatives and be open to new routes toward your goal. Most people, however, lose less from overplanning and rigidity than from vagueness and a tendency to improvise constantly in the face of circumstance. — location: [5506]() ^ref-23867
+
+---
+LAW 30 MAKE YOUR ACCOMPLISHMENTS SEEM EFFORTLESS JUDGMENT Your actions must seem natural and executed with ease. All the toil and practice that go into them, and also all the clever tricks, must be concealed. When you act, act effortlessly, as if you could do much more. Avoid the temptation of revealing how hard you work—it only raises questions. Teach no one your tricks or they will be used against you. — location: [5513]() ^ref-4755
+
+---
+Date Masamune once sent for Tannyu to decorate a pair of gold screens seven feet high. The artist said he thought black-and-white sketches would suit them, and went home again after considering them carefully. The next morning he came early and made a large quantity of ink into which he dipped a horseshoe he had brought with him, and then proceeded to make impressions of this all over one of the screens. Then, with a large brush, he drew a number of lines across them. Meanwhile Masamune had come in to watch his work, and at this he could contain his irritation no longer, and muttering, “What a beastly mess!” — location: [5518]() ^ref-22550
+
+---
+To Sen no Rikyu, the sudden appearance of something naturally, almost accidentally graceful was the height of beauty. This beauty came without warning and seemed effortless. — location: [5571]() ^ref-32400
+
+---
+Nature does not reveal its tricks, and what imitates nature by appearing effortless approximates nature’s power. — location: [5576]() ^ref-5692
+
+---
+The challengers refused, suspecting his request was a trick to find out how the locks worked. Undeterred, and without using his hands, Houdini managed to lift the coat over his shoulders, turn it inside out, remove a penknife from his vest pocket with his teeth, and, by moving his head, cut the coat off his arms. Freed from the coat, he stepped back into the cabinet, the audience roaring with approval at his grace and dexterity. — location: [5585]() ^ref-3545
+
+---
+he had himself sealed inside an enormous envelope from which he emerged without breaking the paper; he passed through brick walls; he wriggled free from straitjackets while dangling high in the air; he leaped from bridges into icy waters, his hands manacled and his legs in chains; he had himself submerged in glass cases full of water, hands pad-locked, while the audience watched in amazement as he worked himself free, struggling for close to an hour apparently without breathing. — location: [5595]() ^ref-54256
+
+---
+For guesses and doubts about the extent of his talents arouse more veneration than accurate knowledge of them, be they ever so great. BALTASAR GRACIÁN. 1601-1658 — location: [5620]() ^ref-37562
+
+---
+Keep your effort and your tricks to yourself and you seem to have the grace and ease of a god. — location: [5639]() ^ref-56028
+
+---
+Humanity’s first notions of power came from primitive encounters with nature—the flash of lightning in the sky, a sudden flood, the speed and ferocity of a wild animal. These forces required no thinking, no planning—they awed us by their sudden appearance, their gracefulness, and their power over life and death. And this remains the kind of power we have always wanted to imitate. — location: [5643]() ^ref-59781
+
+---
+Through science and technology we have re-created the speed and sublime power of nature, but something is missing: Our machines are noisy and jerky, they reveal their effort. Even the very best creations of technology cannot root out our admiration for things that move easily and effortlessly. The power of children to bend us to their will comes from a kind of seductive charm that we feel in the presence of a creature less reflective and more graceful than we are. We cannot return to such a state, but if we can create the appearance of this kind of ease, we elicit in others the kind of primitive awe that nature has always evoked in hu mankind. One of the first European writers to expound on this principle came from that most unnatural of environments, the Renaissance court. In The Book of the Courtier, published in 1528, Baldassare Castiglione describes the highly elaborate and codified manners of the perfect court citizen. And yet, Castiglione explains, the courtier must execute these gestures with what he calls sprezzatura, the capacity to make the difficult seem easy. He urges the courtier to “practice in all things a certain nonchalance which conceals all artistry and makes whatever one says or does seem uncontrived and effortless.” We all admire the achievement of some unusual feat, but if it is accomplished naturally and gracefully, our admiration increases tenfold—“whereas ... to labor at what one is doing and ... to make bones over it, shows an extreme lack of grace and causes everything, whatever its worth, to be discounted.” Much of the idea of sprezzatura came from the world of art. All the great Renaissance artists carefully kept their works under wraps. Only the finished masterpiece could be shown to the public. — location: [5646]() ^ref-17499
+
+---
+Much of the idea of sprezzatura came from the world of art. All the great Renaissance artists carefully kept their works under wraps. Only the finished masterpiece could be shown to the public. — location: [5657]() ^ref-52064
+
+---
+mar — location: [5660]() ^ref-32065
+
+---
+the effort of their effects. We have the same response when we watch performers who put too much effort into their act: Seeing them trying so hard breaks the illusion. It also makes us uncomfortable. Calm, graceful performers, on the other hand, set us at ease, creating the illusion that they are not acting but being natural and themselves, even when everything they are doing involves labor and practice. — location: [5663]() ^ref-22612
+
+---
+What is understandable is not awe-inspiring—we tell ourselves we could do as well if we had the money and time. Avoid the temptation of showing how clever you are—it is far more clever to conceal the mechanisms of your cleverness. — location: [5668]() ^ref-12322
+
+---
+Talleyrand’s application of this concept to his daily life greatly enhanced the aura of power that surrounded him. He never liked to work too hard, so he made others do the work for him—the spying, the research, the detailed analyses. With all this labor at his disposal, he himself never seemed to strain. — location: [5670]() ^ref-56310
+
+---
+When his spies revealed that a certain event was about to take place, he would talk in social conversation as if he sensed its imminence. The result was that people thought he was clairvoyant. His short pithy statements and witticisms always seemed to summarize a situation perfectly, but they were based on much research and thought. — location: [5672]() ^ref-33504
+
+---
+When you let this information out, you give people ideas they can use against you. You lose the advantages of keeping silent. — location: [5676]() ^ref-4134
+
+---
+Learn to control this propensity to blab, for its effect is often the opposite of what you expected. Remember: The more mystery surrounds your actions, the more awesome your power seems. You appear to be the only one who can do what you do—and the appearance of having an exclusive gift is immensely powerful. Finally, because you achieve your accomplishments with grace and ease, people believe that you could always do more if you tried harder. This elicits not only admiration but a touch of fear. Your powers are untapped—no one can fathom their limits. Image: The Racehorse. From up close we would see the strain, the effort to control the horse, the labored, painful breathing. But from the distance where we sit and watch, it is all gracefulness, flying through the air. Keep others at a distance and they will only see the ease with which you move.       Authority: For whatever action [nonchalance] accompanies, no matter how trivial it is, it not only reveals the skill of the person doing it but also very often causes it to be considered far greater than it really is. This is because it makes the onlookers believe that a man who performs well with so much facility must — location: [5679]() ^ref-50463
+
+---
+The more mystery surrounds your actions, the more awesome your power seems. You appear to be the only one who can do what you do—and the appearance of having an exclusive gift is immensely powerful. Finally, because you achieve your accomplishments with grace and ease, people believe that you could always do more if you tried harder. This elicits not only admiration but a touch of fear. Your powers are untapped—no one can fathom their limits. — location: [5680]() ^ref-51976
+
+---
+Authority: For whatever action [nonchalance] accompanies, no matter how trivial it is, it not only reveals the skill of the person doing it but also very often causes it to be considered far greater than it really is. — location: [5686]() ^ref-53976
+
+---
+(Baldassare Castiglione, — location: [5689]() ^ref-56097
+
+---
+A zeal to conceal your work creates an unpleasant, almost paranoiac impression: you are taking the game too seriously. — location: [5691]() ^ref-5885
+
+---
+The secrecy with which you surround your actions must seem lighthearted in spirit. A zeal to conceal your work creates an unpleasant, almost paranoiac impression: you are taking the game too seriously. — location: [5690]() ^ref-48226
+
+---
+There are also times when revealing the inner workings of your projects can prove worthwhile. It all depends on your audience’s taste, and on the times in which you operate. — location: [5694]() ^ref-47775
+
+---
+As long as the partial disclosure of tricks and techniques is carefully planned, rather than the result of an uncontrollable need to blab, it is the ultimate in cleverness. It gives the audience the illusion of being superior and involved, even while much of what you do remains concealed from them. — location: [5699]() ^ref-5106
+
+---
+LAW 31 CONTROL THE OPTIONS: GET OTHERS TO PLAY WITH THE CARDS YOU DEAL — location: [5702]() ^ref-5204
+
+---
+JUDGMENT The best deceptions are the ones that seem to give the other person a choice: Your victims feel they are in control, but are actually your puppets. Give people options that come out in your favor whichever one they choose. Force them to make choices between the lesser of two evils, both of which serve your purpose. Put them on the horns of a dilemma: They are gored wherever they turn. — location: [5703]() ^ref-4668
+
+---
+defecting — location: [5714]() ^ref-9132
+
+---
+suitors — location: [5770]() ^ref-28700
+
+---
+Such is the power of giving people a choice, or rather the illusion of one, for they are playing with cards you have dealt them. — location: [5800]() ^ref-14136
+
+---
+bevy — location: [5804]() ^ref-8375
+
+---
+The illusion of choice, married to the possibility of future good fortune, will lure the most stubborn sucker into your glittering web. — location: [5807]() ^ref-30103
+
+---
+We “choose” to believe that the game is fair, and that we have our freedom. We prefer not to think too much about the depth of our liberty to choose. This unwillingness to probe the smallness of our choices stems from the fact that too much freedom creates a kind of anxiety. The phrase “unlimited options” sounds infinitely promising, but unlimited options would actually paralyze us and cloud our ability to choose. Our limited range of choices comforts us. — location: [5818]() ^ref-9496
+
+---
+Setting up a narrow range of choices, then, should always be a part of your deceptions. There is a saying: If you can get the bird to walk into the cage on its own, it will sing that much more prettily. — location: [5824]() ^ref-56913
+
+---
+So Kissinger would propose three or four choices of action for each situation, and would present them in such a way that the one he preferred always seemed the best solution compared to the others. Time after time, Nixon fell for the bait, never suspecting that he was moving where Kissinger pushed him. This is an excellent device to use on the insecure master. — location: [5830]() ^ref-61463
+
+---
+Alter the Playing Field. In the 1860s, John D. Rockefeller set out to create an oil monopoly. If he tried to buy up the smaller oil companies they would figure out what he was doing and fight back. Instead, he began secretly buying up the railway companies that transported the oil. When he then attempted to take over a particular company, and met with resistance, he reminded them of their dependence on the rails. Refusing them shipping, or simply raising their fees, could ruin their business. Rockefeller altered the playing field so that the only options the small oil producers had were the ones he gave them. — location: [5840]() ^ref-35627
+
+---
+The Shrinking Options. — location: [5846]() ^ref-4752
+
+---
+because tomorrow they would have to settle for something worse, perhaps at even higher prices. A variation on this technique is to raise the price every time the buyer hesitates and another day goes by. This is an excellent negotiating ploy to use on the chronically indecisive, who will fall for the idea that they are getting a better deal today than if they wait till tomorrow. — location: [5851]() ^ref-28178
+
+---
+The Weak Man on the Precipice. — location: [5855]() ^ref-20431
+
+---
+Retz discovered a way to handle him: He would describe all sorts of dangers, exaggerating them as much as possible, until the duke saw a yawning abyss in every direction except one: the one Retz was pushing him to take. — location: [5857]() ^ref-35035
+
+---
+This tactic is similar to “Color the Choices,” but with the weak you have to be more aggressive. Work on their emotions—use fear and terror to propel them into action. — location: [5859]() ^ref-45114
+
+---
+It is often wise to implicate in your deceptions the very person who can do you the most harm if you fail. Their involvement can be subtle—even a hint of their involvement will narrow their options and buy their silence. — location: [5865]() ^ref-27139
+
+---
+Brothers in Crime. — location: [5862]() ^ref-16324
+
+---
+The lawyer leads the witnesses to decide between two possible explanations of an event, both of which poke a hole in their story. They have to answer the lawyer’s questions, but whatever they say they hurt themselves. The key to this move is to strike quickly: Deny the victim the time to think of an escape. — location: [5870]() ^ref-14811
+
+---
+When Ivan left Moscow for his rural village, the citizens asking him to return agreed to his demand for absolute power. Over the years to come, they resented him less for the terror he unleashed on the country, because, after all, they had granted him his power themselves. This is why it is always good to allow your victims their choice of poison, and to cloak your involvement in providing it to them as far as possible. — location: [5876]() ^ref-39078
+
+---
+For the wounds and every other evil that men inflict upon themselves spontaneously, and of their own choice, are in the long run less painful than those inflicted by others. (Niccolò Machiavelli, 1469-1527) REVERSAL Controlling the options has one main purpose: to disguise yourself as the agent of power and punishment. — location: [5881]() ^ref-44012
+
+---
+Authority: For the wounds and every other evil that men inflict upon themselves spontaneously, and of their own choice, are in the long run less painful than those inflicted by others. (Niccolò Machiavelli, 1469-1527) — location: [5881]() ^ref-63351
+
+---
+On the other hand, by limiting other people’s options you sometimes limit your own. There are situations in which it is to your advantage to allow your rivals a large degree of freedom: As you watch them operate, you give yourself rich opportunities to spy, gather information, and plan your deceptions. — location: [5887]() ^ref-5410
+
+---
+The more freedom he allowed them in the short term, the more forcefully he could act against them in the long run. — location: [5890]() ^ref-6233
+
+---
+LAW 32 PLAY TO PEOPLE’S FANTASIES JUDGMENT The truth is often avoided because it is ugly and unpleasant. Never appeal to truth and reality unless you are prepared for the anger that comes from disenchantment. Life is so harsh and distressing that people who can manufacture romance or conjure up fantasy are like oases in the desert: Everyone flocks to them. There is great power in tapping into the fantasies of the masses. — location: [5892]() ^ref-58844
+
+---
+dwindled. — location: [5920]() ^ref-35452
+
+---
+profligacy, — location: [5954]() ^ref-44640
+
+---
+To gain power, you must be a source of pleasure for those around you—and pleasure comes from playing to people’s fantasies. Never promise a gradual improvement through hard work; rather, promise the moon, the great and sudden transformation, the pot of gold. — location: [5973]() ^ref-11458
+
+Alude a los pecados capitales como la avaricia con dinero facil, o pereza con resultados rapidos y fáciles
+
+---
+No man need despair of gaining converts to the most extravagant hypothesis who has art enough to represent it in favorable colors. David Hume, 1711-1776 If you want to tell lies that will be believed, don’t tell the truth that won’t.   EMPEROR TOKUGAWA IEYASU OF JAPAN, SEVENTEENTH CENTURY — location: [5975]() ^ref-19518
+
+---
+In sixteenth-century Venice, the reality was one of decline and loss of prestige. The corresponding fantasy described a sudden recovery of past glories through the miracle of alchemy. — location: [5981]() ^ref-3122
+
+---
+The person who can spin a fantasy out of an oppressive reality has access to untold power. — location: [5983]() ^ref-51538
+
+---
+Never be distracted by people’s glamorous portraits of themselves and their lives; search and dig for what really imprisons them. Once you find that, you have the magical key that will put great power in your hands. — location: [5985]() ^ref-18190
+
+Pecados
+
+---
+The Reality: Change is slow and gradual. It requires hard work, a bit of luck, a fair amount of self-sacrifice, and a lot of patience. The Fantasy: A sudden transformation will bring a total change in one’s fortunes, bypassing work, luck, self-sacrifice, and time in one fantastic stroke. — location: [5988]() ^ref-9318
+
+---
+Promise a great and total change—from poor to rich, sickness to health, misery to ecstasy—and you will have followers. — location: [5993]() ^ref-49163
+
+---
+The bodily charms of the mistress only whet the master’s appetite for more and different pleasures, a new beauty to adore. To bring power, fantasy must remain to some degree unrealized, literally unreal. — location: [6011]() ^ref-10966
+
+---
+The Reality: Society is fragmented and full of conflict. The Fantasy: People can come together in a mystical union of souls. — location: [6019]() ^ref-2436
+
+---
+Remember: The key to fantasy is distance. The distant has allure and promise, seems simple and problem free. What you are offering, then, should be ungraspable. Never let it become oppressively familiar; it is the mirage in the distance, withdrawing as the sucker approaches. Never be too direct in describing the fantasy—keep it vague. As a forger of fantasies, let your victim come close enough to see and be tempted, but keep him far away enough that he stays dreaming and desiring. — location: [6035]() ^ref-53045
+
+---
+Authority: A lie is an allurement, a fabrication, that can be embellished into a fantasy. It can be clothed in the raiments of a mystic conception. Truth is cold, sober fact, not so comfortable to absorb. A lie is more palatable. The most detested person in the world is the one who always tells the truth, who never romances.... I found it far more interesting and profitable to romance than to tell the truth. (Joseph Weil, a.k.a. “The Yellow Kid,” 1875-1976) — location: [6044]() ^ref-48276
+
+---
+Never make the mistake of imagining that fantasy is always fantastical. It certainly contrasts with reality, but reality itself is sometimes so theatrical and stylized that fantasy becomes a desire for simple things. The image Abraham Lincoln created of himself, for example, as a homespun country lawyer with a beard, made him the common man’s president. — location: [6057]() ^ref-19746
+
+---
+Should you play with such a fantasy, you too must carefully cultivate distance and not allow your “common” persona to become too familiar or it will not project as fantasy. LAW — location: [6064]() ^ref-54210
+
+---
+LAW 33 DISCOVER EACH MAN’S THUMBSCREW JUDGMENT Everyone has a weakness, a gap in the castle wall. That weakness is usually an insecurity, an uncontrollable emotion or need; it can also be a small secret pleasure. Either way, once found, it is a thumbscrew you can turn to your advantage. — location: [6066]() ^ref-24318
+
+---
+Those who disguise them are often the ones most effectively undone through that one chink in their armor. — location: [6075]() ^ref-58162
+
+---
+Some people wear their weaknesses openly, others disguise them. Those who disguise them are often the ones most effectively undone through that one chink in their armor. — location: [6074]() ^ref-43320
+
+---
+Pay Attention to Gestures and Unconscious Signals. As Sigmund Freud remarked, “No mortal can keep a secret. If his lips are silent, he chatters with his fingertips; betrayal oozes out of him at every pore.” This is a critical concept in the search for a person’s weakness—it is revealed by seemingly unimportant gestures and passing words. — location: [6089]() ^ref-2529
+
+---
+Everyday conversation supplies the richest mine of weaknesses, so train yourself to listen. Start by always seeming interested—the appearance of a sympathetic ear will spur anyone to talk. — location: [6092]() ^ref-48818
+
+---
+appear to open up to the other person, to share a secret with them. It can be completely made up, or it can be real but of no great importance to you—the important thing is that it should seem to come from the heart. This will usually elicit a response that is not only as frank as yours but more genuine—a response that reveals a weakness. — location: [6094]() ^ref-39135
+
+---
+If, for instance, you sense that a man has a need to be loved, openly flatter him. If he laps up your compliments, no matter how obvious, you are on the right track. Train your eye for details—how someone tips a waiter, what delights a person, the hidden messages in clothes. Find people’s idols, the things they worship and will do anything to get—perhaps you can be the supplier of their fantasies. — location: [6097]() ^ref-3857
+
+---
+Remember: Since we all try to hide our weaknesses, there is little to be learned from our conscious behavior. What oozes out in the little things outside our conscious control is what you want to know. — location: [6100]() ^ref-59494
+
+---
+Find the Helpless Child. Most weaknesses begin in childhood, before the self builds up compensatory defenses. Perhaps the child was pampered or indulged in a particular area, or perhaps a certain emotional need went unfulfilled; as he or she grows older, the indulgence or the deficiency may be buried but never disappears. Knowing about a childhood need gives you a powerful key to a person’s weakness. — location: [6102]() ^ref-51152
+
+---
+One sign of this weakness is that when you touch on it the person will often act like a child. Be on the lookout, then, for any behavior that should have been outgrown. If your victims or rivals went without something important, such as parental support, when they were children, supply it, or its facsimile. If they reveal a secret taste, a hidden indulgence, indulge it. — location: [6105]() ^ref-59298
+
+---
+Look for Contrasts. An overt trait often conceals its opposite. People who thump their chests are often big cowards; a prudish exterior may hide a lascivious soul; the uptight are often screaming for adventure; the shy are dying for attention. By probing beyond appearances, you will often find people’s weaknesses in the opposite of the qualities they reveal to you. — location: [6109]() ^ref-56837
+
+---
+Find the Weak Link. Sometimes in your search for weaknesses it is not what but who that matters. In today’s versions of the court, there is often someone behind the scenes who has a great deal of power, a tremendous influence over the person superficially on top. These behind-the-scenes powerbrokers are the group’s weak link: Win their favor and you indirectly influence the king. Alternatively, even in a group of people acting with the appearance of one will—as when a group under attack closes ranks to resist an outsider—there is always a weak link in the chain. Find the one person who will bend under pressure. — location: [6112]() ^ref-26555
+
+---
+with the appearance of one will—as when a group under attack closes ranks to resist an outsider—there is always a weak link in the chain. Find the one person who will bend under pressure. — location: [6115]() ^ref-34528
+
+---
+Fill the Void. The two main emotional voids to fill are insecurity and unhappiness. The insecure are suckers for any kind of social validation; as for the chronically unhappy, look for the roots of their unhappiness. The insecure and the unhappy are the people least able to disguise their weaknesses. The ability to fill their emotional voids is a great source of power, and an indefinitely prolongable one. — location: [6117]() ^ref-31893
+
+---
+Feed on Uncontrollable Emotions. The uncontrollable emotion can be a paranoid fear—a fear disproportionate to the situation—or any base motive such as lust, greed, vanity, or hatred. People in the grip of these emotions often cannot control themselves, and you can do the controlling for them. — location: [6121]() ^ref-47834
+
+---
+Cardinal Richelieu, gave a speech before representatives of the three estates of France—clergy, nobility, and commoners. — location: [6139]() ^ref-63330
+
+---
+Remember: When entering the court, find the weak link. The person in control is often not the king or queen; it is someone behind the scenes—the favorite, the husband or wife, even the court fool. This person may have more weaknesses than the king himself, because his power depends on all kinds of capricious factors outside his control. Finally, when dealing with helpless children who cannot make decisions, play on their weakness and push them into bold ventures. They will have to depend on you even more, for you will become the adult figure whom they rely on to get them out of scrapes and to safety. — location: [6179]() ^ref-17045
+
+---
+Remember: When searching for suckers, always look for the dissatisfied, the unhappy, the insecure. Such people are riddled with weaknesses and have needs that you can fill. Their neediness is the groove in which you place your thumbnail and turn them at will. — location: [6230]() ^ref-37179
+
+---
+This will often afford a good opportunity of observing the boundless egoism of a man’s nature, and his total lack of consideration for others; and if these defects show themselves in small things, or merely in his general demeanour, you will find that they also underlie his action in matters of importance, although he may disguise the fact. This is an opportunity which should not be missed. If in the little affairs of every day—the trifles of life...—a man is inconsiderate and seeks only what is advantageous or convenient to himself, to the prejudice of others’ rights; if he appropriates to himself that which belongs to all alike, you may be sure there is no justice in his heart, and that he would be a scoundrel on a wholesale scale, only that law and compulsion bind his hands. — location: [6248]() ^ref-64895
+
+---
+Catherine had seen very early on the sway that a mistress has over a man of power: Her own husband, Henri II, had kept one of the most infamous mistresses of them all, Diane de Poitiers. — location: [6259]() ^ref-20487
+
+---
+And while I am on the subject, there is another fact that deserves mention. It is this. A man shows his character just in the way in which he deals with trifles-for then he is off his guard. This will often afford a good opportunity of observing the boundless egoism of a man’s nature, and his total lack of consideration for others; and if these defects show themselves in small things, or merely in his general demeanour, you will find that they also underlie his action in matters of importance, although he may disguise the fact. This is an opportunity which should not be missed. If in the little affairs of every day—the trifles of life...—a man is inconsiderate and seeks only what is advantageous or convenient to himself, to the prejudice of others’ rights; if he appropriates to himself that which belongs to all alike, you may be sure there is no justice in his heart, and that he would be a scoundrel on a wholesale scale, only that law and compulsion bind his hands.   Arthur SCHOPENHAUER, 1788-1860 — location: [6247]() ^ref-37911
+
+---
+Remember: Always look for passions and obsessions that cannot be controlled. The stronger the passion, the more vulnerable the person. This may seem surprising, for passionate people look strong. In fact, however, they are simply filling the stage with their theatricality, distracting people from how weak and helpless they really are. A man’s need to conquer women actually reveals a tremendous helplessness that has made suckers out of them for thousands of years. Look at the part of a person that is most visible—their greed, their lust, their intense fear. — location: [6265]() ^ref-37255
+
+---
+He made her feel that she deserved his attention not because she was the wife of one of the wealthiest men in the world but because of her own special character—and this completely melted her. — location: [6302]() ^ref-59850
+
+---
+All you have to do is find ways to make people feel better about their taste, their social standing, their intelligence. Once the fish are hooked, you can reel them in again and again, for years—you are filling a positive role, giving them what they cannot get on their own. — location: [6306]() ^ref-8109
+
+---
+“Yes, then we shall be dead! We must die sooner or later, and could there be a more respectable way of dying? I should die fighting for the cause of my king and master. Your Majesty would die sealing with your own blood your royal rights granted by God’s grace. Whether upon the scaffold or upon the battlefield makes no difference to the glorious staking of body and life on behalf of rights granted by God’s grace!” On he went, appealing to William’s sense of honor and the majesty of his position as head of the army. — location: [6322]() ^ref-43346
+
+---
+Timidity is a potent weakness to exploit. Timid souls often yearn to be their opposite—to be Napoleons. Yet they lack the inner strength. You, in essence, can become their Napoleon, pushing them into bold actions that serve your needs while also making them dependent on you. — location: [6333]() ^ref-45100
+
+---
+Playing on people’s weakness has one significant danger: You may stir up an action you cannot control. In your games of power you always look several steps ahead and plan accordingly. And you exploit the fact that other people are more emotional and incapable of such foresight. — location: [6343]() ^ref-2949
+
+---
+Push timid people into bold action and they may go too far; answer their need for attention or recognition and they may need more than you want to give them. The helpless, childish element you are playing on can turn against you. The more emotional the weakness, the greater the potential danger. Know the limits to this game, then, and never get carried away by your control over your victims. — location: [6346]() ^ref-2386
+
+---
+LAW 34 BE ROYAL IN YOUR OWN FASHION: ACT LIKE A KING TO BE TREATED LIKE ONE JUDGMENT The way you carry yourself will often determine how you are treated: — location: [6351]() ^ref-2155
+
+---
+Once the king had made news by treating the banker as an equal; now the banker treated the king as an inferior. — location: [6370]() ^ref-41412
+
+---
+The only kind of common touch that works is the kind affected by Franklin Roosevelt, a style that said the president shared values and goals with the common people even while he remained a patrician at heart. He never pretended to erase his distance from the crowd. Leaders who try to dissolve that distance through a false chumminess gradually lose the ability to inspire loyalty, fear, or love. — location: [6397]() ^ref-11975
+
+---
+By asking for the moon, he had instantly raised his own status, for the king assumed that unless a man who set such a high price on himself were mad, which Columbus did not appear to be, he must somehow be worth it. — location: [6422]() ^ref-60480
+
+---
+stipend — location: [6453]() ^ref-9721
+
+---
+Columbus had an amazing power to charm the nobility, and it all came from the way he carried himself. He projected a sense of confidence that was completely out of proportion to his means. Nor was his confidence the aggressive, ugly self-promotion of an upstart—it was a quiet and calm self-assurance. In fact it was the same confidence usually shown by the nobility themselves. — location: [6463]() ^ref-35948
+
+---
+Understand: It is within your power to set your own price. How you carry yourself reflects what you think of yourself. If you ask for little, shuffle your feet and lower your head, people will assume this reflects your character. — location: [6468]() ^ref-7428
+
+---
+With all great deceivers there is a noteworthy occurrence to which they owe their power. In the actual act of deception they are overcome by belief in themselves: it is this which then speaks so miraculously and compellingly to those around them. Friedrich Nietzsche, 1844-1900 — location: [6471]() ^ref-59676
+
+---
+As children, we start our lives with great exuberance, expecting and demanding everything from the world. This generally carries over into our first forays into society, as we begin our careers. But as we grow older the rebuffs and failures we experience set up boundaries that only get firmer with time. — location: [6475]() ^ref-5752
+
+Por eso años atrás tenia menos miedo al rechazo que ahora
+
+---
+Coming to expect less from the world, we accept limitations that are really self-imposed. We start to bow and scrape and apologize for even the simplest of requests. The solution to such a shrinking of horizons is to deliberately force ourselves in the opposite direction—to downplay the failures and ignore the limitations, to make ourselves demand and expect as much as the child. — location: [6477]() ^ref-17783
+
+---
+The Strategy of the Crown is based on a simple chain of cause and effect: If we believe we are destined for great things, our belief will radiate outward, just as a crown creates an aura around a king. This outward radiance will infect the people around us, who will think we must have reasons to feel so confident. — location: [6480]() ^ref-47624
+
+---
+Regal bearing should not be confused with arrogance. Arrogance may seem the king’s entitlement, but in fact it betrays insecurity. It is the very opposite of a royal demeanor. — location: [6493]() ^ref-2604
+
+---
+Tafari’s grace under fire, his patience, and his calm self-assurance fascinated the king. The other young nobles, arrogant, blustery, and envious, would push this slight, bookish teenager around. But he never got angry—that would have been a sign of insecurity, to which he would not stoop. — location: [6499]() ^ref-1877
+
+---
+The Italians in the audience heckled him with vulgar abuse, but he maintained his dignified pose, as if completely unaffected. This elevated him while making his opponents look even uglier. Dignity, in fact, is invariably the mask to assume under difficult circumstances: It is as if nothing can affect you, and you have all the time in the world to respond. This is an extremely powerful pose. — location: [6503]() ^ref-40438
+
+Como scarface, su impulsividad lo mató
+
+---
+First, the Columbus Strategy: Always make a bold demand. Set your price high and do not waver. Second, in a dignified way, go after the highest person in the building. This immediately puts you on the same plane as the chief executive you are attacking. It is the David and Goliath Strategy: By choosing a great opponent, you create the appearance of greatness. — location: [6512]() ^ref-37914
+
+---
+Third, give a gift of some sort to those above you. This is the strategy of those who have a patron: By giving your patron a gift, you are essentially saying that the two of you are equal. It is the old con game of giving so that you can take. — location: [6514]() ^ref-27655
+
+---
+The gift strategy is subtle and brilliant because you do not beg: You ask for help in a dignified way that implies equality between two people, one of whom just happens to have more money. — location: [6519]() ^ref-13528
+
+---
+Remember: It is up to you to set your own price. Ask for less and that is just what you will get. Ask for more, however, and you send a signal that you are worth a king’s ransom. — location: [6521]() ^ref-21807
+
+---
+Do not wait for a coronation; the great est emperors crown themselves. — location: [6525]() ^ref-36118
+
+---
+Had Charles reacted to the times with insight, supporting reforms and making a show of sacrificing some of his power, history might have been different. Instead he reverted to an even more regal pose, seeming outraged by the assault on his power and on the divine institution of monarchy. His stiff kingliness offended people and spurred on their revolts. And eventually Charles lost his head, literally. Understand: You are radiating confidence, not arrogance or disdain. — location: [6537]() ^ref-37489
+
+---
+Never make the mistake of thinking that you elevate yourself by humiliating people. Also, it is never a good idea to loom too high above the crowd—you make an easy target. And there are times when an aristocratic pose is eminently dangerous. — location: [6534]() ^ref-33835
+
+---
+Oliver Cromwell. — location: [6537]() ^ref-60234
+
+---
+LAW 35 MASTER THE ART OF TIMING JUDGMENT Never seem to be in a hurry-hurrying betrays a lack of control over yourself, and over time. Always seem patient, as if you know that everything will come to you eventually. Become a detective of the right moment; sniff out the spirit of the times, the trends that will carry you to power. Learn to stand back when the time is not yet ripe, and to strike fiercely when it has reached fruition. — location: [6544]() ^ref-58553
+
+---
+Sertorius’s — location: [6550]() ^ref-11108
+
+---
+pressing their demands regardless of the circumstances, he let them have their way and allowed them to engage the enemy; he hoped that they would suffer a severe defeat without being completely crushed, and that this would make them better disposed to obey his orders in future. The event turned out as he expected and Sertorius came to their rescue, provided a rallying point for the fugitives, and led them safely back to his camp. — location: [6553]() ^ref-38653
+
+---
+lusty — location: [6557]() ^ref-45123
+
+---
+Now Time, you should remember, is a good friend and ally to those who use their intelligence to choose the right moment, but a most dangerous enemy to those who rush into action at the wrong one.”   LIFE OF SERTORIUS, PLUTARCH, — location: [6566]() ^ref-35668
+
+---
+Robespierre, — location: [6573]() ^ref-51666
+
+---
+Power rarely ends up in the hands of those who start a revolution, or even of those who further it; power sticks to those who bring it to a conclusion. That was the side Fouche wanted to be on. — location: [6577]() ^ref-1023
+
+---
+uncanny. — location: [6578]() ^ref-4653
+
+---
+Fouché, — location: [6603]() ^ref-23984
+
+---
+First, it is critical to recognize the spirit of the times. Fouché always looked two steps ahead, found the wave that would carry him to power, and rode it. You must always work with the times, anticipate twists and turns, and never miss the boat. — location: [6646]() ^ref-59161
+
+---
+Look forward to the Napoleons of the future rather than holding on to the ruins of the past. — location: [6649]() ^ref-27859
+
+---
+When the times were against Fouché, he did not struggle, get emotional, or strike out rashly. He kept his cool and maintained a low profile, patiently building support among the citizenry, the bulwark in his next rise to power. — location: [6654]() ^ref-49744
+
+---
+Recognize the moment, then, to hide in the grass or slither under a rock, as well as the moment to bare your fangs and attack. — location: [6656]() ^ref-46103
+
+---
+The time of a child is long and slow, with vast expanses; the time of an adult whizzes by frighteningly fast. Time, then, depends on perception, which, we know, can be willfully altered. — location: [6661]() ^ref-29944
+
+---
+If the inner turmoil caused by our emotions tends to make time move faster, it follows that once we control our emotional responses to events, time will move much more slowly. — location: [6662]() ^ref-18195
+
+---
+First there is long time: the drawn-out, years-long kind of time that must be managed with patience and gentle guidance. Our handling of long time should be mostly defensive—this is the art of not reacting impulsively, of waiting for opportunity. Next there is forced time: the short-term time that we can manipulate as an offensive weapon, upsetting the timing of our opponents. Finally there is end time, when a plan must be executed with speed and force. We have waited, found the moment, and must not hesitate. — location: [6672]() ^ref-56490
+
+---
+When you force the pace out of fear and impatience, you create a nest of problems that require fixing, and you end up taking much longer than if you had taken your time. — location: [6684]() ^ref-43555
+
+Visteme despacio..
+
+---
+Sometimes not acting in the face of danger is your best move—you wait, you deliberately slow down. As time passes it will eventually present opportunities you had not imagined. — location: [6687]() ^ref-26988
+
+---
+Waiting involves controlling not only your own emotions but those of your colleagues, who, mistaking action for power, may try to push you into making rash moves. — location: [6688]() ^ref-13778
+
+---
+First, when your mind is uncluttered by constant emergencies you will see further into the future. Second, you will be able to resist the baits that people dangle in front of you, and will keep yourself from becoming another impatient sucker. — location: [6703]() ^ref-25251
+
+---
+Do not be a flash in the pan—success that is built up slowly and surely is the only kind that lasts. — location: [6707]() ^ref-38627
+
+---
+Forced Time. The trick in forcing time is to upset the timing of others—to make them hurry, to make them wait, to make them abandon their own pace, to distort their perception of time. — location: [6711]() ^ref-57192
+
+---
+Making people wait is a powerful way of forcing time, as long as they do not figure out what you are up to. You control the clock, they linger in limbo—and rapidly come unglued, opening up opportunities for you to strike. — location: [6723]() ^ref-34955
+
+---
+The opposite effect is equally powerful: You make your opponents hurry. Start off your dealings with them slowly, then suddenly apply pressure, making them feel that everything is happening at once. People who lack the time to think will make mistakes—so set their deadlines for them. — location: [6724]() ^ref-27523
+
+---
+Freud noticed that patients who had spent years in psychoanalysis without improvement would miraculously recover just in time if he fixed a definite date for the end of the therapy. — location: [6729]() ^ref-20709
+
+---
+The slower the magician’s hands move, the easier it is to create the illusion of speed, making people think the rabbit has appeared instantaneously. — location: [6737]() ^ref-13382
+
+---
+You can wait as long as necessary for the conclusion to come, but when it comes it must come quickly. Use speed to paralyze your opponent, cover up any mistakes you might make, and impress people with your aura of authority and finality. — location: [6746]() ^ref-13653
+
+---
+There is never a good reason to allow the slightest hitch in your endgame. — location: [6749]() ^ref-16432
+
+---
+Authority: There is a tide in the affairs of men, / Which, taken at the flood, leads on to fortune; / Omitted, all the voyage of their life / Is bound in shallows and in miseries. — location: [6758]() ^ref-60854
+
+---
+There is accordingly no reversal to this law. LAW — location: [6761]() ^ref-13351
+
+---
+LAW 36 DISDAIN THINGS YOU CANNOT HAVE: IGNORING THEM IS THE BEST REVENGE JUDGMENT By acknowledging a petty problem you give it existence and credibility. The more attention you pay an enemy, the stronger you make him; and a small mistake is often made worse and more visible when you try to fix it. It is sometimes best to leave things alone. If there is something you want but cannot have, show contempt for it. The less interest you reveal, the more superior you seem. — location: [6763]() ^ref-41167
+
+---
+dwindled — location: [6772]() ^ref-3662
+
+---
+A starving fox ... saw a cluster Of luscious-looking grapes of purplish luster Dangling above him on a trellis-frame. He would have dearly liked them for his lunch, But when he tried and failed to reach the bunch: “Ah well, it’s more than likely they’re not sweet—Good only for green fools to eat!”   Wasn’t he wise to say they were unripe Rather than whine and gripe? — location: [6789]() ^ref-2250
+
+---
+Pancho Villa — location: [6806]() ^ref-51381
+
+---
+slapstick — location: [6801]() ^ref-16593
+
+---
+And in the end this white elephant of an army had to lumber out of Mexico, humiliated. — location: [6811]() ^ref-18928
+
+---
+meadow, — location: [6818]() ^ref-16555
+
+---
+mischief — location: [6819]() ^ref-587
+
+---
+Remember: You choose to let things bother you. You can just as easily choose not to notice the irritating offender, to consider the matter trivial and unworthy of your interest. That is the powerful move. What you do not react to cannot drag you down in a futile engagement. — location: [6830]() ^ref-36093
+
+---
+If it is impossible to ignore (Pancho Villa had in fact killed American citizens), then conspire in secret to do away with it, but never inadvertently draw attention to the bothersome insect that will go away or die on its own. If you waste time and energy in such entanglements, it is your own fault. — location: [6833]() ^ref-14039
+
+---
+When you pay attention to a person, the two of you become partners of sorts, each moving in step to the actions and reactions of the other. In the process you lose your initiative. — location: [6866]() ^ref-24574
+
+---
+By ignoring people you cancel them out. This unsettles and infuriates them—but since they have no dealings with you, there is nothing they can do. — location: [6872]() ^ref-35223
+
+---
+And in this view it is advisable to let everyone of your acquaintance—whether man or woman—feel now and then that you could very well dispense with their company. This will consolidate friendship. — location: [6873]() ^ref-51581
+
+---
+Chi non stima vien stimato, as a subtle Italian proverb has it—to disregard is to win regard. — location: [6876]() ^ref-20636
+
+---
+LEO TOLSTOY, — location: [6882]() ^ref-42670
+
+---
+A monkey was carrying two handfuls of peas. One little pea dropped out. He tried to pick it up, and spilt twenty. He tried to pick up the twenty, and spilt them all. Then he lost his temper, scattered the peas in all directions, and ran away. FABLES, LEO TOLSTOY, — location: [6880]() ^ref-22577
+
+---
+It is a topsyturvy way of behaving to take to heart cares which you ought to throw over your shoulder. Many things which seemed important [at the time] turn out to be of no account when they are ignored; and others, which seem trifling, appear formidable when you pay attention to them. — location: [6889]() ^ref-13372
+
+---
+In many cases, the remedy itself is the cause of the disease: to let things be is not the least satisfactory of life’s rules. BALTASAR GRACIÁN, 1601-1658 — location: [6891]() ^ref-45147
+
+---
+Desire often creates paradoxical effects: The more you want something, the more you chase after it, the more it eludes you. The more interest you show, the more you repel the object of your desire. This is because your interest is too strong—it makes people awkward, even fearful. Uncontrollable desire makes you seem weak, unworthy, pathetic. You need to turn your back on what you want, show your contempt and disdain. This is the kind of powerful response that will drive your targets crazy. — location: [6894]() ^ref-35791
+
+---
+That was the weapon of King Louis XIV—if he did not like you, he acted as if you were not there, maintaining his superiority by cutting off the dynamic of interaction. — location: [6901]() ^ref-49053
+
+---
+By paying undue attention to a puny enemy, you look puny, and the longer it takes you to crush such an enemy, the larger the enemy seems. — location: [6904]() ^ref-57016
+
+---
+A second danger: If you succeed in crushing the irritant, or even if you merely wound it, you create sympathy for the weaker side. — location: [6909]() ^ref-14940
+
+---
+In reality the publication of the Pentagon Papers was not a serious threat to the administration, but Kissinger’s reaction made it a big deal. In trying to fix one problem, he created another: a paranoia for security that in the end was much more destructive to the government. Had he ignored the Pentagon Papers, the scandal they had created would eventually have blown over. — location: [6921]() ^ref-11997
+
+---
+If there is something you want but that you realize you cannot have, the worst thing you can do is draw attention to your disappointment by complaining about it. An infinitely more powerful tactic is to act as if it never really interested you in the first place. — location: [6926]() ^ref-63037
+
+---
+One man tries with all his might to seize the goddess, and only loses his time and his trouble. Another seems, to all appearance, to be running out of her sight; but, no: she herself takes a pleasure in pursuing him. — location: [6937]() ^ref-25505
+
+---
+“but really there is not much harm done. This Ido tea-bowl is a very old one and it is impossible to say how much longer it would have lasted, but anyhow it is not a thing of any public use, so I think it rather fortunate that it has broken thus.” — location: [6947]() ^ref-5875
+
+---
+Among equals this tactic might backfire: Your indifference could make you seem callous. But with a master, if you act quickly and without great fuss, it can work to great effect: You bypass his angry response, save him the time and energy he would waste by brooding over it, and allow him the opportunity to display his own lack of pettiness publicly. If we make excuses and denials when we are caught in a mistake or a deception, we stir the waters and make the situation worse. — location: [6951]() ^ref-54234
+
+---
+aghast — location: [6957]() ^ref-28282
+
+---
+Remember: The powerful responses to niggling, petty annoyances and irritations are contempt and disdain. Never show that something has affected you, or that you are offended—that only shows you have acknowledged a problem. Contempt is a dish that is best served cold and without affectation. — location: [6960]() ^ref-63496
+
+---
+Authority: Know how to play the card of contempt. It is the most politic kind of revenge. For there are many of whom we should have known nothing if their distinguished opponents had taken no notice of them. There is no revenge like oblivion, for it is the entombment of the unworthy in the dust of their own nothingness. (Baltasar Gracián, 1601-1658) — location: [6967]() ^ref-7565
+
+---
+Ignore a person of inferior stature and the next time you look he has become a serious rival, and your contempt has made him vengeful as well. — location: [6971]() ^ref-35542
+
+---
+Often, then, while you show contempt publicly you will also need to keep an eye on the problem privately, monitoring its status and making sure it goes away. Do not let it become a cancerous cell. — location: [6974]() ^ref-60821
+
+---
+Develop the skill of sensing problems when they are still small and taking care of them before they become intractable. Learn to distinguish between the potentially disastrous and the mildly irritating, the nuisance that will quietly go away on its own. In either case, though, never completely take your eye off it. As long as it is alive it can smolder and spark into life. — location: [6975]() ^ref-25537
+
+---
+LAW 37 CREATE COMPELLING SPECTACLES JUDGMENT Striking imagery and grand symbolic gestures create the aura of power—everyone responds to them. Stage spectacles for those around you, then, full of arresting visuals and radiant symbols that heighten your presence. Dazzled by appearances, no one will notice what you are really doing. — location: [6979]() ^ref-10506
+
+---
+Dr. Weisleder may have known nothing about medicine, but he understood human nature. He recognized that people do not always want words, or rational explanations, or demonstrations of the powers of science; they want an immediate appeal to their emotions. — location: [7021]() ^ref-63934
+
+---
+Simply by associating himself with the image of the moon, the doctor gained power. — location: [7027]() ^ref-55102
+
+---
+Remember: Your search for power depends on shortcuts. You must always circumvent people’s suspicions, their perverse desire to resist your will. Images are an extremely effective shortcut: — location: [7028]() ^ref-56839
+
+---
+Overwhelming the eyes, they create powerful associations, bringing people together and stirring their emotions. — location: [7030]() ^ref-25974
+
+---
+Find an image or symbol from the past that will neatly fit your situation, and put it on your shoulders like a cape. It will make you seem larger than life. — location: [7079]() ^ref-41102
+
+---
+It also happens that words offend us, stirring up associations unintended by the speaker. The visual, on the other hand, short-circuits the labyrinth of words. It strikes with an emotional power and immediacy that leave no gaps for reflection and doubt. Like music, it leaps right over rational, reasonable thoughts. — location: [7092]() ^ref-37836
+
+---
+Understand: Words put you on the defensive. If you have to explain yourself your power is already in question. The image, on the other hand, imposes itself as a given. It discourages questions, creates forceful associations, resists unintended interpretations, communicates instantly, and forges bonds that transcend social differences. — location: [7097]() ^ref-27362
+
+---
+As Gracián said, “The truth is generally seen, rarely heard.” — location: [7109]() ^ref-37215
+
+---
+Never neglect the way you arrange things visually. Factors like color, for example, have enormous symbolic resonance. — location: [7112]() ^ref-61403
+
+---
+When the con artist Yellow Kid Weil created a newsletter touting the phony stocks he was peddling, — location: [7113]() ^ref-6548
+
+---
+Most effective of all is a new combination—a fusion of images and symbols that have not been seen together before, but that through their association clearly demonstrate your new idea, message, religion. — location: [7121]() ^ref-6366
+
+---
+Things change in the game of symbols: It is probably no longer possible to pose as a “sun king,” or to wrap the mantle of Diana around you. Yet you can associate yourself with such symbols more indirectly. And, of course, you can make your own mythology out of figures from more recent history, people who are comfortably dead but still powerfully associative in the public eye. — location: [7131]() ^ref-44870
+
+---
+Use the power of symbols as a way to rally, animate, and unite your troops or team. — location: [7141]() ^ref-47870
+
+---
+Authority: The people are always impressed by the superficial appearance of things.... The [prince] should, at fitting times of the year, keep the people occupied and distracted with festivities and spectacles. (Niccolò Machiavelli, 1469-1527) — location: [7153]() ^ref-49316
+
+---
+LAW 38 THINK AS YOU LIKE BUT BEHAVE LIKE OTHERS JUDGMENT If you make a show of going against the times, flaunting your unconventional ideas and unorthodox ways, people will think that you only want attention and that you look down upon them. They will find a way to punish you for making them feel inferior. It is far safer to blend in and nurture the common touch. Share your originality only with tolerant friends and those who are sure to appreciate your uniqueness. THINK WITH THE FEW AND SPEAK WITH THE MANY — location: [7157]() ^ref-57983
+
+---
+Truth is for the few, error is as usual as it is vulgar. Nor is the wise man to be recognized by what he says in the marketplace, for he speaks there not with his own voice, but with that of universal folly, however much his inmost thoughts may gainsay it: The wise man avoids being contradicted as sedulously as he avoids contradicting; the publicity of censure is withheld from that which readily provokes it. Thought is free; it cannot and should not be coerced; retire into the sanctuary of your silence and if you sometimes allow yourself to break it, do so under the aegis of a discreet few. BALTASAR GRACIÁN, 1601-1658 — location: [7165]() ^ref-20853
+
+---
+To quell the possibility of mutiny, the — location: [7183]() ^ref-38840
+
+---
+Cultures have norms that reflect centuries of shared beliefs and ideals. Do not expect to scoff at such things with impunity. — location: [7208]() ^ref-40312
+
+---
+They are using the outward appearance of the exotic to separate themselves from the common folk who unques tioningly follow the local customs and laws, and to express their sense of superiority. Otherwise they would act with more dignity, showing respect for those who do not share their desires. Indeed their need to show their difference so dramatically often makes them disliked by the people whose beliefs they challenge, indirectly and subtly, perhaps, but offensively nonetheless. As Thucydides wrote of Pausanias, “By his contempt for the laws and his imitation of foreign ways he had made himself very widely suspected of being unwilling to abide by normal standards.” Cultures have norms that reflect centuries of shared beliefs and ideals. Do not expect to scoff at such things with impunity. You will be punished somehow, even if just through isolation—a position of real powerlessness. Many of us, like Pausanias, feel the siren call of the exotic, the foreign. Measure and moderate this desire. Flaunting your pleasure in alien ways of thinking and acting will reveal a different motive—to demonstrate your superiority over your fellows. Wise — location: [7203]() ^ref-21557
+
+---
+Wise men [should be] like coffers with double bottoms: Which when others look into, being opened, they see not all that they hold. SIR WALTER RALEIGH, 1554-1618 — location: [7211]() ^ref-13719
+
+---
+Many of us, like Pausanias, feel the siren call of the exotic, the foreign. Measure and moderate this desire. Flaunting your pleasure in alien ways of thinking and acting will reveal a different motive—to demonstrate your superiority over your fellows. — location: [7209]() ^ref-65079
+
+---
+Finally, however, he took the decision to drink the new water because he could not bear the loneliness of living, behaving and thinking in a different way from everyone else. He drank the new water, and became like the rest. Then he forgot all about his own store of special water, and his fellows began to look upon him as a madman who had miraculously been restored to sanity. TALES OF THE DERVISHES, IDRIES SHAH, 1967 — location: [7221]() ^ref-65094
+
+---
+A follower of the materialist doctrine of the Roman philosopher Epicurus, Campanella did not believe in miracles, or in heaven and hell. The Church had promoted such superstitions, he wrote, to control the common folk by keeping them in fear. Such ideas verged on atheism, and Campanella expressed them incautiously. In 1593 the Inquisition threw him into prison for his heretical beliefs. — location: [7229]() ^ref-20179
+
+---
+To save his life, Campanella feigned madness. He let his inquisitors imagine that his beliefs stemmed from an incontrollable unsoundness of mind. — location: [7239]() ^ref-10739
+
+---
+The Hispanic Monarchy was in fact a ploy, an attempt to show his conversion to orthodoxy in the boldest manner possible. It worked: In 1626, six years after its publication, the pope finally let Campanella out of prison. — location: [7245]() ^ref-12568
+
+---
+Brief and eloquent, the heretics’ arguments seemed bold and sincere. The lengthy arguments for Catholicism seemed tiresome and unconvincing. Catholics who read the book found it disturbing and ambiguous, but they could not claim it was heretical, or that Campanella should be returned to prison. His defense of Catholicism, after all, used arguments they had used themselves. Yet in the years to come, Atheism Conquered became a bible for atheists, Machiavellians and libertines who used the arguments Campanella had put in their mouths to defend their dangerous ideas. Combining an outward display of conformity with an expression of his true beliefs in a way that his sympathizers would understand, — location: [7252]() ^ref-10290
+
+---
+In the face of awesome persecution, Campanella devised three strategic moves that saved his hide, freed him from prison, and allowed him to continue to express his beliefs. First he feigned madness—the medieval equivalent of disavowing responsibility for one’s actions, like blaming one’s parents today. — location: [7258]() ^ref-60333
+
+---
+Martyrdom serves no purpose—better to live on in an oppressive world, even to thrive in it. Meanwhile find a way to express your ideas subtly for those who understand you. Laying your pearls before swine will only bring you trouble. — location: [7266]() ^ref-58185
+
+---
+For a long time I have not said what I believed, nor do I ever believe what I say, and if indeed sometimes I do happen to tell the truth, I hide it among so many lies that it is hard to find. Niccolò Machiavelli, — location: [7275]() ^ref-24771
+
+---
+We all tell lies and hide our true feelings, for complete free expression is a social impossibility. — location: [7278]() ^ref-24060
+
+---
+There are people, however, who see such restraints as an intolerable infringement on their freedom, and who have a need to prove the superiority of their values and beliefs. In the end, though, their arguments convince only a few and offend a great deal more. The reason arguments do not work is that most people hold their ideas and values without thinking about them. — location: [7282]() ^ref-64287
+
+---
+Wise and clever people learn early on that they can display conventional behavior and mouth conventional ideas without having to believe in them. — location: [7286]() ^ref-45663
+
+---
+Once they have established themselves in a position of power, they can try to convince a wider circle of the correctness of their ideas—perhaps working indirectly, using Campanella’s strategies of irony and insinuation. — location: [7288]() ^ref-36966
+
+---
+Many of the converts lived their outward lives as Catholics, yet somehow managed to retain their Jewish beliefs, practicing the religion in private. Many of these so-called Marranos (originally a derogatory term, being the Spanish for “pig”) attained high levels of government office, married into the nobility, and gave every appearance of Christian piety, only to be discovered late in life as practicing Jews. (The Spanish Inquisition was specifically commissioned to ferret them out.) Over the years they mastered the art of dissimulation, displaying crucifixes liberally, giving generous gifts to churches, even occasionally making anti-Semitic remarks—and all the while maintaining their inner freedom and beliefs. In society, the Marranos knew, outward appearances are what matter. — location: [7292]() ^ref-30862
+
+---
+best.” “You are certainly wrong there,” said the traveller. “I can tell you....” They buried the stranger in the dusk. — location: [7302]() ^ref-26707
+
+---
+If Machiavelli had had a prince for disciple, the first thing he would have recommended him to do would have been to write a book against Machiavellism. VOLTAIRE, 1694-1778 — location: [7304]() ^ref-7677
+
+---
+Leaders like Julius Caesar and Franklin D. Roosevelt have overcome their natural aristocratic stance to cultivate a familiarity with the common man. They have expressed this familiarity in little gestures, often symbolic, to show the people that their leaders share popular values, despite their different status. — location: [7323]() ^ref-38540
+
+D trump hugging the black woman
+
+---
+People will swallow the bait because it flatters them to believe that you share their ideas. They will not take you as a hypocrite if you are careful—for how can they accuse you of hypocrisy if you do not let them know exactly what you stand for? Nor will they see you as lacking in values. Of course you have values—the values you share with them, while in their company. — location: [7328]() ^ref-38055
+
+---
+Authority: Do not give dogs what is holy; and do not throw your pearls before swine, lest they trample them under foot and turn to attack you. (Jesus Christ, Matthew 7:6) — location: [7331]() ^ref-7275
+
+---
+The only time it is worth standing out is when you already stand out—when you have achieved an unshakable position of power, and can display your difference from others as a sign of the distance between you. As president of the United States, Lyndon Johnson would sometimes hold meetings while he sat on the toilet. Since no one else either could or would claim such a “privilege,” Johnson was showing people that he did not have to observe the protocols and niceties of others. — location: [7335]() ^ref-15626
+
+Musk istiendo mal delante depoliticos trajeados
+
+---
+The truth is that even those who attain the heights of power would be better off at least affecting the common touch, for at some point they may need popular support. — location: [7341]() ^ref-27159
+
+---
+Finally, there is always a place for the gadfly, the person who successfully defies custom and mocks what has grown lifeless in a culture. Oscar Wilde, for example, achieved considerable social power on this foundation: He made it clear that he disdained the usual ways of doing things, and when he gave public readings his audiences not only expected him to insult them but welcomed it. We notice, however, that his eccentric role eventually destroyed him. Even had he come to a better end, remember that he possessed an unusual genius: Without his gift to amuse and delight, his barbs would simply have offended people. — location: [7342]() ^ref-1576
+
+---
+LAW 39 STIR UP WATERS TO CATCH FISH JUDGMENT Anger and emotion are strategically counterproductive. You must always stay calm and objective. But if you can make your enemies angry while staying calm yourself, you gain a decided advantage. Put your enemies off-balance: Find the chink in their vanity through which you can rattle them and you hold the strings. — location: [7347]() ^ref-51517
+
+---
+contempt — location: [7375]() ^ref-14189
+
+---
+Losing your temper, you always make unfair and exaggerated accusations. A few such tirades and people are counting the days until you are gone. — location: [7395]() ^ref-25051
+
+---
+To show your frustration is to show that you have lost your power to shape events; it is the helpless action of the child who resorts to a hysterical fit to get his way. The powerful never reveal this kind of weakness. — location: [7398]() ^ref-56421
+
+---
+There were a number of things Napoleon could have done in this situation. He could have thought about the fact that two eminently sensible men had had reason to turn against him, and could have listened and learned from them. He could have tried to win them back to him. He could even have gotten rid of them, making their imprisonment or death an ominous display of his power. No tirades, no childish fits, no embarrassing after-effects—just a quiet and definitive severing of ties. — location: [7400]() ^ref-13797
+
+---
+Remember: Tantrums neither intimidate nor inspire loyalty. They only create doubts and uneasiness about your power. — location: [7403]() ^ref-13541
+
+---
+A monkey, whilst munching a ripe pear, was pestered by the bare-faced importunities of a wasp, who, nolens volens, would have a part. — location: [7433]() ^ref-37375
+
+---
+This is the essence of the Law: When the waters are still, your opponents have the time and space to plot actions that they will initiate and control. So stir the waters, force the fish to the surface, get them to act before they are ready, steal the initiative. The best way to do this is to play on uncontrollable emotions—pride, vanity, love, hate. Once the water is stirred up, the little fish cannot help but rise to the bait. The angrier they become, the less control they have, and finally they are caught in the whirlpool you have made, and they drown. — location: [7443]() ^ref-64837
+
+---
+Stump High Priest. — location: [7450]() ^ref-24036
+
+---
+Kin ’yo, an officer of the second rank, had a brother called the High Priest Ryogaku, an extremely bad-tempered man. Next to his monastery grew a large nettle-tree which occasioned the nickname people gave him, the Nettle-tree High Priest. “That name is outrageous,”said the high priest, and cut down the tree. The stump still being left, people referred to him now as the Stump High Priest. — location: [7448]() ^ref-41162
+
+---
+Next to his monastery grew a large nettle-tree which occasioned the nickname people gave him, the Nettle-tree High Priest. “That name is outrageous,”said the high priest, and cut down the tree. The stump still being left, people referred to him now as the Stump High Priest. More furious than ever, Ryogaku had the stump dug up and thrown away, but this left a big ditch. People now called him the Ditch High Priest. — location: [7448]() ^ref-59756
+
+---
+a leader should never start a war out of wrath. Sun-tzu, fourth century B.C. — location: [7453]() ^ref-10855
+
+---
+Angry people usually end up looking ridiculous, for their response seems out of proportion to what occasioned it. They have taken things too seriously, exaggerating the hurt or insult that has been done to them. They are so sensitive to slight that it becomes comical how much they take personally. — location: [7455]() ^ref-14837
+
+---
+Petulance — location: [7457]() ^ref-10948
+
+---
+Our anger often stems from problems in our childhood, from the problems of our parents which stem from their own childhood, on and on. — location: [7462]() ^ref-15681
+
+---
+If a person explodes with anger at you (and it seems out of proportion to what you did to them), you must remind yourself that it is not exclusively directed at you—do not be so vain. The cause is much larger, goes way back in time, involves dozens of prior hurts, and is actually not worth the bother to understand. Instead of seeing it as a personal grudge, look at the emotional outburst as a disguised power move, an attempt to control or punish you cloaked in the form of hurt feelings and anger. — location: [7464]() ^ref-10551
+
+---
+You keep your head while they are losing theirs. — location: [7470]() ^ref-9416
+
+---
+the War of the Three Kingdoms, — location: [7470]() ^ref-46315
+
+---
+Anger only cuts off our options, and the powerful cannot thrive without options. Once you train yourself not to take matters personally, and to control your emotional responses, you will have placed yourself in a position of tremendous power: Now you can play with the emotional responses of other people. Stir the insecure into action by impugning their manhood, and by dangling the prospect of an easy victory before their faces. — location: [7478]() ^ref-52977
+
+---
+in the face of their childishness you have maintained your dignity and composure. — location: [7492]() ^ref-33367
+
+---
+Authority: If your opponent is of a hot temper, try to irritate him. If he is arrogant, try to encourage his egotism.... One who is skilled at making the enemy move does so by creating a situation according to which the enemy will act; he entices the enemy with something he is certain to take. — location: [7496]() ^ref-12339
+
+---
+Choose carefully whom you bait, and never stir up the sharks. — location: [7511]() ^ref-61559
+
+---
+LAW 40 DESPISE THE FREE LUNCH JUDGMENT What is offered for free is dangerous-it usually involves either a trick or a hidden obligation. What has worth is worth paying for. By paying your own way you stay clear of gratitude, guilt, and deceit. It is also often wise to pay the full price—there is no cutting corners with excellence. Be lavish with your money and keep it circulating, for generosity is a sign and a magnet for power. — location: [7515]() ^ref-36777
+
+---
+Generosity softens people up—to be deceived. By gaining a reputation for liberality, you win people’s admiration while distracting them from your power plays. — location: [7536]() ^ref-498
+
+---
+Unless you resist them they will infect you with the insecure feeling that you should have looked harder to find a cheaper price. Don’t argue with them or try to change them. Just mentally add up the cost, in time and inner peace if not in hidden financial expense, of the irrational pursuit of a bargain. — location: [7557]() ^ref-4304
+
+---
+Sadists seem to think that paying for something gives them the right to torture and abuse the seller. — location: [7562]() ^ref-18837
+
+---
+Financial sadists play vicious power games with money as a way of asserting their power. — location: [7560]() ^ref-1016
+
+---
+The Indiscriminate Giver. Generosity has a definite function in power: It attracts people, softens them up, makes allies out of them. But it has to be used strategically, with a definite end in mind. Indiscriminate Givers, on the other hand, are generous because they want to be loved and admired by all. — location: [7565]() ^ref-10629
+
+---
+miser, — location: [7570]() ^ref-44622
+
+---
+“Fret thyself no longer, but take a stone and put it in the same place, and think that it is your lump of gold; for, as you never meant to use it. the one will do you as much good as the other.” The worth of money is not in its possession, but in its use. — location: [7573]() ^ref-45197
+
+---
+swine — location: [7592]() ^ref-40232
+
+---
+“Nothing is more costly than something given free of charge.” — location: [7604]() ^ref-48379
+
+---
+Power requires self-discipline. The prospect of wealth, particularly easy, sudden wealth, plays havoc with the emotions. The suddenly rich believe that more is always possible. The free lunch, the money that will fall into your lap, is just around the corner. In this delusion the greedy neglect everything power really depends on: self-control, the goodwill of others, and so on. — location: [7618]() ^ref-34058
+
+Nunca recetas faciles, aumque te toque la loteria. Nada sirve si no sabes administrar y reinvertir ese dinero
+
+---
+Never let lust for money lure you out of the protective and enduring fortress of real power. Make power your goal and money will find its way to you. Leave El Dorado for suckers and fools. — location: [7622]() ^ref-23558
+
+Cryptos
+
+---
+She quibbled over every carload of stone and bushel of lime, counted every extra yard of iron railing or foot of wainscot, hurling abuse at the wasteful workmen, — location: [7649]() ^ref-20059
+
+---
+The powerful must have grandeur of spirit—they can never reveal any pettiness. And money is the most visible arena in which to display either grandeur or pettiness. Best spend freely, then, and create a reputation for generosity, which in the end will pay great dividends. Never let financial details blind you to the bigger picture of how people perceive you. — location: [7665]() ^ref-3984
+
+---
+She may not have had his gifts, but she did have the money to torture and abuse him over the pettiest details—to ruin his life. — location: [7660]() ^ref-64165
+
+---
+Their resentment will cost you in the long run. And if you want to meddle in the work of creative people under your hire, at least pay them well. — location: [7667]() ^ref-53414
+
+---
+Pietro Aretino, son of a lowly shoemaker, had catapulted himself into fame as a writer of biting satires. But like every Renaissance artist, he needed to find a patron who would give him a comfortable lifestyle while not interfering with his work. In 1528 Aretino decided to attempt a new strategy in the patronage game. — location: [7692]() ^ref-29844
+
+---
+His generosity had cost him most of his savings, but had bought him influence and a good name—a cornerstone in the foundation of power. — location: [7700]() ^ref-60709
+
+---
+Since in Renaissance Italy as elsewhere the ability to spend freely was the privilege of the rich, the aristocracy thought Aretino had to be a man of influence, since he spent money like one. And since the influence of a man of influence is worth buying, Aretino became the recipient of all sorts of gifts and moneys. — location: [7701]() ^ref-2930
+
+---
+In exchange for a dedication they would get a small stipend, enough to write yet another poem, so that they spent their lives in a kind of constant servility. — location: [7707]() ^ref-37361
+
+Fashion Infuencers now
+
+---
+Aretino came to feel that the marquis should have requited his generosity better. But he would not lower himself to begging or whining: Since the exchange of gifts between the two men had made them equals, it would not seem right to bring up money. He simply withdrew from the marquis’s circle and hunted for other wealthy prey, — location: [7720]() ^ref-36699
+
+---
+Aretino understood two fundamental properties of money: First, that it has to circulate to bring power. What money should buy is not lifeless objects but power over people. By keeping money in constant circulation, Aretino bought an ever-expanding circle of influence that in the end more than compensated him for his expenses. — location: [7724]() ^ref-8902
+
+---
+Second, Aretino understood the key property of the gift. To give a gift is to imply that you and the recipient are equals at the very least, or that you are the recipient’s superior. A gift also involves an indebtedness or obligation; when friends, for instance, offer you something for free, you can be sure they expect something in return, and that to get it they are making you feel indebted. (The mechanism may or may not be entirely conscious on their part, but this is how it works.) — location: [7727]() ^ref-45169
+
+---
+Instead of acting like a menial who expects the powerful to pay his way in life, he turned the whole dynamic around; instead of being indebted to the powerful, he made the powerful indebted to him. — location: [7731]() ^ref-15758
+
+---
+Aretino — location: [7730]() ^ref-44532
+
+---
+Play the trick that Aretino played on Italy’s aristocracy: Imagine yourself an equal. Play the lord, give freely, open your doors, circulate your money, and create the facade of power through an alchemy that transforms money into influence. — location: [7736]() ^ref-44931
+
+---
+he won the only thing that would secure an outsider’s power: social acceptance. — location: [7746]() ^ref-3075
+
+---
+The base of its power was not money but its ability to spend, and its confidence in a superiority that would restore to it all that the potlatch had destroyed. — location: [7752]() ^ref-56942
+
+---
+In Florence at the time, banking was perhaps the least admired way of making money, and was certainly not a respected source of power. The arts were at the other pole, the pole of quasi-religious transcendence. By spending on the arts, Lorenzo diluted people’s opinions of the ugly source of his wealth, disguising himself in nobility. There is no better use of strategic generosity than that of distracting attention from an unsavory reality and wrapping oneself in the mantle of art or religion. — location: [7794]() ^ref-50712
+
+---
+Louis XIV had an eagle eye for the strategic power of money. When he came to the throne, the powerful nobility had recently proven a thorn in the monarchy’s side, and seethed with rebelliousness. — location: [7798]() ^ref-58690
+
+---
+Whenever he noticed a stubborn courtier whose influence he needed to gain, or whose troublemaking he needed to squelch, he would use his vast wealth to soften the soil. — location: [7802]() ^ref-40933
+
+---
+coveted. Presents would flow from Louis’s hands. Finally, — location: [7804]() ^ref-22027
+
+---
+When we are children, all kinds of complicated feelings about our parents center around gifts; we see the giving of a gift as a sign of love and approval. And that emotional element never goes away. The recipients of gifts, financial or otherwise, are suddenly as vulnerable as children, especially when the gift comes from someone in authority. — location: [7808]() ^ref-37472
+
+---
+The more often you give to particular people, the blunter this weapon becomes. If they don’t take your gifts for granted, becoming monsters of ingratitude, they will resent what appears to be charity. The sudden, unexpected, one-time gift will not spoil your children; it will keep them under your thumb. — location: [7813]() ^ref-2991
+
+---
+Money is never spent to so much advantage as when vou have been cheated out of it; for at one stroke you have purchased prudence. ARTHUR SCHOPENHAUER, 1788-1860 — location: [7828]() ^ref-33290
+
+---
+
+first, an essential aspect of money: That it is humans who have created it and humans who instill it with meaning and value. Second, with objects as with money, what the courtier most values are the sentiments and emotions embedded in them—these are what make them worth having. — location: [7839]() ^ref-32168
+
+---
+The object or concept that plays with a charged emotion or hits a chord of sentiment has more power than the money you squander on an expensive yet lifeless present. — location: [7841]() ^ref-12835
+
+---
+Akimoto Suzutomo, a wealthy adherent of the tea ceremony, once gave his page 100 ryo (gold pieces) and instructed him to purchase a tea bowl offered by a particular dealer. When the page saw the bowl, he doubted it was worth that much, and after much bargaining got the price reduced to 95 ryo. Days later, after Suzutomo had put the bowl to use, the page proudly told him what he had done. — location: [7843]() ^ref-41530
+
+---
+“What an ignoramus you are!” replied Suzutomo. “A tea bowl that anyone asks 100 pieces of gold for can only be a family heirloom, and a thing like that is only sold when the family is pressed for money. And in that case they will be hoping to find someone who will give even 150 pieces for it. So what sort of fellow is it who does not consider their feelings? Quite apart from that, a curio that you give 100 ryo for is something worth having, but one that has only cost 95 gives a mean impression. So never let me see that tea bowl again!” And he had the bowl locked away, and never took it out. — location: [7846]() ^ref-62076
+
+---
+Kung-yi Hsiu, premier of Lu, was fond of fish. Therefore, people in the whole country conscientiously bought fish, which they presented to him. However, Kung-yi would not accept the presents. Against such a step his younger brother remonstrated with him and said: “You like fish, indeed. Why don’t you accept the present of fish?” — location: [7854]() ^ref-32709
+
+---
+Sometime near the beginning of the seventeenth century in Japan, a group of generals whiled away the time before a big battle by staging an incense-smelling competition. Each participant anted up a prize for the contest’s winners—bows, arrows, saddles, and other items a warrior would covet. — location: [7861]() ^ref-30404
+
+---
+Money gives its possessor the ability to give pleasure to others. The more you can do this, the more you attract admiration. — location: [7868]() ^ref-16364
+
+---
+Only the foulest forms of life can live in such stagnant waters; nothing trav els on them, all commerce stops. Destroy the dam. When water flows and circulates, it gen erates abundance, wealth, and power in ever larger circles. The River must flood periodically for good things to flourish. — location: [7871]() ^ref-23886
+
+---
+Authority: The great man who is a miser is a great fool, and a man in high places can have no vice so harmful as avarice. A miserly man can conquer neither lands nor lordships, for he does not have a plentiful supply of friends with whom he may work his will. Whoever wants to have friends must not love his possessions but must acquire friends by means of fair gifts; — location: [7878]() ^ref-18347
+
+---
+When people learn—as I doubt they will—that they can’t get something for nothing, crime will diminish and we shall all live in greater harmony.” — location: [7889]() ^ref-6070
+
+---
+Bait your deceptions with the possibility of easy money. People are essentially lazy, and want wealth to fall in their lap rather than to work for it. — location: [7895]() ^ref-62540
+
+---
+For a small sum, sell them advice on how to make millions (P. T. Barnum did this later in life), and that small sum will become a fortune when multiplied by thousands of suckers. — location: [7896]() ^ref-14259
+
+Tpdays trading courses
+
+---
+greed is powerful enough to blind your victims to anything. — location: [7898]() ^ref-53312
+
+---
+LAW 41 AVOID STEPPING INTO A GREAT MAN’S SHOES JUDGMENT What happens first always appears better and more original than what comes after. If you succeed a great man or have a famous parent, you will have to accomplish double their achievements to outshine them. Do not get lost in their shadow, or stuck in a past not of your own making: Establish your own name and identity by changing course. Slay the overbearing father, disparage his legacy, and gain power by shining in your own way. — location: [7900]() ^ref-44756
+
+---
+Louis XIV had many mistresses, but their power ended in the bedroom. He filled his court with the most brilliant minds of the age. The symbol of his power was Versailles: Refusing to accept the palace of his forefathers, the Louvre, he built his own palace in what was then the middle of nowhere, symbolizing that this was a new order he had founded, one without precedent. — location: [7948]() ^ref-9692
+
+---
+It would seem easy for a son or successor to build on the grand foundation left for them, but in the realm of power the opposite is true. The pampered, indulged son almost always squanders the inheritance, for he does not start with the father’s need to fill a void. — location: [7954]() ^ref-33916
+
+---
+As Machiavelli states, necessity is what impels men to take action, and once the necessity is gone, only rot and decay are left. — location: [7956]() ^ref-60518
+
+---
+But when they began to make sovereignty hereditary, the children quickly degenerated from their fathers; and, so far from trying to equal their father’s virtues, they considered that a prince had nothing else to do than to excel all the rest in idleness, indulgence, and every other variety of pleasure. Niccolò Machiavelli, 1469-1527 — location: [7977]() ^ref-55820
+
+---
+How beneficial poverty may sometimes be to those with talent, and how it may serve as a powerful goad to make them perfect or excellent in whatever occupation they might choose, — location: [7981]() ^ref-3713
+
+---
+because he always had the dread of poverty before his eyes, he did things to make money which he probably would not have bothered to do had he not been forced to support himself. — location: [7986]() ^ref-42123
+
+---
+For this reason, he took no notice of cold, hunger, discomfort, inconvenience, toil or shame if he could only live one day in ease and repose; — location: [7989]() ^ref-25849
+
+---
+bombastic — location: [7994]() ^ref-34231
+
+---
+While other sons of powerful men were content to inherit wealth and live a life of leisure, Alexander wanted only to outdo his father, to obliterate Philip’s name from history by surpassing his accomplishments. — location: [7998]() ^ref-12830
+
+---
+Legend had it that any man who could undo these cords—the Gordian knot—would rule the world. Many had tried to untie the enormous and intricate knot, but none had succeeded. Alexander, seeing he could not possibly untie the knot with his bare hands, took out his sword and with one slash cut it in half. This symbolic gesture showed the world that he would not do as others, but would blaze his own path. — location: [8018]() ^ref-11147
+
+---
+His conquest of Persia represented the past, and he wanted never to rest on past triumphs, or to allow the past to outshine the present. — location: [8023]() ^ref-9254
+
+---
+Alexander represents an extremely uncommon type in history: the son of a famous and successful man who manages to surpass the father in glory and power. The reason this type is uncommon is simple: The father most often manages to amass his fortune, his kingdom, because he begins with little or nothing. A desperate urge impels him to succeed—he has nothing to lose by cunning and impetuousness, and has no famous father of his own to compete against. This kind of man has reason to believe in himself—to believe that his way of doing things is the best, because, after all, it worked for him. When a man like this has a son, he becomes domineering and oppressive, imposing his lessons on the son, who is starting off life in circumstances totally different from those in which the father himself began. Instead of allowing the son to go in a new direction, the father will try to put him in his own shoes, perhaps secretly wishing the boy will fail, as Philip half wanted to see Alexander thrown from Bucephalus. Fathers envy their sons’ youth and vigor, after all, and their desire is to control and dominate. The sons of such men tend to become cowed and cautious, terrified of losing what their fathers have gained. — location: [8025]() ^ref-10710
+
+---
+Be merciless with the past, then—not only with your father and his father but with your own earlier achievements. Only the weak rest on their laurels and dote on past triumphs; in the game of power there is never time to rest. — location: [8038]() ^ref-10644
+
+---
+In many ancient kingdoms, for example Bengal and Sumatra, after the king had ruled for several years his subjects would execute him. This was done partly as a ritual of renewal, but also to prevent him from growing too powerful-for the king would generally try to establish a permanent order, at the expense of other families and of his own sons. — location: [8059]() ^ref-46575
+
+---
+Power depends on the ability to fill a void, to occupy a field that has been cleared of the dead weight of the past. — location: [8072]() ^ref-39496
+
+Vikings
+
+---
+Perhaps the simplest way to escape the shadow of the past is simply to belittle it, playing on the timeless antagonism between the generations, stirring up the young against the old. — location: [8075]() ^ref-53403
+
+---
+In every aspect his administration represented vigor and youth, as opposed to the stodgy Eisenhower. — location: [8080]() ^ref-20452
+
+---
+Louis XIV, for example, created such symbolism when he rejected the traditional palace of the French kings and built his own palace of Versailles. — location: [8083]() ^ref-23498
+
+---
+But Louis carried the game further: He would not be a king like his father or earlier ancestors, he would not wear a crown or carry a scepter or sit on a throne, he would establish a new kind of imposing authority with symbols and rituals of its own. — location: [8085]() ^ref-51925
+
+---
+Louis made his ancestors’ rituals into laughable relics of the past. Follow his example: Never let yourself be seen as following your predecessor’s path. If you do you will never surpass him. You must physically demonstrate your difference, by establishing a style and symbolism that sets you apart. — location: [8087]() ^ref-48645
+
+---
+Against the memory of Caesar’s sweeping presence Augustus posed a quiet and manly dignity. — location: [8093]() ^ref-63372
+
+---
+There is a kind of stubborn stupidity that recurs throughout history, and is a strong impediment to power: The superstitious belief that if the person before you succeeded by doing A, B, and C, you can re-create their success by doing the same thing. This cookie-cutter approach will seduce the uncreative, for it is easy, and appeals to their timidity and their laziness. But circumstances never repeat themselves exactly. — location: [8106]() ^ref-35065
+
+---
+Burn all the books, and train yourself to react to circumstances as they happen. — location: [8113]() ^ref-3715
+
+---
+Remember: You are your own father. Do not let yourself spend years creating yourself only to let your guard down and allow the ghost of the past—father, habit, history—to sneak back in. — location: [8119]() ^ref-41059
+
+---
+When our power is secure we have no need to act. This is a serious danger, especially for those who achieve success and power at an early age. — location: [8121]() ^ref-30518
+
+---
+Fyodor Dostoyevsky, similarly, whenever he wrote a successful novel, would feel that the financial security he had gained made the act of creation unnecessary. He would take his entire savings to the casino and would not leave until he had gambled away his last penny. Once reduced to poverty he could write again. It is not necessary to go to such extremes, but you must be prepared to return to square one psychologically rather than growing fat and lazy with prosperity. — location: [8127]() ^ref-62164
+
+---
+Pablo Picasso could deal with success, but only by constantly changing the style of his painting, often breaking completely with what had made him successful before. — location: [8131]() ^ref-45666
+
+---
+LAW 42 STRIKE THE SHEPHERD AND THE SHEEP WILL SCATTER — location: [8162]() ^ref-5178
+
+---
+Trouble can often be traced to a single strong individual —the stirrer, the arrogant underling, the poisoner of goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter. — location: [8164]() ^ref-64926
+
+---
+How to deal with those who did not concern themselves with the cohesion of a small city surrounded by enemies, who did not work for its greater glory, but thought of only themselves and their own ambitions and petty intrigues? — location: [8170]() ^ref-51427
+
+---
+The struggle now became fiercer than ever around the royal litter [of A tahualpa, king of the Incan empire]. It reeled more and more, and at length, several of the nobles who supported it having been slain, it was overturned, and the Indian prince would have come with violence to the ground, had not his fall been broken bv the efforts of Pizarro and some other of the cavaliers, who caught him in their arms. The imperial borla was instantly snatched from his temples by a soldier. and the unhappy monarch, strongly secured, was removed to a neighboring building where he was carefully guarded. — location: [8189]() ^ref-12837
+
+---
+Boniface quickly crushed his rivals and unified — location: [8234]() ^ref-53732
+
+---
+An admirer who feels that he cannot be happy by surrendering himself elects to become envious of that which he admires. So he speaks another language—the thing which he really admires is called a stupid, insipid and queer sort of thing. Admiration is happy self-surrender; envy is unhappy self-assertion. SφREN KIERKEGAARD, 1813-1855 — location: [9130]() ^ref-41133
+
+---
+JUDGMENT Appearing better than others is always dangerous, but most dangerous of all is to appear to have no faults or weaknesses. Envy creates silent enemies. It is smart to occasionally display defects, and admit to harmless vices, in order to deflect envy and appear more human and approachable. Only gods and the dead can seem perfect with impunity. — location: [9102]() ^ref-23287
+
+---
+Once envy eats away at someone, everything you do only makes it grow, and day by day it festers inside him. Eventually he will attack. It takes great talent and skill to conceal one’s talent and skill   LA ROCHEFOUCAULD, 1613-1680 — location: [9154]() ^ref-40074
+
+---
+Only a minority can succeed at the game of life, and that minority inevitably arouses the envy of those around them. Once success happens your way, however, the people to fear the most are those in your own circle, the friends and acquaintances you have left behind. Feelings of inferiority gnaw at them; the thought of your success only heightens their feelings of stagnation. Envy, which the philosopher Kierkegaard calls “unhappy admiration,” takes hold. You may not see it but you will feel it someday—unless, that is, you learn strategies of deflection, little sacrifices to the gods of success. Either dampen your brilliance occasionally, purposefully revealing a defect, weakness, or anxiety, or attributing your success to luck; or simply find yourself new friends. — location: [9180]() ^ref-53726
+
+---
+The merchant class and the craft guilds to which medieval Florence owed its prosperity had created a republic that protected them from oppression by the nobility. — location: [9187]() ^ref-47259
+
+---
+Since high office could only be held for a few months, no one could gain lasting dominance, — location: [9188]() ^ref-56779
+
+---
+The palace was a symbol of Cosimo’s strategy—all simplicity on the outside, all elegance and opulence within. — location: [9215]() ^ref-46541
+
+---
+Machiavelli hailed Cosimo as the wisest of all princes, “for he knew how extraordinary things that are seen and appear every hour make men much more envied than those that are done in deed and are covered over with decency.” — location: [9218]() ^ref-2608
+
+---
+whenever he wished to achieve something, he saw to it, in order to escape envy as much as possible, that the initiative appeared to come from others, and not from him.” — location: [9220]() ^ref-41565
+
+---
+The insidious envy of the masses can actually be deflected quite easily: Appear as one of them in style and values. Make alliances with those below you, and elevate them to positions of power to secure their support in times of need. — location: [9224]() ^ref-8055
+
+---
+The master of power understands that the appearance of superiority over others is inconsequential next to the reality of it. Of all the disorders of the soul, envy is the only one no one confesses to. Plutarch, c. A.D 46-120 — location: [9231]() ^ref-8136
+
+---
+In the face of superior skill, talent, or power, we are often disturbed and ill at ease; this is because most of us have an inflated sense of ourselves, and when we meet people who surpass us they make it clear to us that we are in fact mediocre, or at least not as brilliant as we had thought. This disturbance in our self-image cannot last long without stirring up ugly emotions. — location: [9243]() ^ref-37903
+
+---
+To close friends, we may confess our secret unrealized desires, but we will never confess to feeling envy. — location: [9247]() ^ref-6450
+
+---
+as you gain power, those below you will feel envious of you. They may not show it but it is inevitable. Do not naively accept the facade they show you—read between the lines of their criticisms, their little sarcastic remarks, the signs of backstabbing, the excessive praise that is preparing you for a fall, the resentful look in the eye. — location: [9254]() ^ref-7074
+
+---
+forestall — location: [9261]() ^ref-5071
+
+---
+Money others can attain; power as well. But superior intelligence, good looks, charm—these are qualities no one can acquire. The naturally perfect have to work the most to disguise their brilliance, displaying a defect or two to deflect envy before it takes root. It is a common and naive mistake to think you are charming people with your natural talents when in fact they are coming to hate you. JOSEPH AND HIS COAT Now Israel loved Joseph more than all his children, because he was the son of his old age; and he made him a coat of many colors.... And his brothers envied him.... And when they saw him afar off, they conspired against him to slay him. And now they said to one another, “Behold, this dreamer cometh. Come now therefore, and let us slay him, and cast him into some pit, and we shall say, some evil beast hath devoured him; and we shall see what will become of his dreams”   OLD TESTAMENT, GENESIS 37:3—20 THE TRAGEDY OF THE TOMB [When Pope Julius first saw Michelangelo’s design for his tomb] it pleased him so much that he at once sent him to Carrara to quarry the necessary marbles, instructing Alamanno Salviati, of Florence, to pay him a thousand ducats for this purpose. Michelangelo stayed in these mountains more than eight months with two workmen and his horse, and without any other provision except food.... Enough marbles quarried and chosen, he took them to the sea-coast, and left one of his men to have them embarked. — location: [9276]() ^ref-40197
+
+---
+The naturally perfect have to work the most to disguise their brilliance, displaying a defect or two to deflect envy before it takes root. — location: [9277]() ^ref-63765
+
+---
+A great danger in the realm of power is the sudden improvement in fortune—an unexpected promotion, a victory or success that seems to come out of nowhere. This is sure to stir up envy among your former peers. — location: [9301]() ^ref-30854
+
+---
+Subtly emphasize how lucky you have been, to make your happiness seem more attainable to other people, and the need for envy less acute. But be careful not to affect a false modesty that people can easily see through. — location: [9307]() ^ref-38501
+
+---
+People cannot envy the power that they themselves have given a person who does not seem to desire it. — location: [9315]() ^ref-50267
+
+---
+Emphasize your troubles and you turn a potential danger (envy) into a source of moral support (pity). A similar ploy is to hint that your good fortune will benefit those around you. To do this you may need to open your purse strings, like Cimon, a wealthy general in ancient Athens who gave lavishly in all kinds of ways to prevent people from resenting the influence he had bought in Athenian politics. He paid a high price to deflect their envy, but in the end it saved him from ostracism and banishment from the city. — location: [9319]() ^ref-31216
+
+---
+A similar ploy is to hint that your good fortune will benefit those around you. To do this you may need to open your purse strings, — location: [9320]() ^ref-25927
+
+---
+Give those who envy you something to feed on, distracting them from your more important sins. Remember: It is the reality that matters. You may have to play games with appearances, but in the end you will have what counts: true power. — location: [9327]() ^ref-15092
+
+---
+Beware of some of envy’s disguises. Excessive praise is an almost sure sign that the person praising you envies you; they are either setting you up for a fall—it will be impossible for you to live up to their praise—or they are sharpening their blades behind your back. — location: [9331]() ^ref-5958
+
+---
+At the same time, those who are hypercritical of you, or who slander you publicly, probably envy you as well. Recognize their behavior as disguised envy and you keep out of the trap of mutual mud-slinging, or of taking their criticisms to heart. Win your revenge by ignoring their measly presence. — location: [9332]() ^ref-7255
+
+---
+Once envy reveals itself for what it is, the only solution is often to flee the presence of the enviers, leaving them to stew in a hell of their own creation. — location: [9336]() ^ref-65379
+
+---
+Do not try to help or do favors for those who envy you; they will think you are condescending to them. Joe Orton’s attempt to help Halliwell find a gallery for his work only intensified his lover’s feelings of inferiority and envy. Once envy reveals itself for what it is, the only solution is often to flee the presence of the enviers, leaving them to stew in a hell of their own creation. — location: [9335]() ^ref-24616
+
+---
+The effects of envy are more serious among colleagues and peers, where there is a veneer of equality. Envy is also destructive in democratic environments where overt displays of power are looked down upon. Be extrasensitive in such environments. — location: [9338]() ^ref-45748
+
+---
+Did ever anybody seriously confess to envy? Something there is in it universally felt to be more shameful than even felonious crime. — location: [9342]() ^ref-50026
+
+---
+do not water indiscrimi nately. Destroy the weeds of envy by giving them nothing to feed on. — location: [9348]() ^ref-5326
+
+---
+Authority: Upon occasion, reveal a harmless defect in your character. For the envious accuse the most perfect of sinning by having no sins. They become an Argus, all eyes for finding fault with excellence—it is their only consolation. — location: [9349]() ^ref-20747
+
+---
+The reason for being careful with the envious is that they are so indirect, and will find innumerable ways to undermine you. But treading carefully around them will often only make their envy worse. They sense that you are being cautious, and it registers as yet another sign of your superiority. That is why you must act before envy takes root. — location: [9361]() ^ref-52872
+
+---
+Once envy is there, however, whether through your fault or not, it is sometimes best to affect the opposite approach: Display the utmost disdain for those who envy you. Instead of hiding your perfection, make it obvious. Make every new triumph an opportunity to make the envious squirm. — location: [9363]() ^ref-63539
+
+---
+If you attain a position of unimpeachable power, their envy will have no effect on you, and you will have the best revenge of all: They are trapped in envy while you are free in your power. — location: [9366]() ^ref-49800
+
+---
+LAW 47 DO NOT GO PAST THE MARK YOU AIMED FOR; IN VICTORY, LEARN WHEN TO STOP JUDGMENT The moment of victory is often the moment of greatest peril. In the heat of victory, arrogance and overconfidence can push you past the goal you had aimed for, and by going too far, you make more enemies than you defeat. Do not allow success to go to your head. There is no substitute for strategy and careful planning. Set a goal, and when you reach it, stop. — location: [9375]() ^ref-40283
+
+---
+Two cockerels fought on a dungheap. One cockerel was the stronger: he vanquished the other and drove him from the dungheap. All the hens gathered around the cockerel, and began to laud him. The cockerel wanted his strength and glory to be known in the next yard. He flew on top of the barn, flapped his wings, and crowed in a load voice: “Look at me, all of you. I am a victorious cockerel. No other cockerel in the world has such strength as I. ” The cockerel had not finished, when an eagle killed him, seized him in his claws, and carried him to his nest. — location: [9403]() ^ref-33304
+
+---
+There is nothing more intoxicating than victory, and nothing more dangerous. — location: [9415]() ^ref-62917
+
+---
+Understand: In the realm of power, you must be guided by reason. To let a momentary thrill or an emotional victory influence or guide your moves will prove fatal. When you attain success, step back. Be cautious. When you gain victory, understand the part played by the particular circumstances of a situation, and never simply repeat the same actions again and again. — location: [9423]() ^ref-56821
+
+Cryptos, casinos
+
+---
+In all your cross-examinations ..., most important of all, let me repeat the injunction to be ever on the alert for a good place to stop. Nothing can be more important than to close your examination with a triumph. So many lawyers succeed in catching a witness in a serious contradiction; but, not satisfied with this, go on asking questions, and taper off their examination until the effect upon the jury of their former advantage is lost altogether. — location: [9427]() ^ref-19263
+
+---
+We read of many instances of this kind; for the general who by his valor has conquered a state for his master, and won great glory for himself by his victory over the enemy, and has loaded his soldiers with rich booty, acquires necessarily with his own soldiers, as well as with those of the enemy and with the subjects of the prince, so high a reputation, that his very victory may become distasteful, and a cause for apprehension to his prince. For as the nature of men is ambitious as well as suspicious, and puts no limits to one’s good fortune, it is not impossible that the suspicion that may suddenly be aroused in the mind of the prince by the victory of the general may have been aggravated by some haughty expressions or insolent acts on his part; so that the prince will naturally be made to think of securing himself against the ambition of his general. And to do this, the means that suggest themselves to him are either to have the general killed, or to deprive him of that reputation which he has acquired with the prince’s army and the people, by using every means to prove that the general’s victory was not due to his skill and courage, but to chance and the cowardice of the enemy, or to the sagacity of the other captains who were with him in that action. — location: [9432]() ^ref-18277
+
+---
+Madame de Pompadour knew that her charm and her political acumen had made her indispensable to the king. What did she have to fear from a sixteen-year-old who had none of her power and presence? What did it matter if she lost her position in the bedroom, as long as she remained the most powerful woman in France? — location: [9474]() ^ref-58665
+
+---
+Mistakes are always made when people get to the easy places.” — location: [9494]() ^ref-20491
+
+---
+Success plays strange tricks on the mind. It makes you feel invulnerable, while also making you more hostile and emotional when people challenge your power. — location: [9498]() ^ref-33844
+
+Tupac
+
+---
+recognizing the role of luck and circumstance in your success, and remaining vigilant against changes in your good fortune. — location: [9501]() ^ref-6158
+
+---
+Feeling invulnerable, you make aggressive moves that ultimately undo the victory you have gained. — location: [9509]() ^ref-6847
+
+---
+The powerful vary their rhythms and patterns, change course, adapt to circumstance, and learn to improvise. Rather than letting their dancing feet impel them forward, they step back and look where they are going. — location: [9510]() ^ref-41521
+
+---
+is as if their bloodstream bore a kind of antidote to the intoxication of victory, letting them control their emotions and come to a kind of mental halt when they have attained success. — location: [9512]() ^ref-56086
+
+---
+They steady themselves, give themselves the space to reflect on what has happened, examine the role of circumstance and luck in their success. — location: [9513]() ^ref-28814
+
+---
+Bad luck teaches valuable lessons about patience, timing, and the need to be prepared for the worst; good luck deludes you into the opposite lesson, making you think your brillliance will carry you through. Your fortune will inevitably turn, and when it does you will be completely unprepared. — location: [9516]() ^ref-29110
+
+---
+When you are victorious, then, lie low, and lull the enemy into inaction. These changes of rhythm are immensely powerful. — location: [9536]() ^ref-60801
+
+---
+When you serve a master, it is often wise to measure your victories carefully, let ting him get the glory and never making him uneasy. — location: [9540]() ^ref-35624
+
+---
+Another moment when a small success can spoil the chances for a larger one may come if a master or superior grants you a favor: It is a dangerous mistake to ask for more. — location: [9544]() ^ref-53401
+
+---
+There is no better time to stop and walk away than after a victory. Keep going and you risk lessening the effect, even ending up defeated. As lawyers say of cross-examination, “Always stop with a victory.” — location: [9549]() ^ref-30757
+
+---
+As Machiavelli says, either destroy a man or leave him alone entirely. Inflicting half punishment or mild injury will only create an enemy whose bitterness will grow with time, and who will take revenge. When you beat an enemy, then, make your victory complete. — location: [9558]() ^ref-24606
+
+---
+Your caution after victory should never make you hesitate, or lose momentum, but rather act as a safeguard against rash action. On the other hand, momentum as a phenomenon is greatly overrated. You create your own successes, and if they follow one upon the other, it is your own doing. Belief in momentum will only make you emotional, less prone to act strategically, and more apt to repeat the same methods. — location: [9562]() ^ref-25525
+
+---
+LAW 48 ASSUME FORMLESSNESS JUDGMENT By taking a shape, by having a visible plan, you open yourself to attack. Instead of taking a form for your enemy to grasp, keep yourself adaptable and on the move. Accept the fact that nothing is certain and no law is fixed. The best way to protect yourself is to be as fluid and formless as water; never bet on stability or lasting order. Everything changes. — location: [9567]() ^ref-55759
+
+---
+No system of money or trading was allowed in Sparta; acquired wealth, they believed, would sow selfishness and dissension, weakening their warrior discipline. — location: [9588]() ^ref-32815
+
+---
+Victory would mean new lands to govern, which they did not want; defeat would mean the end of their military machine, which they did not want, either. Only stasis allowed them to survive. But nothing in the world can remain stable forever, and the shell or system you evolve for your protection will someday prove your undoing. — location: [9626]() ^ref-37258
+
+---
+Learn to move fast and adapt or you will be eaten. The best way to avoid this fate is to assume formlessness. No predator alive can attack what it cannot see. — location: [9636]() ^ref-16941
+
+Blackberry
+
+---
+There was in Sung a man, who tilled a field in which there stood the trunk of a tree. Once a hare, while running fast, rushed against the trunk, broke its neck, and died. Thereupon the man cast his plough aside and watched that tree, hoping that he would get another hare. — location: [9677]() ^ref-10510
+
+---
+With mobility you can isolate the opponent in small areas and then encircle them. The aim is not to kill off the opponent’s pieces directly, as in chess, but to induce a kind of paralysis and collapse. — location: [9686]() ^ref-40371
+
+---
+A key wei-chi concept, for example, is to use the size of the board to your advantage, spreading out in every direction so that your opponent cannot fathom your movements in a simple linear way. — location: [9690]() ^ref-29717
+
+---
+In the wei-chi way of war, you encircle the enemy’s brain, using mind games, propaganda, and irritation tactics to confuse and dishearten. — location: [9695]() ^ref-27365
+
+---
+in vast, loosely connected areas. Its strategies are abstract and multidimensional, inhabiting a plane beyond time and space: the strategist’s mind. In this fluid form of warfare, you value movement over position. Your speed and mobility make it impossible to predict your moves; unable to understand you, your enemy can form no strategy to defeat you. — location: [9698]() ^ref-52252
+
+---
+The enemy advances, we retreat; the enemy camps, we harass; the enemy tires, we attack; the enemy retreats, we pursue. — location: [9705]() ^ref-28548
+
+---
+The human animal is distinguished by its constant creation of forms. Rarely expressing its emotions directly, it gives them form through language, or through socially acceptable rituals. We cannot communicate our emotions without a form. — location: [9714]() ^ref-60479
+
+---
+The young show this most clearly: Uncomfortable with the forms that society imposes upon them, having no set identity, they play with their own characters, trying on a variety of masks and poses to express themselves. — location: [9718]() ^ref-19479
+
+---
+To carry out the instinctual inhibition demanded by the modern world and to be able to cope with the energy stasis which results from this inhibition, the ego has to undergo a change. The ego, i.e., that part of the person that is exposed to danger, becomes rigid, as we say, when it is continually subjected to the same or similar conflicts between need and a fear-inducing outer world. It acquires in this process a chronic, automatically functioning mode of reaction, i.e., its “character.” It is as if the affective personality armored itself, as if the hard shell it develops were intended to deflect and weaken the blows of the outer world as well as the clamoring of the inner needs. This armoring makes the person less sensitive to unpleasure, but also restricts his libidinal and aggressive motility and thus reduces his capacity for achievement and pleasure. — location: [9739]() ^ref-50598
+
+---
+Lawrence was working with Arabs fighting for their territory against the Turks. His idea was to make the Arabs blend into the vast desert, never providing a target, never collecting together in one place. As the Turks scrambled to fight this vaporous army, they spread themselves thin, wasting energy in moving from place to place. They had the superior firepower but the Arabs kept the initiative by playing cat and mouse, giving the Turks nothing to hold on to, destroying their morale. — location: [9748]() ^ref-19235
+
+---
+The war of engagement has become far too dangerous and costly; indirection and elusiveness yield far better results at a much lower cost. — location: [9754]() ^ref-7887
+
+---
+The first psychological requirement of formlessness is to train yourself to take nothing personally. Never show any defensiveness. When you act defensive, you show your emotions, revealing a clear form. Your opponents will realize they have hit a nerve, an Achilles’ heel. And they will hit it again and again. So train yourself to take nothing personally. — location: [9757]() ^ref-26867
+
+---
+Be like a slippery ball that cannot be held: Let no one know what gets to you, or where your weaknesses lie. Make your face a formless mask and you will infuriate and disorient your scheming colleagues and opponents. — location: [9760]() ^ref-20786
+
+---
+“One must govern in such a way that one’s people think they themselves want to do what one commands them to do,” — location: [9779]() ^ref-50152
+
+---
+Being fluid, it is relatively easy for its subjects to obey, for they feel less coerced, less bent to their ruler’s ideology. It also opens up options where an adherence to a doctrine closes them off. Without committing to one side, it allows the ruler to play one enemy off another. — location: [9783]() ^ref-19457
+
+---
+Flexible, formless rulers will be much criticized, but they will endure, and people will eventually come to identify with them, since they are as their subjects are—changing with the wind, open to circumstance. — location: [9786]() ^ref-58961
+
+---
+That is the power of formlessness—it gives the aggressor nothing to react against, nothing to hit. — location: [9799]() ^ref-12354
+
+---
+The story is emblematic of all those who sacrifice mobility for size: The flexible and fleet of foot will almost always win, for they have more strategic options. The more gigantic the enemy, the easier it is to induce collapse. — location: [9813]() ^ref-5772
+
+---
+We become predictable, always the first sign of decrepitude. — location: [9815]() ^ref-19780
+
+---
+An enemy who does not respect you will grow bold, and boldness makes even the smallest animal dangerous. — location: [9817]() ^ref-37742
+
+---
+Although ridicule and disdain might seem mild forms of attack, they are actually potent weapons, and will eventually erode a foundation of power. An enemy who does not respect you will grow bold, and boldness makes even the smallest animal dangerous. — location: [9816]() ^ref-36968
+
+---
+formlessness is a strategic pose. It gives you room to create tactical surprises; as your enemies struggle to guess your next move, they reveal their own strategy, putting them at a decided disadvantage. It keeps the initiative on your side, putting your enemies in the position of never acting, constantly reacting. — location: [9828]() ^ref-32183
+
+---
+Formlessness is a tool. Never confuse it with a go-with-the-flow style, or with a religious resignation to the twists of fortune. You use formlessness, not because it creates inner harmony and peace, but because it will increase your power. — location: [9831]() ^ref-52919
+
+---
+“The laws that govern circumstances are abolished by new circumstances,” Napoleon wrote, which means that it is up to you to gauge each new situation. Rely too much on other people’s ideas and you end up taking a form not of your own making. — location: [9835]() ^ref-5684
+
+---
+Therefore the consummation of forming an army is to arrive at formlessness. Victory in war is not repetitious, but adapts its form endlessly.... A military force has no constant formation, water has no constant shape: The ability to gain victory by changing and adapting according to the opponent is called genius. (Sun-tzu, fourth century B.C.) — location: [9845]() ^ref-19901
+
+---
+A military force has no constant formation, water has no constant shape: The ability to gain victory by changing and adapting according to the opponent is called genius. (Sun-tzu, fourth century B.C.) — location: [9846]() ^ref-58922
+
+---
+Formlessness makes your enemies hunt all over for you, scattering their own forces, mental as well as physical. When you finally engage them, though, hit them with a powerful, concentrated blow. — location: [9849]() ^ref-35509
+
+---

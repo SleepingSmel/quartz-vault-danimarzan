@@ -1,0 +1,83 @@
+# Vibe Marketing aplicado a tu caso — Daniel Marzán
+
+Hola Daniel. Esto es lo que saco del video de Benja, aplicado a ti, a tu negocio, a lo que ya tienes y a lo que puedes hacer ya mismo.
+
+---
+
+Lo primero que tienes que entender es el concepto. Se llama Vibe Marketing. Y no es una moda. Es el mismo cambio que pasó con el código: antes programabas línea por línea, ahora le dices a la IA qué quieres y ella lo construye. Con marketing es igual. Antes necesitabas un equipo de diez personas para ejecutar una campaña. Ahora necesitas una persona con visión clara y agentes de IA que ejecuten.
+
+Benja lo dice con sus propios números. Hace un año tenía tres personas en marketing. Hoy tiene una. El community manager, porque ese rol todavía necesita humano. Los otros dos los reemplazó con agentes. Y su negocio está creciendo más que nunca. Más leads, más conversiones, más contenido. Gastando menos.
+
+¿Y qué hizo exactamente? Conectó su cuenta de Meta Ads a Cloud Code. Le dice: créame una campaña de retargeting para estas personas. El agente la crea, la optimiza, le recomienda cambios, duplica creativos. Trabaja veinticuatro horas al día, siete días a la semana. Seiscientos dólares al mes ahorrados.
+
+Para los diseños, conectó ChatGPT Images. Le pide cincuenta gráficos con ángulos que ya demostraron funcionar. Se suben solos. Después de una semana se cortan los que no sirven y se quedan con los que sí. Y con los modelos actuales ya no se nota que es IA.
+
+Para la prospección en frío, usa Apollo para encontrar leads, Instantly para precalentar correos, y Cloud Code para personalizar cada email. El agente visita la web del lead, la analiza, y redacte un correo que menciona algo específico de esa empresa. El resultado: la tasa de respuesta pasó de un uno por ciento a un cuatro por ciento. Con personalización, no con spam.
+
+Y para investigar contenido, tiene un Mac Mini corriendo veinticuatro siete con Playwright. Scrapea tendencias, compara con su contenido, detecta áreas de mejora, genera ideas. Todo automático.
+
+El stack total le cuesta trescientos dólares al mes. Antes gastaba tres mil. Y tiene mejores resultados.
+
+---
+
+Ahora, ¿cómo aplicas esto a tu caso?
+
+Tú ya tienes lo más importante: la visión. Sabes lo que ofreces. Sabes a quién se lo ofreces. Sabes tu diferenciador. Eso es la capa V del framework VIBE. Visión. Y eso no lo delegas a nadie.
+
+La capa I son los insumos. Tu brand voice, tu ICP, tu oferta, tus casos de éxito. Todo eso ya lo tienes en tu cabeza y en tu web. Solo falta estructurarlo en archivos que un agente pueda usar.
+
+La capa B es el cerebro. Ya lo tienes: yo. Pi. Claude. El modelo que califica leads, escribe emails, analiza webs.
+
+La capa E es el engine. La ejecución veinticuatro siete. Y aquí es donde está tu oportunidad.
+
+---
+
+Tu flujo actual es manual. Buscas leads, investigas su web, calificas, escribes el email, lo envías. Funciona, pero es lento.
+
+El flujo con Vibe Marketing sería así:
+
+Primero, el agente busca leads automáticamente. Abogados de inmigración en Houston. Med Spas en Miami. Empresas con web mala, sin redes activas, con reseñas negativas o sin reseñas. Eso lo puede hacer con scraping y con bases de datos como Apollo.
+
+Segundo, el agente investiga cada web. Extrae qué servicios ofrecen, cómo se presentan, qué les falta. Lo hace con Firecrawl, que ya tenemos.
+
+Tercero, puntúa cada lead con tu rubric. Siete sobre diez o más pasa. El resto se descarta.
+
+Cuarto, genera un email personalizado. No genérico. Un email que menciona algo específico de esa empresa. Que demuestra que alguien se tomó el tiempo de mirar su web, su competencia, su mercado.
+
+Quinto, lo envía. Y hace seguimiento.
+
+Y sexto, te reporta. Cada semana, un resumen de leads encontrados, emails enviados, respuestas recibidas, reuniones agendadas.
+
+Todo eso funcionando mientras tú duermes, mientras grabas un vídeo, mientras estás con un cliente.
+
+---
+
+Lo que necesitas para hacerlo realidad son tres cosas.
+
+Uno: estructurar tus insumos. Tu brand voice, tu ICP por nicho, tu oferta, tus casos de éxito. En archivos markdown que el agente pueda leer.
+
+Dos: conectar las herramientas. Firecrawl para investigar, un agente para calificar y escribir, y una plataforma de envío como Instantly para mandar los emails con precalentamiento.
+
+Tres: definir el engine. Un cron job o una rutina que ejecute el flujo completo de forma recurrente. Sin que tengas que estar presente.
+
+---
+
+Benja dice algo clave: si te falta la visión, vendes basura a escala. Si te faltan los insumos, el agente es genérico. Si te falta el cerebro, eres lento. Si te falta el engine, necesitas estar ahí siempre.
+
+Tú ya tienes la visión. Ya tienes el cerebro. Lo que hay que construir son los insumos y el engine.
+
+Y lo mejor: no necesitas empezar de cero. Ya tienes el vault con toda la investigación. Ya tienes los scripts de audit. Ya tienes la base de datos de prospects. Ya tienes el conocimiento de qué funciona y qué no.
+
+Solo falta conectar las piezas.
+
+---
+
+Mi recomendación: empecemos por estructurar los insumos. Crear los archivos de brand voice, ICP por nicho, oferta y casos de éxito. Eso es lo que va a hacer que los emails que envíes no parezcan spam, sino que parezcan escritos por alguien que entiende el negocio del lead.
+
+Después, conectar el engine. Un flujo automatizado que busque, investigue, puntúe, escriba y envíe. Con reporte semanal.
+
+Y mientras tanto, tú te enfocas en lo que mejor sabes hacer: grabar vídeos, crear contenido, cerrar clientes. Que para eso estás tú, no un agente.
+
+El futuro del marketing no es contratar más gente. Es una persona con visión clara y agentes que ejecutan. Tú ya eres esa persona. Solo falta que los agentes trabajen a tu ritmo.
+
+Vamos a ello.
